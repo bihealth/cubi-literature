@@ -26,6 +26,10 @@ doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.110
 # 2023
 
 
+Freitag K, Eede P, **Ivanov  A**, Sterczyk N, Schneeberger S, Borodina T, Sauer S, **Beule  D**, Heppner F (2023). “Diverse but unique astrocytic phenotypes
+during embryonic stem cell differentiation, culturing and development.” _Commun Biol_, *6*, 40. doi:10.1038/s42003-023-04410-3
+ [☞ Link](https://doi.org/10.1038/s42003-023-04410-3)
+
 Müller R, Freitag-Wolf S, **Weiner  J3**, Chopra A, Top T, Dommisch H, Schaefer A (2023). “Case-only design identifies interactions of genetic risk variants
 at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of periodontal wound healing for disease aetiology.” _J Clin Periodontol_,
 *50*, 90-101. doi:10.1111/jcpe.13712  [☞ Link](https://doi.org/10.1111/jcpe.13712)
@@ -33,6 +37,11 @@ at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of peri
 
 # 2022
 
+
+Jarick K, Topczewska P, Jakob M, Yano H, Arifuzzaman M, Gao X, Boulekou S, Stokic-Trtica V, Leclère P, Preußer A, Rompe Z, Stamm A, Tsou A, Chu C,
+Heinrich F, Guerra G, Durek P, **Ivanov  A**, **Beule  D**, Helfrich S, Duerr C, Kühl A, Stehle C, Romagnani C, Mashreghi M, Diefenbach A, Artis D, Klose C
+(2022). “Non-redundant functions of group 2 innate lymphoid cells.” _Nature_, *611*(7937), 794-800. doi:10.1038/s41586-022-05395-5
+ [☞ Link](https://doi.org/10.1038/s41586-022-05395-5)
 
 **Ivanov  A**, Mattei D, Radscheit K, Compagnion A, **Pett  J**, Herzel H, Paolicelli R, Piwecka M, Meyer U, **Beule  D** (2022). “Analyses of circRNA Expression
 throughout the Light-Dark Cycle Reveal a Strong Regulation of Cdr1as, Associated with Light Entrainment in the SCN.” _Int J Mol Sci_, *23*.
@@ -165,6 +174,10 @@ microcephaly and failure to thrive.” _J Med Genet_, *59*(7), 662-668. doi:10.1
 
 # 2021
 
+
+Schinke C, Fernandez VV, **Ivanov  A**, Peng Y, Körtvelyessy P, Nolte L, Huehnchen P, **Beule  D**, Stachelscheid H, Boehmerle W, Endres M (2021). “Dataset for:
+Modeling chemotherapy induced neurotoxicity with human induced pluripotent stem cell (iPSC)-derived sensory neurons.” _Data Brief_, *38*, 107320.
+doi:10.1016/j.dib.2021.107320  [☞ Link](https://doi.org/10.1016/j.dib.2021.107320)
 
 **Weiner  J**, Suwalski P, **Holtgrewe  M**, Rakitko A, Thibeault C, Müller M, Patriki D, Quedenau C, Krüger U, Ilinsky V, Popov I, Balnis J, Jaitovich A, Helbig
 E, Lippert L, Stubbemann P, Real L, Macías J, Pineda J, Fernandez-Fuertes M, Wang X, Karadeniz Z, Saccomanno J, Doehn J, Hübner R, Hinzmann B, Salvo M,
@@ -310,10 +323,6 @@ Akpa C, Kleo K, Oker E, Tomaszewski N, **Messerschmidt  C**, López C, Wagener R
 Capper D, Dimitrova L, Hummel M (2020). “Acquired resistance to DZNep-mediated apoptosis is associated with copy number gains of AHCY in a B-cell
 lymphoma model.” _BMC Cancer_, *20*, 427. doi:10.1186/s12885-020-06937-8  [☞ Link](https://doi.org/10.1186/s12885-020-06937-8)
 
-Foddis M, Winek K, **Bentele  K**, Mueller S, Blumenau S, Reichhart NN, Crespo-Garcia S, Harnett D, **Ivanov  A**, Meisel A, Joussen A, Strauss O, **Beule  D**,
-Dirnagl U, Sassi C (2020). “An exploratory investigation of brain collateral circulation plasticity after cerebral ischemia in two experimental C57BL/6
-mouse models.” _J Cereb Blood Flow Metab_, *40*, 276-287. doi:10.1177/0271678X19827251  [☞ Link](https://doi.org/10.1177/0271678X19827251)
-
 **Messerschmidt  C**, **Obermayer  B**, Klinghammer K, Ochsenreither S, Treue D, Stenzinger A, Glimm H, Fröhling S, Kindler T, Brandts C, Schulze-Osthoff K,
 Weichert W, Tinhofer I, Klauschen F, Keilholz U, **Beule  D**, Rieke D (2020). “Distinct immune evasion in APOBEC-enriched, HPV-negative HNSCC.” _Int J
 Cancer_, *147*, 2293-2302. doi:10.1002/ijc.33123  [☞ Link](https://doi.org/10.1002/ijc.33123)
@@ -443,11 +452,11 @@ Herda S, Heimann A, Althoff S, Ruß J, Bullinger L, **Beule  D**, **Obermayer  B
 Central Memory T Cells with Sustained Functional Properties for Adoptive T Cell Therapy.” _Blood_. doi:10.1182/blood-2019-124736
  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0006497118598608)
 
-van Heesch S, Witte F, Schneider-Lunitz V, Schulz J, Adami E, Faber A, Kirchner M, Maatz H, Blachut S, Sandmann C, Kanda M, Worth C, Schafer S,
-Calviello L, Merriott R, Patone G, Hummel O, Wyler E, **Obermayer  B**, Mücke M, Lindberg E, Trnka F, Memczak S, Schilling M, Felkin L, Barton P, Quaife N,
-Vanezis K, Diecke S, Mukai M, Mah N, Oh S, Kurtz A, Schramm C, Schwinge D, Sebode M, Harakalova M, Asselbergs F, Vink A, de WR, Viswanathan S, Widjaja
-A, Gärtner-Rommel A, Milting H, Dos RC, Knosalla C, Mertins P, Landthaler M, Vingron M, Linke W, Seidman J, Seidman C, Rajewsky N, Ohler U, Cook S,
-Hubner N (2019). “The Translational Landscape of the Human Heart.” _Cell_, *178*, 242-260.e29. doi:10.1016/j.cell.2019.05.010
+Heesch S, Witte F, Schneider-Lunitz V, Schulz J, Adami E, Faber A, Kirchner M, Maatz H, Blachut S, Sandmann C, Kanda M, Worth C, Schafer S, Calviello L,
+Merriott R, Patone G, Hummel O, Wyler E, **Obermayer  B**, Mücke M, Lindberg E, Trnka F, Memczak S, Schilling M, Felkin L, Barton P, Quaife N, Vanezis K,
+Diecke S, Mukai M, Mah N, Oh S, Kurtz A, Schramm C, Schwinge D, Sebode M, Harakalova M, Asselbergs F, Vink A, de WR, Viswanathan S, Widjaja A,
+Gärtner-Rommel A, Milting H, Dos RC, Knosalla C, Mertins P, Landthaler M, Vingron M, Linke W, Seidman J, Seidman C, Rajewsky N, Ohler U, Cook S, Hubner
+N (2019). “The Translational Landscape of the Human Heart.” _Cell_, *178*, 242-260.e29. doi:10.1016/j.cell.2019.05.010
  [☞ Link](https://doi.org/10.1016/j.cell.2019.05.010)
 
 

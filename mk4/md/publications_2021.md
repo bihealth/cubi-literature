@@ -1,3 +1,7 @@
+Schinke C, Fernandez VV, **Ivanov  A**, Peng Y, Körtvelyessy P, Nolte L, Huehnchen P, **Beule  D**, Stachelscheid H, Boehmerle W, Endres M (2021). “Dataset for:
+Modeling chemotherapy induced neurotoxicity with human induced pluripotent stem cell (iPSC)-derived sensory neurons.” _Data Brief_, *38*, 107320.
+doi:10.1016/j.dib.2021.107320  [☞ Link](https://doi.org/10.1016/j.dib.2021.107320)
+
 **Weiner  J**, Suwalski P, **Holtgrewe  M**, Rakitko A, Thibeault C, Müller M, Patriki D, Quedenau C, Krüger U, Ilinsky V, Popov I, Balnis J, Jaitovich A, Helbig
 E, Lippert L, Stubbemann P, Real L, Macías J, Pineda J, Fernandez-Fuertes M, Wang X, Karadeniz Z, Saccomanno J, Doehn J, Hübner R, Hinzmann B, Salvo M,
 Blueher A, Siemann S, Jurisic S, Beer J, Rutishauser J, Wiggli B, Schmid H, Danninger K, Binder R, Corman V, Mühlemann B, Arjun AR, Fragiadakis G, Mick

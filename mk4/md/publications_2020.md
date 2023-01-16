@@ -26,10 +26,6 @@ Akpa C, Kleo K, Oker E, Tomaszewski N, **Messerschmidt  C**, López C, Wagener R
 Capper D, Dimitrova L, Hummel M (2020). “Acquired resistance to DZNep-mediated apoptosis is associated with copy number gains of AHCY in a B-cell
 lymphoma model.” _BMC Cancer_, *20*, 427. doi:10.1186/s12885-020-06937-8  [☞ Link](https://doi.org/10.1186/s12885-020-06937-8)
 
-Foddis M, Winek K, **Bentele  K**, Mueller S, Blumenau S, Reichhart NN, Crespo-Garcia S, Harnett D, **Ivanov  A**, Meisel A, Joussen A, Strauss O, **Beule  D**,
-Dirnagl U, Sassi C (2020). “An exploratory investigation of brain collateral circulation plasticity after cerebral ischemia in two experimental C57BL/6
-mouse models.” _J Cereb Blood Flow Metab_, *40*, 276-287. doi:10.1177/0271678X19827251  [☞ Link](https://doi.org/10.1177/0271678X19827251)
-
 **Messerschmidt  C**, **Obermayer  B**, Klinghammer K, Ochsenreither S, Treue D, Stenzinger A, Glimm H, Fröhling S, Kindler T, Brandts C, Schulze-Osthoff K,
 Weichert W, Tinhofer I, Klauschen F, Keilholz U, **Beule  D**, Rieke D (2020). “Distinct immune evasion in APOBEC-enriched, HPV-negative HNSCC.” _Int J
 Cancer_, *147*, 2293-2302. doi:10.1002/ijc.33123  [☞ Link](https://doi.org/10.1002/ijc.33123)

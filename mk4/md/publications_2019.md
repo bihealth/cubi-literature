@@ -35,9 +35,9 @@ Herda S, Heimann A, Althoff S, Ruß J, Bullinger L, **Beule  D**, **Obermayer  B
 Central Memory T Cells with Sustained Functional Properties for Adoptive T Cell Therapy.” _Blood_. doi:10.1182/blood-2019-124736
  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0006497118598608)
 
-van Heesch S, Witte F, Schneider-Lunitz V, Schulz J, Adami E, Faber A, Kirchner M, Maatz H, Blachut S, Sandmann C, Kanda M, Worth C, Schafer S,
-Calviello L, Merriott R, Patone G, Hummel O, Wyler E, **Obermayer  B**, Mücke M, Lindberg E, Trnka F, Memczak S, Schilling M, Felkin L, Barton P, Quaife N,
-Vanezis K, Diecke S, Mukai M, Mah N, Oh S, Kurtz A, Schramm C, Schwinge D, Sebode M, Harakalova M, Asselbergs F, Vink A, de WR, Viswanathan S, Widjaja
-A, Gärtner-Rommel A, Milting H, Dos RC, Knosalla C, Mertins P, Landthaler M, Vingron M, Linke W, Seidman J, Seidman C, Rajewsky N, Ohler U, Cook S,
-Hubner N (2019). “The Translational Landscape of the Human Heart.” _Cell_, *178*, 242-260.e29. doi:10.1016/j.cell.2019.05.010
+Heesch S, Witte F, Schneider-Lunitz V, Schulz J, Adami E, Faber A, Kirchner M, Maatz H, Blachut S, Sandmann C, Kanda M, Worth C, Schafer S, Calviello L,
+Merriott R, Patone G, Hummel O, Wyler E, **Obermayer  B**, Mücke M, Lindberg E, Trnka F, Memczak S, Schilling M, Felkin L, Barton P, Quaife N, Vanezis K,
+Diecke S, Mukai M, Mah N, Oh S, Kurtz A, Schramm C, Schwinge D, Sebode M, Harakalova M, Asselbergs F, Vink A, de WR, Viswanathan S, Widjaja A,
+Gärtner-Rommel A, Milting H, Dos RC, Knosalla C, Mertins P, Landthaler M, Vingron M, Linke W, Seidman J, Seidman C, Rajewsky N, Ohler U, Cook S, Hubner
+N (2019). “The Translational Landscape of the Human Heart.” _Cell_, *178*, 242-260.e29. doi:10.1016/j.cell.2019.05.010
  [☞ Link](https://doi.org/10.1016/j.cell.2019.05.010)

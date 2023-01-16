@@ -1,3 +1,8 @@
+Jarick K, Topczewska P, Jakob M, Yano H, Arifuzzaman M, Gao X, Boulekou S, Stokic-Trtica V, Leclère P, Preußer A, Rompe Z, Stamm A, Tsou A, Chu C,
+Heinrich F, Guerra G, Durek P, **Ivanov  A**, **Beule  D**, Helfrich S, Duerr C, Kühl A, Stehle C, Romagnani C, Mashreghi M, Diefenbach A, Artis D, Klose C
+(2022). “Non-redundant functions of group 2 innate lymphoid cells.” _Nature_, *611*(7937), 794-800. doi:10.1038/s41586-022-05395-5
+ [☞ Link](https://doi.org/10.1038/s41586-022-05395-5)
+
 **Ivanov  A**, Mattei D, Radscheit K, Compagnion A, **Pett  J**, Herzel H, Paolicelli R, Piwecka M, Meyer U, **Beule  D** (2022). “Analyses of circRNA Expression
 throughout the Light-Dark Cycle Reveal a Strong Regulation of Cdr1as, Associated with Light Entrainment in the SCN.” _Int J Mol Sci_, *23*.
 doi:10.3390/ijms232012347  [☞ Link](https://doi.org/10.3390/ijms232012347)

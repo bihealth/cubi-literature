@@ -338,6 +338,10 @@ ask_ok <- function(prompt, default_yes=TRUE) {
 update_bib_entry_with_pubmed <- function(b, pubmed, pubmed_summaries) {
   stopifnot(!is.null(b$key))
 
+  if(!is.null(b$lock) && b$lock == "all") {
+    return(b)
+  }
+
   ## pmid set to NA means the record is not in pubmed (for sure)
   if(!is.null(b$pmid) && b$pmid == "NA") {
     return(b)
@@ -394,12 +398,19 @@ update_bib_entry_with_pubmed <- function(b, pubmed, pubmed_summaries) {
   empty <- c()
   #if(is.null(b$pmid)) { b$pmid <- ids }
 
-  if(!setequal(pmrec$author, b$author)) {
+  if(!is.null(b$lock)) {
+    lock <- unlist(strsplit(b$lock, " *, *"))
+  } else {
+    lock <- c()
+  }
+
+  if(!setequal(pmrec$author, b$author) && !("author" %in% lock)) {
     mods <- c(mods, "author")
   }
   
   upd_fields <- c("year", "journal", "fulljournalname", "volume", "issue", "pages", "title",
-                  "pmid", "url", "doi", "lastauthor")
+                  "pmid", "url", "doi", "lastauthor", "pmcitedin")
+  upd_fields <- setdiff(upd_fields, lock)
 
   class(b) <- class(pmrec) <- "list"
   for(f in upd_fields) {
