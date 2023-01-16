@@ -23,7 +23,7 @@ Kühnisch J, Herbst C, Al-Wakeel-Marquard N, Dartsch J, **Holtgrewe  M**, Baban 
 S, Messroghli D, Degener F, Berger F, Klaassen S (2019). “Targeted panel sequencing in pediatric primary cardiomyopathy supports a critical role of
 TNNI3.” _Clin Genet_, *96*, 549-559. doi:10.1111/cge.13645  [☞ Link](https://doi.org/10.1111/cge.13645)
 
-**Kuhring  M**, **Nieminen  M**, Kirwan J, **Beule  D**, **Holtgrewe  M** (2019). “AltamISA: A Python API for ISA-Tab Files.” _JOSS_. doi:10.21105/joss.01610
+**Kuhring  M**, **Nieminen  M**, Kirwan J, **Beule  D**, **Holtgrewe  M** (2019). “AltamISA: A Python API for ISA-Tab Files.” _JOSS_, *4*, 1610. doi:10.21105/joss.01610
 
 
 Lamping M, Rieke D, Klauschen F, Jöhrens K, Anagnostopoulos I, Lenze D, Tinhofer I, **Benary  M**, Ochsenreither S, Klinghammer K, Burock S, Jann H, Stüven
