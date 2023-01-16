@@ -1,0 +1,185 @@
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Next-generation diagnostics and disease-gene discovery with the Exomiser",
+    "author": "Smedley, Damian and Jacobsen, Julius OB and J{\\\"a}ger, Marten and K{\\\"o}hler, Sebastian and Holtgrewe, Manuel and Schubach, Max and Siragusa, Enrico and Zemojtel, Tomasz and Buske, Orion J and Washington, Nicole L and others",
+    "pub_year": "2015",
+    "venue": "Nature protocols",
+    "abstract": "Exomiser is an application that prioritizes genes and variants in next-generation sequencing (NGS) projects for novel disease-gene discovery or differential diagnostics of Mendelian disease. Exomiser comprises a suite of algorithms for prioritizing exome sequences using random-walk analysis of protein interaction networks, clinical relevance and cross-species phenotype comparisons, as well as a wide range of other computational filters for variant frequency, predicted pathogenicity and pedigree analysis. In this protocol, we provide a",
+    "publisher": "Nature Publishing Group",
+    "pages": "2004--2015",
+    "number": "12",
+    "volume": "10",
+    "journal": "Nature protocols",
+    "pub_type": "article",
+    "bib_id": "smedley2015next"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/nprot.2015.124/boxes/bx3",
+  "author_id": [
+    "WjVrcxYAAAAJ",
+    "",
+    "gcv8LpcAAAAJ",
+    "fqukiWoAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-9ki86-5qbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNext-Generation%2BDiagnostics%2Band%2BDisease-Gene%2BDiscovery%2Bwith%2Bthe%2BExomiser%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-9ki86-5qbgJ&ei=KsFqY8OtL-mSy9YP6cKPgA8&json=",
+  "num_citations": 251,
+  "citedby_url": "/scholar?cites=13306370739392403963&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:-9ki86-5qbgJ:scholar.google.com/&scioq=Next-Generation+Diagnostics+and+Disease-Gene+Discovery+with+the+Exomiser&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467691/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Next-generation diagnostics and disease-gene discovery with the Exomiser",
+    "author": "Smedley, Damian and Jacobsen, Julius OB and J{\\\"a}ger, Marten and K{\\\"o}hler, Sebastian and Holtgrewe, Manuel and Schubach, Max and Siragusa, Enrico and Zemojtel, Tomasz and Buske, Orion J and Washington, Nicole L and others",
+    "pub_year": "2015",
+    "venue": "Nature protocols",
+    "abstract": "Exomiser is an application that prioritizes genes and variants in next-generation sequencing (NGS) projects for novel disease-gene discovery or differential diagnostics of Mendelian disease. Exomiser comprises a suite of algorithms for prioritizing exome sequences using random-walk analysis of protein interaction networks, clinical relevance and cross-species phenotype comparisons, as well as a wide range of other computational filters for variant frequency, predicted pathogenicity and pedigree analysis. In this protocol, we provide a",
+    "publisher": "Nature Publishing Group",
+    "pages": "2004--2015",
+    "number": "12",
+    "volume": "10",
+    "journal": "Nature protocols",
+    "pub_type": "article",
+    "bib_id": "smedley2015next"
+  },
+  "filled": true,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/nprot.2015.124/boxes/bx3",
+  "author_id": [
+    "WjVrcxYAAAAJ",
+    "",
+    "gcv8LpcAAAAJ",
+    "fqukiWoAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-9ki86-5qbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNext-Generation%2BDiagnostics%2Band%2BDisease-Gene%2BDiscovery%2Bwith%2Bthe%2BExomiser%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-9ki86-5qbgJ&ei=UMFqY_v3IqmXy9YP0LCEwAk&json=",
+  "num_citations": 251,
+  "citedby_url": "/scholar?cites=13306370739392403963&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:-9ki86-5qbgJ:scholar.google.com/&scioq=Next-Generation+Diagnostics+and+Disease-Gene+Discovery+with+the+Exomiser&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467691/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Next-generation diagnostics and disease-gene discovery with the Exomiser",
+    "author": [
+      "D Smedley",
+      "JOB Jacobsen",
+      "M J\u00e4ger",
+      "S K\u00f6hler"
+    ],
+    "pub_year": "2015",
+    "venue": "Nature protocols",
+    "abstract": "Exomiser is an application that prioritizes genes and variants in next-generation sequencing (NGS) projects for novel disease-gene discovery or differential diagnostics of Mendelian disease. Exomiser comprises a suite of algorithms for prioritizing exome sequences using random-walk analysis of protein interaction networks, clinical relevance and cross-species phenotype comparisons, as well as a wide range of other computational filters for variant frequency, predicted pathogenicity and pedigree analysis. In this protocol, we provide a"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/nprot.2015.124/boxes/bx3",
+  "author_id": [
+    "WjVrcxYAAAAJ",
+    "",
+    "gcv8LpcAAAAJ",
+    "fqukiWoAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-9ki86-5qbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNext-Generation%2BDiagnostics%2Band%2BDisease-Gene%2BDiscovery%2Bwith%2Bthe%2BExomiser%26hl%3Den%26as_sdt%3D0,5&citilm=1&update_op=library_add&info=-9ki86-5qbgJ&ei=bDtrY9GVLvGSy9YPuJW9yAw&json=",
+  "num_citations": 251,
+  "citedby_url": "/scholar?cites=13306370739392403963&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-9ki86-5qbgJ:scholar.google.com/&scioq=Next-Generation+Diagnostics+and+Disease-Gene+Discovery+with+the+Exomiser&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467691/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Next-generation diagnostics and disease-gene discovery with the Exomiser",
+    "author": [
+      "D Smedley",
+      "JOB Jacobsen",
+      "M J\u00e4ger",
+      "S K\u00f6hler"
+    ],
+    "pub_year": "2015",
+    "venue": "Nature protocols",
+    "abstract": "Exomiser is an application that prioritizes genes and variants in next-generation sequencing (NGS) projects for novel disease-gene discovery or differential diagnostics of Mendelian disease. Exomiser comprises a suite of algorithms for prioritizing exome sequences using random-walk analysis of protein interaction networks, clinical relevance and cross-species phenotype comparisons, as well as a wide range of other computational filters for variant frequency, predicted pathogenicity and pedigree analysis. In this protocol, we provide a"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/nprot.2015.124/boxes/bx3",
+  "author_id": [
+    "WjVrcxYAAAAJ",
+    "",
+    "gcv8LpcAAAAJ",
+    "fqukiWoAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-9ki86-5qbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNext-Generation%2BDiagnostics%2Band%2BDisease-Gene%2BDiscovery%2Bwith%2Bthe%2BExomiser%26hl%3Den%26as_sdt%3D0,5&citilm=1&update_op=library_add&info=-9ki86-5qbgJ&ei=cDtrY6OWE4qUy9YPpfGH-Ak&json=",
+  "num_citations": 251,
+  "citedby_url": "/scholar?cites=13306370739392403963&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-9ki86-5qbgJ:scholar.google.com/&scioq=Next-Generation+Diagnostics+and+Disease-Gene+Discovery+with+the+Exomiser&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467691/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Next-generation diagnostics and disease-gene discovery with the Exomiser",
+    "author": [
+      "D Smedley",
+      "JOB Jacobsen",
+      "M J\u00e4ger",
+      "S K\u00f6hler"
+    ],
+    "pub_year": "2015",
+    "venue": "Nature protocols",
+    "abstract": "Exomiser is an application that prioritizes genes and variants in next-generation sequencing (NGS) projects for novel disease-gene discovery or differential diagnostics of Mendelian disease. Exomiser comprises a suite of algorithms for prioritizing exome sequences using random-walk analysis of protein interaction networks, clinical relevance and cross-species phenotype comparisons, as well as a wide range of other computational filters for variant frequency, predicted pathogenicity and pedigree analysis. In this protocol, we provide a"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/nprot.2015.124/boxes/bx3",
+  "author_id": [
+    "WjVrcxYAAAAJ",
+    "",
+    "gcv8LpcAAAAJ",
+    "fqukiWoAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-9ki86-5qbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNext-Generation%2BDiagnostics%2Band%2BDisease-Gene%2BDiscovery%2Bwith%2Bthe%2BExomiser%26hl%3Den%26as_sdt%3D0,5&citilm=1&update_op=library_add&info=-9ki86-5qbgJ&ei=dDtrY473KOmSy9YP3fCCsAw&json=",
+  "num_citations": 251,
+  "citedby_url": "/scholar?cites=13306370739392403963&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-9ki86-5qbgJ:scholar.google.com/&scioq=Next-Generation+Diagnostics+and+Disease-Gene+Discovery+with+the+Exomiser&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467691/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Next-generation diagnostics and disease-gene discovery with the Exomiser",
+    "author": [
+      "D Smedley",
+      "JOB Jacobsen",
+      "M J\u00e4ger",
+      "S K\u00f6hler"
+    ],
+    "pub_year": "2015",
+    "venue": "Nature protocols",
+    "abstract": "Exomiser is an application that prioritizes genes and variants in next-generation sequencing (NGS) projects for novel disease-gene discovery or differential diagnostics of Mendelian disease. Exomiser comprises a suite of algorithms for prioritizing exome sequences using random-walk analysis of protein interaction networks, clinical relevance and cross-species phenotype comparisons, as well as a wide range of other computational filters for variant frequency, predicted pathogenicity and pedigree analysis. In this protocol, we provide a"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/nprot.2015.124/boxes/bx3",
+  "author_id": [
+    "WjVrcxYAAAAJ",
+    "",
+    "gcv8LpcAAAAJ",
+    "fqukiWoAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-9ki86-5qbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNext-Generation%2BDiagnostics%2Band%2BDisease-Gene%2BDiscovery%2Bwith%2Bthe%2BExomiser%26hl%3Den%26as_sdt%3D0,5&citilm=1&update_op=library_add&info=-9ki86-5qbgJ&ei=eztrY8_tCsCVy9YPz9aN4A4&json=",
+  "num_citations": 251,
+  "citedby_url": "/scholar?cites=13306370739392403963&as_sdt=2005&sciodt=0,5&hl=en",
+  "url_related_articles": "/scholar?q=related:-9ki86-5qbgJ:scholar.google.com/&scioq=Next-Generation+Diagnostics+and+Disease-Gene+Discovery+with+the+Exomiser&hl=en&as_sdt=0,5",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5467691/"
+}

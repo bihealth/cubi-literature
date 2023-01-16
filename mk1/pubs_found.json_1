@@ -1,0 +1,1271 @@
+{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "SODAR: enabling, modeling, and managing multi-omics integration studies",
+    "author": [
+      "M Nieminen",
+      "O Stolpe",
+      "M Kuhring",
+      "J Weiner",
+      "P Pett"
+    ],
+    "pub_year": "2022",
+    "venue": "bioRxiv",
+    "abstract": "Scientists employing omics in life science studies face challenges such as the modeling of multi assay studies, recording of all relevant parameters, and managing many samples with their metadata. Further, they must manage many large files that are the results of the assays or subsequent computation. Scientists from diverse backgrounds also have different demands for interfacing with the data, ranging from computational users that need programmatic or command line access whereas non-computational users need graphical"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.biorxiv.org/content/10.1101/2022.08.19.504516.abstract",
+  "author_id": [
+    "",
+    "",
+    "ySMVKBUAAAAJ",
+    "ZBTVoPcAAAAJ",
+    "LF9IRRQAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:9PIF1gNk4XQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSODAR:%2Benabling,%2Bmodeling,%2Band%2Bmanaging%2Bmulti-omics%2Bintegration%2Bstudies.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9PIF1gNk4XQJ&ei=9LBrY8nqEcCVy9YPz9aN4A4&json=",
+  "num_citations": 0,
+  "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2022/08/22/2022.08.19.504516.full.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Analyses of circRNA expression throughout circadian rhythm reveal a strong link between Cdr1as and light-induced phase shifts in the SCN",
+    "author": [
+      "A Ivanov",
+      "D Mattei",
+      "K Radscheit",
+      "AC Compagnion"
+    ],
+    "pub_year": "2022",
+    "venue": "bioRxiv",
+    "abstract": "Cdr1as is a conserved circular RNA (circRNA) enriched in the CNS and important for maintaining brain homeostasis. The loss of Cdr1as results in aberrant synaptic transmission and deregulation of stress response and circadian clock genes. However, it is not known whether the expression of Cdr1as or circRNAs, in general, follows a circadian pattern in different tissues. Here, using newly generated and public RNA-Seq data, we monitor circRNA expression throughout circadian rhythm in various mouse brain regions. We"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.biorxiv.org/content/10.1101/2022.05.18.492346.abstract",
+  "author_id": [
+    "ndeOOhQAAAAJ",
+    "vLxIvW4AAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:TPdzPHRduI8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalyses%2Bof%2BcircRNA%2Bexpression%2Bthroughout%2Bcircadian%2Brhythm%2Breveal%2Ba%2Bstrong%2Blink%2Bbetween%2BCdr1as%2Band%2Blight-induced%2Bphase%2Bshifts%2Bin%2Bthe%2BSCN%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TPdzPHRduI8J&ei=-rBrY8PfMoKEmgHQ_KqoBA&json=",
+  "num_citations": 0,
+  "url_related_articles": "/scholar?q=related:TPdzPHRduI8J:scholar.google.com/&scioq=Analyses+of+circRNA+expression+throughout+circadian+rhythm+reveal+a+strong+link+between+Cdr1as+and+light-induced+phase+shifts+in+the+SCN&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/18/2022.05.18.492346.full.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Preclinical models of human multiple myeloma subgroups",
+    "author": [
+      "W Winkler",
+      "CF D\u00edaz",
+      "E Blanc",
+      "H Napieczynska"
+    ],
+    "pub_year": "2021",
+    "venue": "bioRxiv",
+    "abstract": "Multiple myeloma (MM), a tumor of germinal center (GC)-experienced plasma cells, comprises distinct genetic subgroups, such as the t (11; 14)/CCND1 and the t (4; 14)/MMSET subtype. We have generated subgroup-specific MM models by the GC B cell-specific co-activation of Ccnd1 or MMSET with a constitutively active Ikk2 mutant, mimicking the secondary NF\u03baB activation frequently seen in human MM. Ccnd1/Ikk2ca and MMSET/Ikk2ca mice developed a pronounced, clonally restricted plasma cell outgrowth with age"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.biorxiv.org/content/10.1101/2021.08.28.458010.abstract",
+  "author_id": [
+    "sFKHODAAAAAJ",
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:dL3_xZ4bQP0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPreclinical%2Bmodels%2Bof%2Bhuman%2Bmultiple%2Bmyeloma%2Bsubgroups%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dL3_xZ4bQP0J&ei=_7BrY9TmFOmSy9YP3fCCsAw&json=",
+  "num_citations": 0,
+  "url_related_articles": "/scholar?q=related:dL3_xZ4bQP0J:scholar.google.com/&scioq=Preclinical+models+of+human+multiple+myeloma+subgroups&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/28/2021.08.28.458010.full.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "EXTRACELLULAR MATRIX REMODELING IN ATOPIC DERMATITIS HARNESSES THE ONSET OF AN ASTHMATIC PHENOTYPE AND IS A POTENTIAL \u2026",
+    "author": [
+      "P Graff",
+      "J Wolzopolski",
+      "A Voss",
+      "TM Blimkie",
+      "J Weiner"
+    ],
+    "pub_year": "2022",
+    "venue": "medRxiv",
+    "abstract": "The development of atopic dermatitis (AD) in infancy, and subsequent allergic rhinitis, food allergies, and asthma in later childhood, is known as the atopic march. The mechanism is largely unknown, yet the course of disease indicates the contribution of inter-epithelial crosstalk, through to the onset of inflammation in the skin and progression to another mucosal epithelium. Here, we investigated if and how skin-lung epithelial crosstalk could contribute to the development of the atopic march. First, we emulated this inter-epithelial"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.medrxiv.org/content/10.1101/2022.01.17.22269397.abstract",
+  "author_id": [
+    "",
+    "",
+    "",
+    "2aj-g9YAAAAJ",
+    "ZBTVoPcAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:3ethGd69SGMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEXTRACELLULAR%2BMATRIX%2BREMODELING%2BIN%2BATOPIC%2BDERMATITIS%2BHARNESSES%2BTHE%2BONSET%2BOF%2BAN%2BASTHMATIC%2BPHENOTYPE%2BAND%2BIS%2BA%2BPOTENTIAL%2BCONTRIBUTOR%2BTO%2BTHE%2BATOPIC%2BMARCH.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3ethGd69SGMJ&ei=BbFrY-r7NY70mgHHhLaABg&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=7154176769684270045&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:3ethGd69SGMJ:scholar.google.com/&scioq=EXTRACELLULAR+MATRIX+REMODELING+IN+ATOPIC+DERMATITIS+HARNESSES+THE+ONSET+OF+AN+ASTHMATIC+PHENOTYPE+AND+IS+A+POTENTIAL+CONTRIBUTOR+TO+THE+ATOPIC+MARCH.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.medrxiv.org/content/10.1101/2022.01.17.22269397.full.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Transcriptomic responses of the human kidney to acute injury at single cell resolution",
+    "author": [
+      "C Hinze",
+      "C Kocks",
+      "J Leiz",
+      "N Karaiskos",
+      "A Boltengagen"
+    ],
+    "pub_year": "2021",
+    "venue": "bioRxiv",
+    "abstract": "Background: Acute kidney injury (AKI) occurs frequently in critically ill patients and is associated with adverse outcomes. Cellular mechanisms underlying AKI and kidney cell responses to injury remain incompletely understood. Methods: We performed single-nuclei transcriptomics, bulk transcriptomics, molecular imaging studies, and conventional histology on kidney tissues from 8 individuals with severe AKI (stage 2 or 3 according to Kidney Disease: Improving Global Outcomes (KDIGO) criteria). Specimens were obtained within 1-2"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.biorxiv.org/content/10.1101/2021.12.15.472619.abstract",
+  "author_id": [
+    "",
+    "",
+    "XKY4ctoAAAAJ",
+    "6HTibvMAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:qhBLaXpXMvwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTranscriptomic%2Bresponses%2Bof%2Bthe%2Bhuman%2Bkidney%2Bto%2Bacute%2Binjury%2Bat%2Bsingle%2Bcell%2Bresolution%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qhBLaXpXMvwJ&ei=CbFrY7LbOc-Ty9YPuJaWoAE&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=18172683629657526442&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:qhBLaXpXMvwJ:scholar.google.com/&scioq=Transcriptomic+responses+of+the+human+kidney+to+acute+injury+at+single+cell+resolution&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.biorxiv.org/content/10.1101/2021.12.15.472619.full.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "A kinetic error filtering mechanism for enzyme-free copying of nucleic acid sequences",
+    "author": [
+      "T G\u00f6ppel",
+      "B Obermayer",
+      "IA Chen",
+      "U Gerland"
+    ],
+    "pub_year": "2021",
+    "venue": "bioRxiv",
+    "abstract": "Accurate copying of nucleic acid sequences is essential for self-replicating systems. Modern cells achieve error ratios as low as 10-9 with sophisticated enzymes capable of kinetic proofreading. In contrast, experiments probing enzyme-free copying of RNA and DNA as potential prebiotic replication processes find error ratios on the order of 10%. Given this low intrinsic copying fidelity, plausible scenarios for the spontaneous emergence of molecular evolution require an accuracy-enhancing mechanism. Here, we study a 9kinetic error"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.biorxiv.org/content/10.1101/2021.08.06.455386.abstract",
+  "author_id": [
+    "",
+    "yZC3KXMAAAAJ",
+    "Hi-NqREAAAAJ",
+    "GaFC-bIAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:_u8Ch5S_RE8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bkinetic%2Berror%2Bfiltering%2Bmechanism%2Bfor%2Benzyme-free%2Bcopying%2Bof%2Bnucleic%2Bacid%2Bsequences.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_u8Ch5S_RE8J&ei=DbFrY6yxMYqUy9YPpfGH-Ak&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=5711900872053813246&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:_u8Ch5S_RE8J:scholar.google.com/&scioq=A+kinetic+error+filtering+mechanism+for+enzyme-free+copying+of+nucleic+acid+sequences.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/07/2021.08.06.455386.full.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "EBAG9 silencing exerts an immune checkpoint function without aggravating adverse effects",
+    "author": [
+      "A Wirges",
+      "M Bunse",
+      "JJ Joedicke",
+      "E Blanc",
+      "V Gudipati"
+    ],
+    "pub_year": "2022",
+    "venue": "Molecular Therapy",
+    "abstract": "Chimeric antigen receptor (CAR) T cells have revolutionized treatment of B cell malignancies. However, enhancing the efficacy of engineered T cells without compromising their safety is warranted. The estrogen receptor-binding fragment-associated antigen 9 (EBAG9) inhibits release of cytolytic enzymes from cytotoxic T lymphocytes. Here, we examined the potency of EBAG9 silencing for the improvement of adoptive T cell therapy. MicroRNA (miRNA)-mediated EBAG9 downregulation in transplanted cytolytic CD8+ T cells"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1525001622004300",
+  "author_id": [
+    "",
+    "",
+    "",
+    "",
+    "0jAWQEsAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:RmukE9gLaZYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEBAG9%2Bsilencing%2Bexerts%2Ban%2Bimmune%2Bcheckpoint%2Bfunction%2Bwithout%2Baggravating%2Badverse%2Beffects.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RmukE9gLaZYJ&ei=EbFrY4GrC6mXy9YP7IOG0AQ&json=",
+  "num_citations": 0,
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1525001622004300"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Case\u2010only design identifies interactions of genetic risk variants at SIGLEC5 and PLG with the lncRNA CTD\u20102353F22.1 implying the importance of periodontal wound \u2026",
+    "author": [
+      "R M\u00fcller",
+      "S Freitag\u2010Wolf"
+    ],
+    "pub_year": "2022",
+    "venue": "Journal of Clinical \u2026",
+    "abstract": "Aim The basis of phenotypic variation of periodontitis is genetic variability. Disease relevant effects of individual risk alleles are considered to result from genetic interactions. We investigated gene\u00d7 gene (G\u00d7 G) interactions of suggestive periodontitis susceptibility alleles. Materials and Methods We used the case\u2010only design and investigated single\u2010nucleotide polymorphism (SNPs) that showed associations in our recent genome\u2010wide association study (GWAS) and GWAS meta\u2010analysis with p< 5\u00d7 10\u2212 6. CRISPR\u2010dCas9 gene activation"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jcpe.13712",
+  "author_id": [
+    "",
+    "lq99GBEAAAAJ",
+    "ZBTVoPcAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:NcMwGPiusokJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCase%25E2%2580%2590only%2Bdesign%2Bidentifies%2Binteractions%2Bof%2Bgenetic%2Brisk%2Bvariants%2Bat%2BSIGLEC5%2Band%2BPLG%2Bwith%2Bthe%2BlncRNA%2BCTD%25E2%2580%25902353F22.%2B1%2Bimplying%2Bimportance%2Bof%2Bperiodontal%2Bwound%2Bhealing%2Bfor%2Bdisease%2Betiology%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NcMwGPiusokJ&ei=F7FrY66aNs-Ty9YPuJaWoAE&json=",
+  "num_citations": 0,
+  "eprint_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jcpe.13712"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Human lungs show limited permissiveness for SARS-CoV-2 due to scarce ACE2 levels but virus-induced expansion of inflammatory macrophages",
+    "author": [
+      "K H\u00f6nzke",
+      "B Obermayer",
+      "C Mache"
+    ],
+    "pub_year": "2022",
+    "venue": "European \u2026",
+    "abstract": "Background SARS-CoV-2 utilizes the ACE2 transmembrane peptidase as cellular entry receptor. However, whether SARS-CoV-2 in the alveolar compartment is strictly ACE2-dependent and to what extent virus-induced tissue damage and/or direct immune activation determines early pathogenesis is still elusive. Methods Spectral microscopy, single-cell/-nucleus RNA sequencing or ACE2 'gain-of-function'experiments were applied on infected human lung explants and adult stem cell-derived human lung organoids to correlate ACE2"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://erj.ersjournals.com/content/early/2022/05/26/13993003.02725-2021.abstract",
+  "author_id": [
+    "",
+    "yZC3KXMAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:q7j6_xRRXwQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHuman%2Blungs%2Bshow%2Blimited%2Bpermissiveness%2Bfor%2BSARS-CoV-2%2Bdue%2Bto%2Bscarce%2BACE2%2Blevels%2Bbut%2Bvirus-induced%2Bexpansion%2Bof%2Binflammatory%2Bmacrophages.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=q7j6_xRRXwQJ&ei=G7FrY8ijGamXy9YP7IOG0AQ&json=",
+  "num_citations": 2,
+  "citedby_url": "/scholar?cites=315059649575041195&as_sdt=5,33&sciodt=0,33&hl=en",
+  "eprint_url": "https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1902346"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Spermidine reduces neuroinflammation and soluble amyloid beta in an Alzheimer's disease mouse model",
+    "author": [
+      "K Freitag",
+      "N Sterczyk"
+    ],
+    "pub_year": "2022",
+    "venue": "Journal of \u2026",
+    "abstract": "Deposition of amyloid beta (A\u03b2) and hyperphosphorylated tau along with glial cell-mediated neuroinflammation are prominent pathogenic hallmarks of Alzheimer's disease (AD). In recent years, impairment of autophagy has been identified as another important feature contributing to AD progression. Therefore, the potential of the autophagy activator spermidine, a small body-endogenous polyamine often used as dietary supplement, was assessed on A\u03b2 pathology and glial cell-mediated neuroinflammation. Oral treatment of the"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02534-7",
+  "author_id": [
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:edZj4Vdy01QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpermidine%2Breduces%2Bneuroinflammation%2Band%2Bsoluble%2Bamyloid%2Bbeta%2Bin%2Ban%2BAlzheimer%2527s%2Bdisease%2Bmouse%2Bmodel.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=edZj4Vdy01QJ&ei=ILFrY4LyBsCVy9YPz9aN4A4&json=",
+  "num_citations": 3,
+  "citedby_url": "/scholar?cites=6112354841041032825&as_sdt=5,33&sciodt=0,33&hl=en",
+  "eprint_url": "https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-022-02534-7"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Adolescence is a sensitive period for prefrontal microglia to act on cognitive development",
+    "author": [
+      "SM Schalbetter",
+      "AS von Arx",
+      "N Cruz-Ochoa"
+    ],
+    "pub_year": "2022",
+    "venue": "Science \u2026",
+    "abstract": "The prefrontal cortex (PFC) is a cortical brain region that regulates various cognitive functions. One distinctive feature of the PFC is its protracted adolescent maturation, which is necessary for acquiring mature cognitive abilities in adulthood. Here, we show that microglia, the brain's resident immune cells, contribute to this maturational process. We find that transient and cell-specific deficiency of prefrontal microglia in adolescence is sufficient to induce an adult emergence of PFC-associated impairments in cognitive functions"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.science.org/doi/abs/10.1126/sciadv.abi6672",
+  "author_id": [
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:EIj5N6SGzNcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdolescence%2Bis%2Ba%2Bsensitive%2Bperiod%2Bfor%2Bprefrontal%2Bmicroglia%2Bto%2Bact%2Bon%2Bcognitive%2Bdevelopment.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EIj5N6SGzNcJ&ei=I7FrY96dJIKEmgHQ_KqoBA&json=",
+  "num_citations": 9,
+  "citedby_url": "/scholar?cites=15549951653275338768&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:EIj5N6SGzNcJ:scholar.google.com/&scioq=Adolescence+is+a+sensitive+period+for+prefrontal+microglia+to+act+on+cognitive+development.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.science.org/doi/pdf/10.1126/sciadv.abi6672"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Isolation of neoantigen-specific human T cell receptors from different human and murine repertoires",
+    "author": [
+      "C Grunert",
+      "G Willimsky",
+      "CA Peuker",
+      "S Rhein"
+    ],
+    "pub_year": "2022",
+    "venue": "Cancers",
+    "abstract": "Simple Summary T cell-based immunotherapy has achieved remarkable clinical responses in patients with cancer. Neoepitope-specific T cells can specifically recognize mutated tumor cells and have led to tumor regression in mouse models and clinical studies. However, isolating neoepitope-specific T cell receptors (TCRs) from the patients' own repertoire has shown limited success. Sourcing T cell repertoires, other than the patients' own, has certain advantages: the availability of larger amounts of blood from healthy donors, circumventing"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.mdpi.com/1575570",
+  "author_id": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:5sJJFtnO1TkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIsolation%2Bof%2BNeoantigen-Specific%2BHuman%2BT%2BCell%2BReceptors%2Bfrom%2BDifferent%2BHuman%2Band%2BMurine%2BRepertoires.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5sJJFtnO1TkJ&ei=KrFrY8X7MqmXy9YP7IOG0AQ&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=4167464461978419942&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:5sJJFtnO1TkJ:scholar.google.com/&scioq=Isolation+of+Neoantigen-Specific+Human+T+Cell+Receptors+from+Different+Human+and+Murine+Repertoires.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.mdpi.com/2072-6694/14/7/1842/htm"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Highly multiplexed immune repertoire sequencing links multiple lymphocyte classes with severity of response to COVID-19",
+    "author": [
+      "D Richard",
+      "S Phillip",
+      "A Hosseinali",
+      "L Hai"
+    ],
+    "pub_year": "2022",
+    "venue": "EClinicalMedicine",
+    "abstract": "Background Disease progression of subjects with coronavirus disease 2019 (COVID-19) varies dramatically. Understanding the various types of immune response to SARS-CoV-2 is critical for better clinical management of coronavirus outbreaks and to potentially improve future therapies. Disease dynamics can be characterized by deciphering the adaptive immune response. Methods In this cross-sectional study we analyzed 117 peripheral blood immune repertoires from healthy controls and subjects with mild to severe COVID-19"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S2589537022001687",
+  "author_id": [
+    "",
+    "-XzcScwAAAAJ",
+    "0b7DDJcAAAAJ",
+    "Kza75V4AAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:1O_eN8DCOuIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHighly%2Bmultiplexed%2Bimmune%2Brepertoire%2Bsequencing%2Blinks%2Bmultiple%2Blymphocyte%2Bclasses%2Bwith%2Bseverity%2Bof%2Bresponse%2Bto%2BCOVID-19.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1O_eN8DCOuIJ&ei=LrFrY7TkEvGSy9YPuJW9yAw&json=",
+  "num_citations": 3,
+  "citedby_url": "/scholar?cites=16301555932047798228&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:1O_eN8DCOuIJ:scholar.google.com/&scioq=Highly+multiplexed+immune+repertoire+sequencing+links+multiple+lymphocyte+classes+with+severity+of+response+to+COVID-19.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2589537022001687"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): Joint recommendations of Clinical Genome Resource (ClinGen), Cancer \u2026",
+    "author": [
+      "P Horak",
+      "M Griffith",
+      "AM Danos",
+      "BA Pitel",
+      "S Madhavan"
+    ],
+    "pub_year": "2022",
+    "venue": "Genetics in \u2026",
+    "abstract": "Purpose Several professional societies have published guidelines for the clinical interpretation of somatic variants, which specifically address diagnostic, prognostic, and therapeutic implications. Although these guidelines for the clinical interpretation of variants include data types that may be used to determine the oncogenicity of a variant (eg, population frequency, functional, and in silico data or somatic frequency), they do not provide a direct, systematic, and comprehensive set of standards and rules to classify the"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1098360022000016",
+  "author_id": [
+    "",
+    "fcIQQ3oAAAAJ",
+    "",
+    "",
+    "5X_StZ8AAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:ughtiPxNn6MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStandards%2Bfor%2Bthe%2Bclassification%2Bof%2Bpathogenicity%2Bof%2Bsomatic%2Bvariants%2Bin%2Bcancer%2B(oncogenicity):%2BJoint%2Brecommendations%2Bof%2BClinical%2BGenome%2BResource%2B(ClinGen),%2BCancer%2BGenomics%2BConsortium%2B(CGC),%2Band%2BVariant%2BInterpretation%2Bfor%2BCancer%2BConsortium%2B(VICC)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ughtiPxNn6MJ&ei=NLFrY9acDoOTy9YPjuGZmAM&json=",
+  "num_citations": 12,
+  "citedby_url": "/scholar?cites=11790228096495192250&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:ughtiPxNn6MJ:scholar.google.com/&scioq=Standards+for+the+classification+of+pathogenicity+of+somatic+variants+in+cancer+(oncogenicity):+Joint+recommendations+of+Clinical+Genome+Resource+(ClinGen),+Cancer+Genomics+Consortium+(CGC),+and+Variant+Interpretation+for+Cancer+Consortium+(VICC)&hl=en&as_sdt=0,33",
+  "eprint_url": "https://profiles.wustl.edu/en/publications/standards-for-the-classification-of-pathogenicity-of-somatic-vari"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Increased risk of severe clinical course of COVID-19 in carriers of HLA-C* 04: 01",
+    "author": [
+      "P Suwalski",
+      "M Holtgrewe",
+      "A Rakitko"
+    ],
+    "pub_year": "2021",
+    "venue": "EClinicalMedicine",
+    "abstract": "Background Since the beginning of the coronavirus disease 2019 (COVID-19) pandemic, there has been increasing urgency to identify pathophysiological characteristics leading to severe clinical course in patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Human leukocyte antigen alleles (HLA) have been suggested as potential genetic host factors that affect individual immune response to SARS-CoV-2. We sought to evaluate this hypothesis by conducting a multicenter study using HLA sequencing"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S2589537021003795",
+  "author_id": [
+    "ZBTVoPcAAAAJ",
+    "-XzcScwAAAAJ",
+    "ej7e0LAAAAAJ",
+    "8oRefpIAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:7d8NT5M9I80J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIncreased%2Brisk%2Bof%2Bsevere%2Bclinical%2Bcourse%2Bof%2BCOVID-19%2Bin%2Bcarriers%2Bof%2BHLA-C%2B04:01.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7d8NT5M9I80J&ei=N7FrY-jSIcCVy9YPz9aN4A4&json=",
+  "num_citations": 35,
+  "citedby_url": "/scholar?cites=14781726104855896045&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:7d8NT5M9I80J:scholar.google.com/&scioq=Increased+risk+of+severe+clinical+course+of+COVID-19+in+carriers+of+HLA-C+04:01.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2589537021003795"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Venn diagrams may indicate erroneous statistical reasoning in transcriptomics",
+    "author": [
+      "B Obermayer",
+      "D Beule"
+    ],
+    "pub_year": "2022",
+    "venue": "Frontiers in Genetics",
+    "abstract": "A common application of differential expression analysis is finding genes that are differentially expressed upon treatment in only one out of several groups of samples. One of the approaches is to test for significant difference in expression between treatment and control separately in the two groups, and then select genes that show statistical significance in one group only. This approach is then often combined with a gene set enrichment analysis to find pathways and gene sets regulated by treatment in only this group. Here we"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9046926/",
+  "author_id": [
+    "ZBTVoPcAAAAJ",
+    "yZC3KXMAAAAJ",
+    "fEz9rjMAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:wMQGiPB7eHEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVenn%2Bdiagrams%2Bmay%2Bindicate%2Berroneous%2Bstatistical%2Breasoning%2Bin%2Btranscriptomics.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wMQGiPB7eHEJ&ei=PbFrY5vGGYKEmgHQ_KqoBA&json=",
+  "num_citations": 0,
+  "url_related_articles": "/scholar?q=related:wMQGiPB7eHEJ:scholar.google.com/&scioq=Venn+diagrams+may+indicate+erroneous+statistical+reasoning+in+transcriptomics.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9046926/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Gene Set Enrichment Analysis Reveals Individual Variability in Host Responses in Tuberculosis Patients",
+    "author": [
+      "T Domaszewska",
+      "J Zyla",
+      "R Otto"
+    ],
+    "pub_year": "2021",
+    "venue": "Frontiers in \u2026",
+    "abstract": "Group-aggregated responses to tuberculosis (TB) have been well characterized on a molecular level. However, human beings differ and individual responses to infection vary. We have combined a novel approach to individual gene set analysis (GSA) with the clustering of transcriptomic profiles of TB patients from seven datasets in order to identify individual molecular endotypes of transcriptomic responses to TB. We found that TB patients differ with respect to the intensity of their hallmark interferon (IFN) responses, but they also"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2021.694680/full",
+  "author_id": [
+    "",
+    "4LhiH8gAAAAJ",
+    "1-fd0-8AAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:hvr91WLs9RoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGene%2BSet%2BEnrichment%2BAnalysis%2BReveals%2BIndividual%2BVariability%2Bin%2BHost%2BResponses%2Bin%2BTuberculosis%2BPatients.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hvr91WLs9RoJ&ei=QLFrY6eBMc-Ty9YPuJaWoAE&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=1942718723521378950&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:hvr91WLs9RoJ:scholar.google.com/&scioq=Gene+Set+Enrichment+Analysis+Reveals+Individual+Variability+in+Host+Responses+in+Tuberculosis+Patients.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2021.694680/full"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Deep learning-assisted peak curation for large-scale LC-MS metabolomics",
+    "author": [
+      "Y Gloaguen",
+      "JA Kirwan",
+      "D Beule"
+    ],
+    "pub_year": "2022",
+    "venue": "Analytical chemistry",
+    "abstract": "Available automated methods for peak detection in untargeted metabolomics suffer from poor precision. We present NeatMS, which uses machine learning based on a convoluted neural network to reduce the number and fraction of false peaks. NeatMS comes with a pre-trained model representing expert knowledge in the differentiation of true chemical signal from noise. Furthermore, it provides all necessary functions to easily train new models or improve existing ones by transfer learning. Thus, the tool improves peak curation and"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c02220",
+  "author_id": [
+    "vpukJvUAAAAJ",
+    "o5hEdysAAAAJ",
+    "fEz9rjMAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:-yous4PvL-sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeep%2BLearning%2Bassisted%2BPeak%2BCuration%2Bfor%2Blarge%2Bscale%2BLC-MS%2BMetabolomics%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-yous4PvL-sJ&ei=RLFrY8-8HamXy9YP7IOG0AQ&json=",
+  "num_citations": 12,
+  "citedby_url": "/scholar?cites=16947027271744367355&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:-yous4PvL-sJ:scholar.google.com/&scioq=Deep+Learning+assisted+Peak+Curation+for+large+scale+LC-MS+Metabolomics&hl=en&as_sdt=0,33",
+  "eprint_url": "https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c02220"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "BACH1 Binding Links the Genetic Risk for Severe Periodontitis with ST8SIA1",
+    "author": [
+      "A Chopra",
+      "R Mueller"
+    ],
+    "pub_year": "2022",
+    "venue": "Journal of Dental \u2026",
+    "abstract": "Genome-wide association studies identified various loci associated with periodontal diseases, but assigning causal alleles remains difficult. Likewise, the generation of biological meaning underlying a statistical association has been challenging. Here, we characterized the genetic association at the gene ST8SIA1 that increases the risk for severe periodontitis in smokers. We used CRISPR/dCas9 activation and RNA-sequencing to identify genetic interaction partners of ST8SIA1 and to determine its function in the cell. We"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/00220345211017510",
+  "author_id": [
+    "",
+    "",
+    "ZBTVoPcAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:eUxkkwKWrzoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBACH1%2BBinding%2BLinks%2Bthe%2BGenetic%2BRisk%2Bfor%2BSevere%2BPeriodontitis%2Bwith%2BST8SIA1.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eUxkkwKWrzoJ&ei=SrFrY6adCPGSy9YPuJW9yAw&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=4228763512931110009&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:eUxkkwKWrzoJ:scholar.google.com/&scioq=BACH1+Binding+Links+the+Genetic+Risk+for+Severe+Periodontitis+with+ST8SIA1.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://journals.sagepub.com/doi/full/10.1177/00220345211017510"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "The single\u2010cell transcriptional landscape of lung carcinoid tumors",
+    "author": [
+      "P Bischoff",
+      "A Trinks",
+      "J Wiederspahn"
+    ],
+    "pub_year": "2022",
+    "venue": "\u2026 Journal of Cancer",
+    "abstract": "Lung carcinoid tumors, also referred to as pulmonary neuroendocrine tumors or lung carcinoids, are rare neoplasms of the lung with a more favorable prognosis than other subtypes of lung cancer. Still, some patients suffer from relapsed disease and metastatic spread. Several recent single\u2010cell studies have provided detailed insights into the cellular heterogeneity of more common lung cancers, such as adeno\u2010and squamous cell carcinoma. However, the characteristics of lung carcinoids on the single\u2010cell level are yet completely"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.33995",
+  "author_id": [
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:gHbtG2or9rIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bsingle-cell%2Btranscriptional%2Blandscape%2Bof%2Blung%2Bcarcinoid%2Btumors.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=gHbtG2or9rIJ&ei=TrFrY9aEPIOTy9YPjuGZmAM&json=",
+  "num_citations": 4,
+  "citedby_url": "/scholar?cites=12895542317757068928&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:gHbtG2or9rIJ:scholar.google.com/&scioq=The+single-cell+transcriptional+landscape+of+lung+carcinoid+tumors.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijc.33995"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Single-cell-sequencing in SARS-COV-2-infected hamsters sheds light on endothelial cell involvement in COVID-19",
+    "author": [
+      "G Nouailles",
+      "E Wyler",
+      "P Pennitz",
+      "D Postmus"
+    ],
+    "pub_year": "2021",
+    "venue": "NA",
+    "abstract": "Background: Pulmonary and systemic immune responses influence disease severity in COVID-19, and could be key to therapeutic strategies. Aims and objectives: To investigate cellular mechanisms contributing to defense or fostering detrimental inflammatory lung injury, focusing on the clinically ill-defined involvement of endothelial cells. Methods: Using SARS-CoV-2-infected Syrian and Roborovski hamsters as models for moderate and severe COVID-19, respectively, a detailed and longitudinal analysis of systemic and pulmonary"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://erj.ersjournals.com/content/58/suppl_65/PA2355.abstract",
+  "author_id": [
+    "",
+    "BM-FWCQAAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:WLugquJ20wEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSingle-cell-sequencing%2Bin%2BSARS-COV-2-infected%2Bhamsters%2Bsheds%2Blight%2Bon%2Bendothelial%2Bcell%2Binvolvement%2Bin%2BCOVID-19.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WLugquJ20wEJ&ei=VbFrY7WiE8CVy9YPz9aN4A4&json=",
+  "num_citations": 0,
+  "url_related_articles": "/scholar?q=related:WLugquJ20wEJ:scholar.google.com/&scioq=Single-cell-sequencing+in+SARS-COV-2-infected+hamsters+sheds+light+on+endothelial+cell+involvement+in+COVID-19.&hl=en&as_sdt=0,33"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Complement activation induces excessive T cell cytotoxicity in severe COVID-19",
+    "author": [
+      "P Georg",
+      "R Astaburuaga-Garc\u00eda",
+      "L Bonaguro"
+    ],
+    "pub_year": "2022",
+    "venue": "Cell",
+    "abstract": "Severe COVID-19 is linked to both dysfunctional immune response and unrestrained immunopathology, and it remains unclear whether T cells contribute to disease pathology. Here, we combined single-cell transcriptomics and single-cell proteomics with mechanistic studies to assess pathogenic T cell functions and inducing signals. We identified highly activated CD16+ T cells with increased cytotoxic functions in severe COVID-19. CD16 expression enabled immune-complex-mediated, T cell receptor-independent degranulation"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0092867421015622",
+  "author_id": [
+    "",
+    "cEHEFhEAAAAJ",
+    "ROOtZlMAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:nLa_XadZ4gIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComplement%2Bactivation%2Binduces%2Bexcessive%2BT%2Bcell%2Bcytotoxicity%2Bin%2Bsevere%2BCOVID-19.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nLa_XadZ4gIJ&ei=WbFrY7PrHoKEmgHQ_KqoBA&json=",
+  "num_citations": 48,
+  "citedby_url": "/scholar?cites=207827108179719836&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:nLa_XadZ4gIJ:scholar.google.com/&scioq=Complement+activation+induces+excessive+T+cell+cytotoxicity+in+severe+COVID-19.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0092867421015622"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Single-cell RNA sequencing reveals distinct tumor microenvironmental patterns in lung adenocarcinoma",
+    "author": [
+      "P Bischoff",
+      "A Trinks",
+      "B Obermayer",
+      "JP Pett"
+    ],
+    "pub_year": "2021",
+    "venue": "Oncogene",
+    "abstract": "Recent developments in immuno-oncology demonstrate that not only cancer cells, but also the tumor microenvironment can guide precision medicine. A comprehensive and in-depth characterization of the tumor microenvironment is challenging since its cell populations are diverse and can be important even if scarce. To identify clinically relevant microenvironmental and cancer features, we applied single-cell RNA sequencing to ten human lung adenocarcinomas and ten normal control tissues. Our analyses revealed"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/s41388-021-02054-3",
+  "author_id": [
+    "",
+    "",
+    "yZC3KXMAAAAJ",
+    "LF9IRRQAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:9Ob3nPJfTD0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSingle-cell%2BRNA%2Bsequencing%2Breveals%2Bdistinct%2Btumor%2Bmicroenvironmental%2Bpatterns%2Bin%2Blung%2Badenocarcinoma.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9Ob3nPJfTD0J&ei=XrFrY_3nIemSy9YP3fCCsAw&json=",
+  "num_citations": 13,
+  "citedby_url": "/scholar?cites=4417010830163830516&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:9Ob3nPJfTD0J:scholar.google.com/&scioq=Single-cell+RNA+sequencing+reveals+distinct+tumor+microenvironmental+patterns+in+lung+adenocarcinoma.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.nature.com/articles/s41388-021-02054-3"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Mitogen\u2010activated protein kinase activity drives cell trajectories in colorectal cancer",
+    "author": [
+      "F Uhlitz",
+      "P Bischoff",
+      "S Peidli",
+      "A Sieber"
+    ],
+    "pub_year": "2021",
+    "venue": "EMBO molecular \u2026",
+    "abstract": "In colorectal cancer, oncogenic mutations transform a hierarchically organized and homeostatic epithelium into invasive cancer tissue lacking visible organization. We sought to define transcriptional states of colorectal cancer cells and signals controlling their development by performing single\u2010cell transcriptome analysis of tumors and matched non\u2010cancerous tissues of twelve colorectal cancer patients. We defined patient\u2010overarching colorectal cancer cell clusters characterized by differential activities of oncogenic signaling"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.embopress.org/doi/abs/10.15252/emmm.202114123",
+  "author_id": [
+    "QIfD0lEAAAAJ",
+    "",
+    "A684mbMAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:7SKvjRnngMIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMitogen-activated%2Bprotein%2Bkinase%2Bactivity%2Bdrives%2Bcell%2Btrajectories%2Bin%2Bcolorectal%2Bcancer%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7SKvjRnngMIJ&ei=ZLFrY_3JNo70mgHHhLaABg&json=",
+  "num_citations": 18,
+  "citedby_url": "/scholar?cites=14015456137314247405&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:7SKvjRnngMIJ:scholar.google.com/&scioq=Mitogen-activated+protein+kinase+activity+drives+cell+trajectories+in+colorectal+cancer&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.embopress.org/doi/full/10.15252/emmm.202114123"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Temporal omics analysis in Syrian hamsters unravel cellular effector responses to moderate COVID-19",
+    "author": [
+      "G Nouailles",
+      "E Wyler",
+      "P Pennitz",
+      "D Postmus"
+    ],
+    "pub_year": "2021",
+    "venue": "Nature \u2026",
+    "abstract": "In COVID-19, immune responses are key in determining disease severity. However, cellular mechanisms at the onset of inflammatory lung injury in SARS-CoV-2 infection, particularly involving endothelial cells, remain ill-defined. Using Syrian hamsters as a model for moderate COVID-19, we conduct a detailed longitudinal analysis of systemic and pulmonary cellular responses, and corroborate it with datasets from COVID-19 patients. Monocyte-derived macrophages in lungs exert the earliest and strongest transcriptional response to"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/s41467-021-25030-7",
+  "author_id": [
+    "",
+    "BM-FWCQAAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:iXejZnuhEl8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTemporal%2Bomics%2Bin%2BSyrian%2Bhamsters%2Bunravel%2Bcellular%2Beffector%2Bresponses%2Bto%2Bmoderate%2BCOVID-19%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iXejZnuhEl8J&ei=a7FrY67ML8-Ty9YPuJaWoAE&json=",
+  "num_citations": 24,
+  "citedby_url": "/scholar?cites=6850715534558984073&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:iXejZnuhEl8J:scholar.google.com/&scioq=Temporal+omics+in+Syrian+hamsters+unravel+cellular+effector+responses+to+moderate+COVID-19&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.nature.com/articles/s41467-021-25030-7"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Innate-like Gene Expression of Lung-Resident Memory CD8+ T Cells during Experimental Human Influenza: A Clinical Study",
+    "author": [
+      "S Paterson",
+      "S Kar",
+      "SK Ung",
+      "Z Gardener"
+    ],
+    "pub_year": "2021",
+    "venue": "American Journal of \u2026",
+    "abstract": "Rationale: Suboptimal vaccine immunogenicity and antigenic mismatch, compounded by poor uptake, means that influenza remains a major global disease. T cells recognizing peptides derived from conserved viral proteins could enhance vaccine-induced cross-strain protection. Objectives: To investigate the kinetics, phenotypes, and function of influenza virus\u2013specific CD8+ resident memory T (Trm) cells in the lower airway and infer the molecular pathways associated with their response to infection in vivo. Methods: Healthy"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.atsjournals.org/doi/abs/10.1164/rccm.202103-0620OC",
+  "author_id": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:6JZaaKsvCFcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInnate-like%2Bgene%2Bexpression%2Bof%2Blung-resident%2Bmemory%2BCD8%252B%2BT%2Bcells%2Bduring%2Bexperimental%2Bhuman%2Binfluenza:%2Ba%2Bclinical%2Bstudy.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6JZaaKsvCFcJ&ei=c7FrY4EUipTL1g-l8Yf4CQ&json=",
+  "num_citations": 6,
+  "citedby_url": "/scholar?cites=6271314894350096104&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:6JZaaKsvCFcJ:scholar.google.com/&scioq=Innate-like+gene+expression+of+lung-resident+memory+CD8%2B+T+cells+during+experimental+human+influenza:+a+clinical+study.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.atsjournals.org/doi/pdf/10.1164/rccm.202103-0620OC"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Integrated multi-omics analysis of RB-loss identifies widespread cellular programming and synthetic weaknesses",
+    "author": [
+      "S Rajasekaran",
+      "J Siddiqui",
+      "J Rakijas",
+      "B Nicolay"
+    ],
+    "pub_year": "2021",
+    "venue": "Communications \u2026",
+    "abstract": "Inactivation of RB is one of the hallmarks of cancer, however gaps remain in our understanding of how RB-loss changes human cells. Here we show that pRB-depletion results in cellular reprogramming, we quantitatively measured how RB-depletion altered the transcriptional, proteomic and metabolic output of non-tumorigenic RPE1 human cells. These profiles identified widespread changes in metabolic and cell stress response factors previously linked to E2F function. In addition, we find a number of additional pathways that"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/s42003-021-02495-2",
+  "author_id": [
+    "Y8uaL0oAAAAJ",
+    "TLOsrCoAAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:DcOvbbd33eAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntegrated%2Bmulti-omics%2Banalysis%2Bof%2BRB-loss%2Bidentifies%2Bwidespread%2Bcellular%2Bprogramming%2Band%2Bsynthetic%2Bweaknesses.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DcOvbbd33eAJ&ei=ebFrY7LjDKmXy9YP7IOG0AQ&json=",
+  "num_citations": 1,
+  "citedby_url": "/scholar?cites=16203238664051868429&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:DcOvbbd33eAJ:scholar.google.com/&scioq=Integrated+multi-omics+analysis+of+RB-loss+identifies+widespread+cellular+programming+and+synthetic+weaknesses.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.nature.com/articles/s42003-021-02495-2"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Modeling chemotherapy induced neurotoxicity with human induced pluripotent stem cell (iPSC)-derived sensory neurons",
+    "author": [
+      "C Schinke",
+      "VF Vallone",
+      "A Ivanov",
+      "Y Peng"
+    ],
+    "pub_year": "2021",
+    "venue": "Neurobiology of \u2026",
+    "abstract": "Chemotherapy-induced peripheral neuropathy (CIPN) is a frequent, potentially irreversible adverse effect of cytotoxic chemotherapy often leading to a reduction or discontinuation of treatment which negatively impacts patients' prognosis. To date, however, neither predictive biomarkers nor preventive treatments for CIPN are available, which is partially due to a lack of suitable experimental models. We therefore aimed to evaluate whether sensory neurons derived from induced pluripotent stem cells (iPSC-DSN) can serve as human disease model"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S0969996121001406",
+  "author_id": [
+    "",
+    "4fqBh8wAAAAJ",
+    "ndeOOhQAAAAJ",
+    "vj8R82AAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:AcCGfHYSJgAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModeling%2Bchemotherapy%2Binduced%2Bneurotoxicity%2Bwith%2Bhuman%2Binduced%2Bpluripotent%2Bstem%2Bcell%2B(iPSC)-derived%2Bsensory%2Bneurons%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AcCGfHYSJgAJ&ei=frFrY5qCC_GSy9YPuJW9yAw&json=",
+  "num_citations": 15,
+  "citedby_url": "/scholar?cites=10716349219651585&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:AcCGfHYSJgAJ:scholar.google.com/&scioq=Modeling+chemotherapy+induced+neurotoxicity+with+human+induced+pluripotent+stem+cell+(iPSC)-derived+sensory+neurons&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0969996121001406"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Cellular stress promotes NOD1/2\u2010dependent inflammation via the endogenous metabolite sphingosine\u20101\u2010phosphate",
+    "author": [
+      "G Pei",
+      "J Zyla",
+      "L He",
+      "P Moura\u2010Alves",
+      "H Steinle"
+    ],
+    "pub_year": "2021",
+    "venue": "The EMBO \u2026",
+    "abstract": "Cellular stress has been associated with inflammation, yet precise underlying mechanisms remain elusive. In this study, various unrelated stress inducers were employed to screen for sensors linking altered cellular homeostasis and inflammation. We identified the intracellular pattern recognition receptors NOD1/2, which sense bacterial peptidoglycans, as general stress sensors detecting perturbations of cellular homeostasis. NOD1/2 activation upon such perturbations required generation of the endogenous metabolite sphingosine\u20101\u2010phosphate"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.embopress.org/doi/abs/10.15252/embj.2020106272",
+  "author_id": [
+    "IMqRHVgAAAAJ",
+    "4LhiH8gAAAAJ",
+    "",
+    "uzZMOP0AAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:GLH2fjz780kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCellular%2Bstress%2Bpromotes%2BNOD1/2%25E2%2580%2590dependent%2Binflammation%2Bvia%2Bthe%2Bendogenous%2Bmetabolite%2Bsphingosine%25E2%2580%25901%25E2%2580%2590phosphate.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GLH2fjz780kJ&ei=gbFrY4CKI4OTy9YPjuGZmAM&json=",
+  "num_citations": 22,
+  "citedby_url": "/scholar?cites=5328879021356134680&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:GLH2fjz780kJ:scholar.google.com/&scioq=Cellular+stress+promotes+NOD1/2%E2%80%90dependent+inflammation+via+the+endogenous+metabolite+sphingosine%E2%80%901%E2%80%90phosphate.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.embopress.org/doi/pdf/10.15252/embj.2020106272"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Long\u2010term in vitro expansion ensures increased yield of central memory T cells as perspective for manufacturing challenges",
+    "author": [
+      "S Herda",
+      "A Heimann",
+      "B Obermayer"
+    ],
+    "pub_year": "2021",
+    "venue": "\u2026 Journal of Cancer",
+    "abstract": "Adoptive T cell therapy (ATT) has revolutionized the treatment of cancer patients. A sufficient number of functional T cells are indispensable for ATT efficacy; however, several ATT dropouts have been reported due to T cell expansion failure or lack of T cell persistence in vivo. With the aim of providing ATT also to those patients experiencing insufficient T cell manufacturing via standard protocol, we evaluated if minimally manipulative prolongation of in vitro expansion (long\u2010term [LT]> 3 weeks with IL\u20107 and IL\u201015 cytokines) could result in"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.33523",
+  "author_id": [
+    "",
+    "",
+    "yZC3KXMAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:nWqJyq5WzKYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLong%25E2%2580%2590term%2Bin%2Bvitro%2Bexpansion%2Bensures%2Bincreased%2Byield%2Bof%2Bcentral%2Bmemory%2BT%2Bcells%2Bas%2Bperspective%2Bfor%2Bmanufacturing%2Bchallenges%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nWqJyq5WzKYJ&ei=iLFrY5LnDcCVy9YPz9aN4A4&json=",
+  "num_citations": 4,
+  "citedby_url": "/scholar?cites=12019076814267312797&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:nWqJyq5WzKYJ:scholar.google.com/&scioq=Long%E2%80%90term+in+vitro+expansion+ensures+increased+yield+of+central+memory+T+cells+as+perspective+for+manufacturing+challenges&hl=en&as_sdt=0,33",
+  "eprint_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijc.33523"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Protein synthesis in the developing neocortex at near-atomic resolution reveals Ebp1-mediated neuronal proteostasis at the 60S tunnel exit",
+    "author": [
+      "ML Kraushar",
+      "F Krupp",
+      "D Harnett",
+      "P Turko"
+    ],
+    "pub_year": "2021",
+    "venue": "Molecular cell",
+    "abstract": "Protein synthesis must be finely tuned in the developing nervous system as the final essential step of gene expression. This study investigates the architecture of ribosomes from the neocortex during neurogenesis, revealing Ebp1 as a high-occupancy 60S peptide tunnel exit (TE) factor during protein synthesis at near-atomic resolution by cryoelectron microscopy (cryo-EM). Ribosome profiling demonstrated Ebp1-60S binding is highest during start codon initiation and N-terminal peptide elongation, regulating ribosome occupancy of"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S1097276520308376",
+  "author_id": [
+    "hx-ilbcAAAAJ",
+    "",
+    "EZllq7YAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:x9BluWwhtawJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProtein%2BSynthesis%2Bin%2Bthe%2BDeveloping%2BNeocortex%2Bat%2BNear-Atomic%2BResolution%2BReveals%2BEbp1-Mediated%2BNeuronal%2BProteostasis%2Bat%2Bthe%2B60S%2BTunnel%2BExit.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=x9BluWwhtawJ&ei=j7FrY_8LgoSaAdD8qqgE&json=",
+  "num_citations": 11,
+  "citedby_url": "/scholar?cites=12444889896158875847&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:x9BluWwhtawJ:scholar.google.com/&scioq=Protein+Synthesis+in+the+Developing+Neocortex+at+Near-Atomic+Resolution+Reveals+Ebp1-Mediated+Neuronal+Proteostasis+at+the+60S+Tunnel+Exit.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1097276520308376"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Prediction of anti-tuberculosis treatment duration based on a 22-gene transcriptomic model",
+    "author": [
+      "J Heyckendorf",
+      "S Marwitz",
+      "M Reimann"
+    ],
+    "pub_year": "2021",
+    "venue": "European respiratory \u2026",
+    "abstract": "Background The World Health Organization recommends standardised treatment durations for patients with tuberculosis (TB). We identified and validated a host-RNA signature as a biomarker for individualised therapy durations for patients with drug-susceptible (DS)-and multidrug-resistant (MDR)-TB. Methods Adult patients with pulmonary TB were prospectively enrolled into five independent cohorts in Germany and Romania. Clinical and microbiological data and whole blood for RNA transcriptomic analysis were collected at pre"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://erj.ersjournals.com/content/58/3/2003492.short",
+  "author_id": [
+    "OucMeGQAAAAJ",
+    "",
+    "2xmuiLIAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:lyWEToGlrW0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrediction%2Bof%2Banti-tuberculosis%2Btreatment%2Bduration%2Bbased%2Bon%2Ba%2B22-gene%2Btranscriptomic%2Bmodel.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lyWEToGlrW0J&ei=lLFrY-igC-mSy9YP3fCCsAw&json=",
+  "num_citations": 14,
+  "citedby_url": "/scholar?cites=7903154895891735959&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:lyWEToGlrW0J:scholar.google.com/&scioq=Prediction+of+anti-tuberculosis+treatment+duration+based+on+a+22-gene+transcriptomic+model.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://boris.unibe.ch/152269/1/G_nther_Prediction.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Entamoeba gingivalis Exerts Severe Pathogenic Effects on the Oral Mucosa",
+    "author": [
+      "X Bao",
+      "O Meckes"
+    ],
+    "pub_year": "2021",
+    "venue": "Journal of Dental \u2026",
+    "abstract": "The protozoan Entamoeba gingivalis colonizes the healthy oral mucosa with a prevalence of 15%. Colonization can be asymptomatic, and it is considered not pathogenic. However, it is able to invade lacerated oral mucosa, where it ingests fragments of live cells, suggesting pathogenous potential. Here, we characterized the transcriptomes of gingival cells after infection with E. gingivalis using RNA sequencing and observed pathogen interaction with the epithelial monolayer barrier by scanning electron microscopy. In epithelial and fibroblast"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/00220345211004498",
+  "author_id": [
+    "",
+    "ZBTVoPcAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:F3vuQm4SxRgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEntamoeba%2Bgingivalis%2BExerts%2BSevere%2BPathogenic%2BEffects%2Bon%2Bthe%2BOral%2BMucosa.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=F3vuQm4SxRgJ&ei=mbFrY8e-DY70mgHHhLaABg&json=",
+  "num_citations": 7,
+  "citedby_url": "/scholar?cites=1784853092100897559&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:F3vuQm4SxRgJ:scholar.google.com/&scioq=Entamoeba+gingivalis+Exerts+Severe+Pathogenic+Effects+on+the+Oral+Mucosa.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://journals.sagepub.com/doi/full/10.1177/00220345211004498"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Impact of intermediate hyperglycemia and diabetes on immune dysfunction in tuberculosis",
+    "author": [
+      "C Eckold",
+      "V Kumar",
+      "J Weiner"
+    ],
+    "pub_year": "2021",
+    "venue": "Clinical Infectious \u2026",
+    "abstract": "Background People with diabetes have an increased risk of developing active tuberculosis (TB) and are more likely to have poor TB-treatment outcomes, which may impact on control of TB as the prevalence of diabetes is increasing worldwide. Blood transcriptomes are altered in patients with active TB relative to healthy individuals. The effects of diabetes and intermediate hyperglycemia (IH) on this transcriptomic signature were investigated to enhance understanding of immunological susceptibility in diabetes-TB comorbidity. Methods"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://academic.oup.com/cid/article-abstract/72/1/69/5857148",
+  "author_id": [
+    "",
+    "q5akEeAAAAAJ",
+    "ZBTVoPcAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:XawLSfhkdz4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImpact%2Bof%2BIntermediate%2BHyperglycemia%2Band%2BDiabetes%2Bon%2BImmune%2BDysfunction%2Bin%2BTuberculosis.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XawLSfhkdz4J&ei=n7FrY8mJCM-Ty9YPuJaWoAE&json=",
+  "num_citations": 10,
+  "citedby_url": "/scholar?cites=4501177370120268893&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:XawLSfhkdz4J:scholar.google.com/&scioq=Impact+of+Intermediate+Hyperglycemia+and+Diabetes+on+Immune+Dysfunction+in+Tuberculosis.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://academic.oup.com/cid/article/72/1/69/5857148"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Transcriptomic profiling of SARS-CoV-2 infected human cell lines identifies HSP90 as target for COVID-19 therapy",
+    "author": [
+      "E Wyler",
+      "K M\u00f6sbauer",
+      "V Franke",
+      "A Diag",
+      "LT Gottula"
+    ],
+    "pub_year": "2021",
+    "venue": "IScience",
+    "abstract": "gene expression profiles of three SARS-CoV- and SARS-CoV-2-infected human cell lines.   analysis of three human cell lines infected with SARS-CoV or SARS-CoV-2, namely the gut"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.sciencedirect.com/science/article/pii/S258900422100119X",
+  "author_id": [
+    "BM-FWCQAAAAJ",
+    "",
+    "Y5y1FUEAAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:wkIA31-gppkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTranscriptomic%2Bprofiling%2Bof%2BSARS-CoV-2%2Binfected%2Bhuman%2Bcell%2Blines%2Bidentifies%2BHSP90%2Bas%2Btarget%2Bfor%2BCOVID-19%2Btherapy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wkIA31-gppkJ&ei=orFrY6nGLYqUy9YPpfGH-Ak&json=",
+  "num_citations": 100,
+  "citedby_url": "/scholar?cites=11071713067560616642&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:wkIA31-gppkJ:scholar.google.com/&scioq=Transcriptomic+profiling+of+SARS-CoV-2+infected+human+cell+lines+identifies+HSP90+as+target+for+COVID-19+therapy&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.sciencedirect.com/science/article/pii/S258900422100119X"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Enzymatic dissociation induces transcriptional and proteotype bias in brain cell populations",
+    "author": [
+      "D Mattei",
+      "A Ivanov",
+      "M van Oostrum"
+    ],
+    "pub_year": "2020",
+    "venue": "International journal of \u2026",
+    "abstract": "Different cell isolation techniques exist for transcriptomic and proteotype profiling of brain cells. Here, we provide a systematic investigation of the influence of different cell isolation protocols on transcriptional and proteotype profiles in mouse brain tissue by taking into account single-cell transcriptomics of brain cells, proteotypes of microglia and astrocytes, and flow cytometric analysis of microglia. We show that standard enzymatic digestion of brain tissue at 37\u00b0 C induces profound and consistent alterations in the transcriptome and"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.mdpi.com/869928",
+  "author_id": [
+    "vLxIvW4AAAAJ",
+    "ndeOOhQAAAAJ",
+    "HeOVRpN_DWEC"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:0LXqYtG7KqIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnzymatic%2BDissociation%2BInduces%2BTranscriptional%2Band%2BProteotype%2BBias%2Bin%2BBrain%2BCell%2BPopulations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0LXqYtG7KqIJ&ei=p7FrY97NJ6mXy9YP7IOG0AQ&json=",
+  "num_citations": 54,
+  "citedby_url": "/scholar?cites=11685358691148281296&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:0LXqYtG7KqIJ:scholar.google.com/&scioq=Enzymatic+Dissociation+Induces+Transcriptional+and+Proteotype+Bias+in+Brain+Cell+Populations&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.mdpi.com/1422-0067/21/21/7944/htm"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Concepts and software package for efficient quality control in targeted metabolomics studies: MeTaQuaC",
+    "author": [
+      "M Kuhring",
+      "A Eisenberger",
+      "V Schmidt"
+    ],
+    "pub_year": "2020",
+    "venue": "Analytical \u2026",
+    "abstract": "Targeted quantitative mass spectrometry metabolite profiling is the workhorse of metabolomics research. Robust and reproducible data are essential for confidence in analytical results and are particularly important with large-scale studies. Commercial kits are now available which use carefully calibrated and validated internal and external standards to provide such reliability. However, they are still subject to processing and technical errors in their use and should be subject to a laboratory's routine quality assurance and quality"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.0c00136",
+  "author_id": [
+    "ySMVKBUAAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:BXpiERVN_M4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConcepts%2Band%2BSoftware%2BPackage%2Bfor%2BEfficient%2BQuality%2BControl%2Bin%2BTargeted%2BMetabolomics%2BStudies%2B%25E2%2580%2593%2BMeTaQuaC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BXpiERVN_M4J&ei=qrFrY6f_OfGSy9YPuJW9yAw&json=",
+  "num_citations": 12,
+  "citedby_url": "/scholar?cites=14914880818825558533&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:BXpiERVN_M4J:scholar.google.com/&scioq=Concepts+and+Software+Package+for+Efficient+Quality+Control+in+Targeted+Metabolomics+Studies+%E2%80%93+MeTaQuaC&hl=en&as_sdt=0,33",
+  "eprint_url": "https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c00136"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Extrachromosomal circular DNA drives oncogenic genome remodeling in neuroblastoma",
+    "author": [
+      "RP Koche",
+      "E Rodriguez-Fos",
+      "K Helmsauer",
+      "M Burkert"
+    ],
+    "pub_year": "2020",
+    "venue": "Nature \u2026",
+    "abstract": "Extrachromosomal circularization of DNA is an important genomic feature in cancer. However, the structure, composition and genome-wide frequency of extrachromosomal circular DNA have not yet been profiled extensively. Here, we combine genomic and transcriptomic approaches to describe the landscape of extrachromosomal circular DNA in neuroblastoma, a tumor arising in childhood from primitive cells of the sympathetic nervous system. Our analysis identifies and characterizes a wide catalog of somatically acquired and"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://www.nature.com/articles/s41588-019-0547-z",
+  "author_id": [
+    "PyeTZYwAAAAJ",
+    "U01al6gAAAAJ",
+    "swbhFs4AAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:FEF2jvpdjpcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExtrachromosomal%2BCircular%2BDNA%2BDrives%2BOncogenic%2BGenome%2BRemodeling%2Bin%2BNeuroblastoma.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FEF2jvpdjpcJ&ei=sLFrY7HJDIOTy9YPjuGZmAM&json=",
+  "num_citations": 138,
+  "citedby_url": "/scholar?cites=10920769477133353236&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:FEF2jvpdjpcJ:scholar.google.com/&scioq=Extrachromosomal+Circular+DNA+Drives+Oncogenic+Genome+Remodeling+in+Neuroblastoma.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://www.nature.com/articles/s41588-019-0547-z"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "VarFish: comprehensive DNA variant analysis for diagnostics and research",
+    "author": [
+      "M Holtgrewe",
+      "O Stolpe",
+      "M Nieminen"
+    ],
+    "pub_year": "2020",
+    "venue": "Nucleic acids \u2026",
+    "abstract": "VarFish is a user-friendly web application for the quality control, filtering, prioritization, analysis, and user-based annotation of DNA variant data with a focus on rare disease genetics. It is capable of processing variant call files with single or multiple samples. The variants are automatically annotated with population frequencies, molecular impact, and presence in databases such as ClinVar. Further, it provides support for pathogenicity scores including CADD, MutationTaster, and phenotypic similarity scores. Users can filter variants"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://academic.oup.com/nar/article-abstract/48/W1/W162/5825625",
+  "author_id": [
+    "ej7e0LAAAAAJ",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:voJyo8w8M3QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVarFish:%2BComprehensive%2BDNA%2BVariant%2BAnalysis%2Bfor%2BDiagnostics%2Band%2BResearch%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=voJyo8w8M3QJ&ei=tbFrY-7_KsCVy9YPz9aN4A4&json=",
+  "num_citations": 34,
+  "citedby_url": "/scholar?cites=8373102981825069758&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:voJyo8w8M3QJ:scholar.google.com/&scioq=VarFish:+Comprehensive+DNA+Variant+Analysis+for+Diagnostics+and+Research&hl=en&as_sdt=0,33",
+  "eprint_url": "https://academic.oup.com/nar/article/48/W1/W162/5825625"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "SCelVis: exploratory single cell data analysis on the desktop and in the cloud",
+    "author": [
+      "B Obermayer",
+      "M Holtgrewe",
+      "M Nieminen"
+    ],
+    "pub_year": "2020",
+    "venue": "PeerJ",
+    "abstract": "Background Single cell omics technologies present unique opportunities for biomedical and life sciences from lab to clinic, but the high dimensional nature of such data poses challenges for computational analysis and interpretation. Furthermore, FAIR data management as well as data privacy and security become crucial when working with clinical data, especially in cross-institutional and translational settings. Existing solutions are either bound to the desktop of one researcher or come with dependencies on vendor-specific"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://peerj.com/articles/8607/",
+  "author_id": [
+    "yZC3KXMAAAAJ",
+    "ej7e0LAAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:PFk4uGiLGmgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSCelVis:%2BExploratory%2BSingle%2BCell%2BData%2BAnalysis%2Bon%2Bthe%2BDesktop%2Band%2Bin%2Bthe%2BCloud.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PFk4uGiLGmgJ&ei=ubFrY7ThF4KEmgHQ_KqoBA&json=",
+  "num_citations": 7,
+  "citedby_url": "/scholar?cites=7501461411222542652&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:PFk4uGiLGmgJ:scholar.google.com/&scioq=SCelVis:+Exploratory+Single+Cell+Data+Analysis+on+the+Desktop+and+in+the+Cloud.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://peerj.com/articles/8607/"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "SODAR Core: a Django-based framework for scientific data management and analysis web apps",
+    "author": [
+      "M Nieminen",
+      "O Stolpe",
+      "F Schumann"
+    ],
+    "pub_year": "2020",
+    "venue": "Journal of Open \u2026",
+    "abstract": "Modern life science is generating large data sets at a unprecedented speed. A major source of data are so-called omics (eg, genomics, metabolomics, or proteomics) experiments. Consequently, management and analysis of scientific data has become a major challenge. Further, the heterogeneity of projects makes \u201cone size fits all\u201d data analysis systems infeasible and calls for specialized data analysis platforms. The authors are actively developing applications for the FAIR (findable, accessible, interoperable, and reuseable, cf"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "http://edoc.mdc-berlin.de/19748/1/19748oa.pdf",
+  "author_id": [
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:06UM6uNpGrUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSODAR%2BCore:%2Ba%2BDjango-based%2Bframework%2Bfor%2Bscientific%2Bdata%2Bmanagement%2Band%2Banalysis%2Bweb%2Bapps%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=06UM6uNpGrUJ&ei=vrFrY-6MOemSy9YP3fCCsAw&json=",
+  "num_citations": 3,
+  "citedby_url": "/scholar?cites=13049859297864623571&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:06UM6uNpGrUJ:scholar.google.com/&scioq=SODAR+Core:+a+Django-based+framework+for+scientific+data+management+and+analysis+web+apps&hl=en&as_sdt=0,33",
+  "eprint_url": "http://edoc.mdc-berlin.de/19748/1/19748oa.pdf"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Acquired resistance to DZNep-mediated apoptosis is associated with copy number gains of AHCY in a B-cell lymphoma model",
+    "author": [
+      "CA Akpa",
+      "K Kleo",
+      "E Oker",
+      "N Tomaszewski"
+    ],
+    "pub_year": "2020",
+    "venue": "BMC cancer",
+    "abstract": "Enhancer of zeste homolog 2 (EZH2) is considered an important driver of tumor development and progression by its histone modifying capabilities. Inhibition of EZH2 activity is thought to be a potent treatment option for eligible cancer patients with an aberrant EZH2 expression profile, thus the indirect EZH2 inhibitor 3-Deazaneplanocin A (DZNep) is currently under evaluation for its clinical utility. Although DZNep blocks proliferation and induces apoptosis in different tumor types including lymphomas, acquired resistance to"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://link.springer.com/article/10.1186/s12885-020-06937-8;",
+  "author_id": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:hH6IJ4il5MwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAcquired%2BResistance%2Bto%2BDZNep-Mediated%2BApoptosis%2BIs%2BAssociated%2Bwith%2BCopy%2BNumber%2BGains%2Bof%2BAHCY%2Bin%2Ba%2BB-Cell%2BLymphoma%2BModel.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hH6IJ4il5MwJ&ei=wrFrY6TpDo70mgHHhLaABg&json=",
+  "num_citations": 3,
+  "citedby_url": "/scholar?cites=14764107482624720516&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:hH6IJ4il5MwJ:scholar.google.com/&scioq=Acquired+Resistance+to+DZNep-Mediated+Apoptosis+Is+Associated+with+Copy+Number+Gains+of+AHCY+in+a+B-Cell+Lymphoma+Model.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://link.springer.com/article/10.1186/s12885-020-06937-8;"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "An exploratory investigation of brain collateral circulation plasticity after cerebral ischemia in two experimental C57BL/6 mouse models",
+    "author": [
+      "M Foddis",
+      "K Winek",
+      "K Bentele"
+    ],
+    "pub_year": "2020",
+    "venue": "Journal of Cerebral \u2026",
+    "abstract": "Brain collateral circulation is an essential compensatory mechanism in response to acute brain ischemia. To study the temporal evolution of brain macro and microcollateral recruitment and their reciprocal interactions in response to different ischemic conditions, we applied a combination of complementary techniques (T2-weighted magnetic resonance imaging [MRI], time of flight [TOF] angiography [MRA], cerebral blood flow [CBF] imaging and histology) in two different mouse models. Hypoperfusion was either induced by permanent"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/0271678X19827251",
+  "author_id": [
+    "",
+    "rOCHKgoAAAAJ",
+    ""
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:Y7baXaQNJV4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BExploratory%2BInvestigation%2Bof%2BBrain%2BCollateral%2BCirculation%2BPlasticity%2Bafter%2BCerebral%2BIschemia%2Bin%2BTwo%2BExperimental%2BC57BL/6%2BMouse%2BModels.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Y7baXaQNJV4J&ei=yLFrY_WBPM-Ty9YPuJaWoAE&json=",
+  "num_citations": 12,
+  "citedby_url": "/scholar?cites=6783843413303932515&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:Y7baXaQNJV4J:scholar.google.com/&scioq=An+Exploratory+Investigation+of+Brain+Collateral+Circulation+Plasticity+after+Cerebral+Ischemia+in+Two+Experimental+C57BL/6+Mouse+Models.&hl=en&as_sdt=0,33",
+  "eprint_url": "https://journals.sagepub.com/doi/full/10.1177/0271678X19827251"
+}{
+  "container_type": "Publication",
+  "source": "PUBLICATION_SEARCH_SNIPPET",
+  "bib": {
+    "title": "Distinct immune evasion in APOBEC\u2010enriched, HPV\u2010negative HNSCC",
+    "author": [
+      "C Messerschmidt",
+      "B Obermayer"
+    ],
+    "pub_year": "2020",
+    "venue": "\u2026 Journal of Cancer",
+    "abstract": "Immune checkpoint inhibition leads to response in some patients with head and neck squamous cell carcinoma (HNSCC). Robust biomarkers are lacking to date. We analyzed viral status, gene expression signatures, mutational load and mutational signatures in whole exome and RNA\u2010sequencing data of the HNSCC TCGA dataset (n= 496) and a validation set (DKTK MASTER cohort, n= 10). Public single\u2010cell gene expression data from 17 HPV\u2010negative HNSCC were separately reanalyzed. APOBEC3\u2010associated TCW motif mutations"
+  },
+  "filled": false,
+  "gsrank": 1,
+  "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.33123",
+  "author_id": [
+    "",
+    "yZC3KXMAAAAJ"
+  ],
+  "url_scholarbib": "/scholar?hl=en&q=info:HVPdXFl-Hw0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+  "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistinct%2BImmune%2BEvasion%2Bin%2BAPOBEC-Enriched,%2BHPV-Negative%2BHNSCC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HVPdXFl-Hw0J&ei=z7FrY-fAN4qUy9YPpfGH-Ak&json=",
+  "num_citations": 12,
+  "citedby_url": "/scholar?cites=945613369046291229&as_sdt=5,33&sciodt=0,33&hl=en",
+  "url_related_articles": "/scholar?q=related:HVPdXFl-Hw0J:scholar.google.com/&scioq=Distinct+Immune+Evasion+in+APOBEC-Enriched,+HPV-Negative+HNSCC&hl=en&as_sdt=0,33",
+  "eprint_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijc.33123"
+}

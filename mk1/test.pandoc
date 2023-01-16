@@ -1,0 +1,91 @@
+Pandoc
+  Meta
+    { unMeta =
+        fromList
+          [ ( "biblio-config" , MetaBool True )
+          , ( "execute"
+            , MetaMap (fromList [ ( "warning" , MetaBool False ) ])
+            )
+          , ( "formatoff" , MetaInlines [ Str "docx" ] )
+          , ( "labels"
+            , MetaMap
+                (fromList
+                   [ ( "abstract" , MetaInlines [ Str "Abstract" ] )
+                   , ( "affiliations"
+                     , MetaInlines [ Str "Affiliations" ]
+                     )
+                   , ( "authors" , MetaInlines [ Str "Authors" ] )
+                   , ( "description"
+                     , MetaInlines [ Str "Description" ]
+                     )
+                   , ( "doi" , MetaInlines [ Str "Doi" ] )
+                   , ( "modified" , MetaInlines [ Str "Modified" ] )
+                   , ( "published" , MetaInlines [ Str "Published" ] )
+                   ])
+            )
+          , ( "title"
+            , MetaInlines
+                [ Str "CUBI"
+                , Space
+                , Str "literature"
+                , Space
+                , Str "in"
+                , Space
+                , Str "2017-2022"
+                ]
+            )
+          ]
+    }
+  [ Div
+      ( "" , [ "cell" ] , [] )
+      [ CodeBlock
+          ( "" , [ "r" , "cell-code" ] , [] )
+          "library(readxl)\nlibrary(tidyverse)\nlibrary(ggplot2)\npubs <- read_excel(\"CUBI_journal_list_with_citations_2022.xlsx\") %>%\n  mutate(year=as.numeric(year)) %>% rename(Year=year) %>%\n  mutate(cited=as.numeric(cited)) %>%\n  mutate(IF=as.numeric(IF)) %>%\n  rename(Last=last, First=first) %>%\n  mutate(Last=ifelse(is.na(Last), \"F\", Last))\ntheme_set(theme_minimal(base_size=18))\npal <- c(\"#00B3C7\", \"#C12079\", \"#007296\", \"#00A4BD\", \"#005C7E\", \"#00B9CB\")"
+      ]
+  , Div
+      ( "" , [ "cell" ] , [] )
+      [ CodeBlock
+          ( "" , [ "r" , "cell-code" ] , [] )
+          "df <- pubs %>% \n  mutate(cubi= ifelse(First == \"T\" | Last == \"T\", \"Yes\", \"No\")) %>%\n  group_by(Year, cubi) %>% \n  summarise(n=n(), IF=sum(IF), cited=sum(cited)) %>%\n  ungroup() %>%\n  arrange(Year) %>% \n  mutate(ifcum=cumsum(IF)) %>%\n  mutate(citcum=cumsum(cited)) %>%\n  mutate(ncum=cumsum(n))"
+      ]
+  , Para
+      [ Strong
+          [ Str "Testing"
+          , Space
+          , Str "strong"
+          , Space
+          , Str "elements"
+          ]
+      ]
+  , Div
+      ( "" , [ "cell" ] , [] )
+      [ CodeBlock
+          ( "" , [ "r" , "cell-code" ] , [] )
+          "ggplot(df, aes(x=Year, y=n, fill=cubi)) + geom_bar(stat=\"identity\") + \n  ylab(\"Number of publications\") +\n  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +\n  labs(fill=\"CUBI 1st/last\") +\n  theme(legend.position=c(0.2, 0.85))"
+      , Div
+          ( "" , [ "cell-output-display" ] , [] )
+          [ Para
+              [ Image
+                  ( "fig-numpub" , [] , [] )
+                  [ Str "Figure"
+                  , Str "\160"
+                  , Str "1"
+                  , Str ":"
+                  , Space
+                  , Str "Number"
+                  , Space
+                  , Str "of"
+                  , Space
+                  , Str "publications"
+                  , Space
+                  , Str "per"
+                  , Space
+                  , Str "year"
+                  ]
+                  ( "test_files/figure-native/fig-numpub-1.png"
+                  , "fig:"
+                  )
+              ]
+          ]
+      ]
+  ]

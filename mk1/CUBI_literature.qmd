@@ -1,0 +1,354 @@
+---
+title: "CUBI literature in 2017-2022"
+execute:
+  warning: false
+format:
+  html:
+    code-fold: true
+    embed-resources: true
+formatoff: docx
+---
+
+
+```{r}
+library(readxl)
+library(tidyverse)
+library(ggplot2)
+library(ggrepel)
+```
+
+```{r echo=F,results="hide"}
+pubs2_l <- readLines("publications.txt_full")
+
+pubs2 <- list()
+curlist <- list(text="")
+i <- 1
+
+for(l in pubs2_l) {
+  print(l)
+  print(length(curlist))
+  if(l == "" || grepl("^ *$", l)[1]) {
+    print("adding")
+    if(length(curlist) > 0 && curlist$text != "") { 
+      pubs2[[i]] <- curlist 
+      i <- i + 1
+      curlist <- list( text="" )
+    }
+    next()
+  }
+  if(grepl("^[a-z]+=[a-z0-9A-Z ]+$", l)) {
+    key <- gsub("^([a-z]+)=[a-z0-9A-Z ]+$", "\\1", l)
+    val <- gsub("^[a-z]+=([a-z0-9A-Z ]+)$", "\\1", l)
+    curlist[[key]] <- val
+  } else {
+    curlist$text = paste(curlist$text, l)
+  }
+  print(paste("after", length(curlist)))
+}
+#pubs2[[i]] <- curlist
+
+
+pubs2b <- map_dfr(pubs2, ~ {
+   cur <- .x
+   cur$title <- gsub(".*[^*]\\*([^*].*[^*])\\*[^*].*", "\\1", cur$text)
+   cur$authors <- gsub("(.*[^*]\\*)([^*].*[^*])\\*[^*].*", "\\1", cur$text)
+   cur$cited <- cur$num
+   cur$google <- paste0('https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=',
+                         URLencode(cur$title))
+   cur$url <- ""
+   cur$year <- gsub(".*[*][*](.*)(20[12][0-9]) *[*][*].*", "\\2", cur$text)
+   cur$journal <- gsub(".*[*][*](.*)(20[12][0-9]) *[*][*].*", "\\1", cur$text)
+   cur$num <- NULL
+   #cur$text <- NULL
+   as.data.frame(cur)
+})
+
+```
+
+
+
+
+
+```{r}
+pubs <- read_excel("CUBI_journal_list_with_citations_2022.xlsx") %>%
+  mutate(year=as.numeric(year)) %>% rename(Year=year) %>%
+  mutate(cited=as.numeric(cited)) %>%
+  mutate(IF=as.numeric(IF)) %>%
+  rename(Last=last, First=first) %>%
+  mutate(Last=ifelse(is.na(Last), "F", Last)) %>%
+  mutate(cubi= ifelse(First == "T" | Last == "T", "Yes", "No"))
+
+pubs$text <- pubs2b$text
+
+theme_set(theme_minimal(base_size=18))
+pal <- c("#00B3C7", "#C12079", "#007296", "#00A4BD", "#005C7E", "#00B9CB")
+```
+
+```{r}
+df <- pubs %>% 
+  group_by(Year, cubi) %>% 
+  summarise(n=n(), IF=sum(IF), cited=sum(cited)) %>%
+  ungroup() %>%
+  arrange(Year) %>% 
+  group_by(cubi) %>%
+  mutate(ifcum=cumsum(IF)) %>%
+  mutate(citcum=cumsum(cited)) %>%
+  mutate(ncum=cumsum(n))
+```
+
+
+```{r}
+#| fig-cap: "Number of publications per year"
+#| label: fig-numpub
+ggplot(df, aes(x=Year, y=n, fill=cubi)) + geom_bar(stat="identity") + 
+  ylab("Number of publications") +
+  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +
+  labs(fill="CUBI 1st/last") +
+  theme(legend.position=c(0.2, 0.85))
+```
+
+
+```{r}
+#| fig-cap: "Cumulative number of publications per year"
+#| label: fig-cumnumpub
+ggplot(df, aes(x=Year, y=ncum, fill=cubi)) + geom_bar(stat="identity") + 
+  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +
+  labs(fill="CUBI 1st/last") +
+  theme(legend.position=c(0.2, 0.85)) +
+  ylab("Cumulative number of publications")
+```
+
+
+```{r}
+#| fig-cap: "Sum of the journal impact factor (IF) per year"
+#| label: fig-if
+ggplot(df, aes(x=Year, y=IF, fill=cubi)) + geom_bar(stat="identity") + 
+  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +
+  labs(fill="CUBI 1st/last") +
+  theme(legend.position=c(0.2, 0.85)) +
+  ylab("Sum of IF per year")
+```
+
+```{r}
+#| fig-cap: "Cumulative sum of the journal impact factor (IF) per year"
+#| label: fig-cumif
+ggplot(df, aes(x=Year, y=ifcum, fill=cubi)) + geom_bar(stat="identity") + 
+  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +
+  labs(fill="CUBI 1st/last") +
+  theme(legend.position=c(0.2, 0.85)) +
+  ylab("Cumulative sum of IF")
+```
+
+Note: citations are based on 2022; earlier papers will have more citations.
+This is why it makes little sense to make a year by year comparison.
+
+```{r}
+#| label: fig-citcum
+#| fig-cap: "Cumulative sum of the number of citations per year"
+ggplot(df, aes(x=Year, y=citcum, fill=cubi)) + geom_bar(stat="identity") + 
+  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +
+  labs(fill="CUBI 1st/last") +
+  theme(legend.position=c(0.2, 0.85)) +
+  ylab("Cumulative sum of citations")
+```
+
+
+```{r}
+#| label: fig-citperpub
+#| fig-cap: "Per publication citation numbers"
+ggplot(df, aes(x=Year, y=cited/n, fill=cubi)) + geom_bar(stat="identity") + 
+  scale_fill_manual(values=c(No=pal[1], Yes=pal[2])) +
+  labs(fill="CUBI 1st/last") +
+  theme(legend.position=c(0.2, 0.85)) +
+  ylim(0, 200) +
+  ylab("Cumulative sum of citations")
+```
+
+
+
+```{r}
+#| label: fig-citevsIF
+#| fig-cap: |
+#|           Number of citations vs Impact Factor. 
+#|           Each dot is one paper.
+#|           Lines show log-log
+#|           linear regression model calculated separately for CUBI and
+#|           sandwich papers.
+
+dat_c <- pubs %>% 
+  filter(cubi == "Yes") %>% 
+  mutate(lIF=log10(IF), lcited=log10(cited)) %>%
+  filter(!is.infinite(lIF) & !is.infinite(lcited))
+lm_c <- lm(lcited ~ lIF, data=dat_c)
+dat_cp <- data.frame(IF=dat_c$IF, cited=10^(predict(lm_c, dat_c)))
+
+dat_s <- pubs %>% 
+  filter(cubi == "No") %>% 
+  mutate(lIF=log10(IF), lcited=log10(cited)) %>%
+  filter(!is.infinite(lIF) & !is.infinite(lcited))
+lm_s <- lm(lcited ~ lIF, data=dat_s)
+dat_sp <- data.frame(IF=dat_s$IF, cited=10^(predict(lm_s, dat_s)))
+
+
+ggplot(pubs, aes(x=IF, y=cited, color=cubi)) + geom_point() +
+  scale_color_manual(values=c(No=pal[1], Yes=pal[2])) +
+  geom_line(color=pal[1], data=dat_sp, mapping = aes(x=IF, y=cited)) +
+  geom_line(color=pal[2], data=dat_cp, mapping = aes(x=IF, y=cited)) +
+  xlab("Journal Impact Factor") +
+  ylab("Number of citations") +
+  scale_x_log10() +
+  scale_y_log10()
+
+```
+
+
+
+
+
+```{r}
+#| label: fig-tagtit
+#| fig-cap: |
+#|          Tag cloud showing frequency of words used in titles of CUBI
+#|          publications (size corresponds to number of publications). Colors are random.
+library(stringr)
+library(tagcloud)
+words <- unlist(strsplit(pubs$title, split="[^a-zA-Z0-9]+")) %>% tolower()
+words <- table(words)
+wdf <- data.frame(N=as.vector(words), words=names(words)) %>%
+  filter(N > 2) %>%
+  filter(nchar(words) > 2) %>% arrange(-N) %>% 
+  filter(!words %in% c("and", "the", "for", "with", "after", "from", "identifies")) %>%
+  mutate(words=gsub("dna", "DNA", words)) %>%
+  mutate(words=gsub("hla", "HLA", words)) %>%
+  mutate(words=gsub("sars", "SARS", words)) %>%
+  mutate(color=sample(pal, n(), replace=TRUE))
+tagcloud(tags=wdf$words, weights=wdf$N, col=wdf$color)
+```
+
+```{r}
+#| label: fig-tagaut
+#| fig-cap: |
+#|          Tag cloud showing frequency of authors and co-authors of CUBI
+#|          publications (size corresponds to number of publications). Colors are random.
+library(stringr)
+library(tagcloud)
+aut <- gsub("[^a-zA-Z]+", " ", pubs$authors)
+words <- unlist(strsplit(aut, split="[^a-zA-Z0-9]+")) %>% tolower() %>% str_to_title()
+words <- table(words)
+wdf <- data.frame(N=as.vector(words), words=names(words)) %>%
+  filter(N > 2) %>%
+  filter(nchar(words) > 2) %>% arrange(-N) %>% 
+  filter(!words %in% c("Sch", "and", "the", "for", "with", "after", "from", "identifies")) %>%
+  mutate(words=gsub("dna", "DNA", words)) %>%
+  mutate(words=gsub("hla", "HLA", words)) %>%
+  mutate(words=gsub("sars", "SARS", words)) %>%
+  mutate(color=sample(pal, n(), replace=TRUE))
+tagcloud(tags=wdf$words, weights=wdf$N, col=wdf$color)
+```
+
+
+# Number of citations per publication 
+
+
+
+```{r}
+library(knitr)
+pubs$dYear <- 2023 - pubs$Year
+tab <- "Category,
+Total publications,
+,sandwich
+,CUBI
+Mean citations per publication,
+,sandwich
+,CUBI
+Median citations per publication,
+,sandwich
+,CUBI
+Mean citations per publication per year,
+,sandwich
+,CUBI
+Median citations per publication per year,
+,sandwich
+,CUBI
+Total IF,
+,sandwich
+,cubi
+Mean IF per publication,
+,sandwich
+,CUBI
+Median IF per publication,
+,sandwich
+,CUBI
+" %>% {read.table(text = ., sep=",", header=T)}
+
+pubs_cubi <- pubs %>% filter(cubi == "Yes")
+pubs_sand <- pubs %>% filter(cubi == "No")
+
+tab$Value <- c(
+nrow(pubs),
+nrow(pubs_sand),
+nrow(pubs_cubi),
+
+format(mean(pubs$cited), digits=2),
+format(mean(pubs_sand$cited), digits=2),
+format(mean(pubs_cubi$cited), digits=2),
+
+format(median(pubs$cited), digits=2),
+format(median(pubs_sand$cited), digits=2),
+format(median(pubs_cubi$cited), digits=2),
+
+format(mean(pubs$cited/pubs$dYear), digits=2),
+format(mean(pubs_sand$cited/pubs_sand$dYear), digits=2),
+format(mean(pubs_cubi$cited/pubs_cubi$dYear), digits=2),
+
+format(median(pubs$cited/pubs$dYear), digits=2),
+format(median(pubs_sand$cited/pubs_sand$dYear), digits=2),
+format(median(pubs_cubi$cited/pubs_cubi$dYear), digits=2),
+
+format(sum(pubs$IF), digits=2),
+format(sum(pubs_sand$IF), digits=2),
+format(sum(pubs_cubi$IF), digits=2),
+format(mean(pubs$IF), digits=2),
+format(mean(pubs_sand$IF), digits=2),
+format(mean(pubs_cubi$IF), digits=2),
+format(median(pubs$IF), digits=2),
+format(median(pubs_sand$IF), digits=2),
+format(median(pubs_cubi$IF), digits=2)
+
+)
+
+tab %>% kable()
+```
+
+
+
+
+
+
+
+
+```{r include=F}
+authors <- c("Beule", "Ivanov", "Holtgrewe", "Blanc", "Messerschmidt",
+             "Obermayer", "Weiner")
+names(authors) <- authors
+
+dfa <- map_dfr(authors, ~ {
+          aut <- .x
+          pubs %>% filter(grepl(aut, text, ignore.case = T)) %>%
+            summarise(Author=aut, N=n(), IF=sum(IF), Cited=sum(cited))
+             }) %>% arrange(-N)
+
+library(ggrepel)
+ggplot(dfa, aes(x=IF, y=Cited, label=Author)) + geom_point() +
+  scale_color_manual(values=c(No=pal[1], Yes=pal[2])) +
+  geom_label_repel()
+
+```
+
+
+
+
+
+
+
+

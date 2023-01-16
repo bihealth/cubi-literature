@@ -1,0 +1,223 @@
+Boschann, F.; Fischer-Zirnsak, B.; Wienker, T. F.; **Holtgrewe, M.**; Seelow, D.; Eichhorn, B.; Döhnert, S.; Fahsold, R.; Horn, D.; Graul-Neumann, L. M. *An Intronic Splice Site Alteration in Combination with a Large Deletion Affecting VPS13B (COH1) Causes Cohen Syndrome.* **European Journal of Medical Genetics 2020**, 103973. https://doi.org/10.1016/j.ejmg.2020.103973.
+num=4
+first=F
+last=F
+
+Rieke, D. T.; Klinghammer, K. F.; **Obermayer, B.**; **Blanc, E.**; **Messerschmidt, C.**; Jöhrens, K.; Klauschen, F.; Tinhofer, I.; **Beule, D.**; Keilholz, U.; Ochsenreither, S. *Association of a STK11/KEAP1-Mutation Gene Expression Signature in Lung Adenocarcinoma with Immune Desertion in Squamous Cell Carcinomas and Mediation by NFE2L2 Deregulation.* **JCO 2020**, 38 (15_suppl), 3082–3082. https://doi.org/10.1200/JCO.2020.38.15_suppl.3082.
+num=1
+first=F
+last=F
+
+Ehmke, N.; Cusmano-Ozog, K.; Koenig, R.; **Holtgrewe, M.**; Nur, B.; Mihci, E.; Babcock, H.; Gonzaga-Jauregui, C.; Overton, J. D.; Xiao, J.; Martinez, A.; Muenke, M.; Balzer, A.; Jochim, J.; El Choubassi, N.; Fischer-Zirnsak, B.; Huber, C.; Kornak, U.; Elsea, S.; Cormier-Daire, V.; Ferreira, C. R. *Biallelic Variants in KYNU Cause a Multisystemic Syndrome with Hand Hyperphalangism*. **Bone 2020**, 115219. https://doi.org/10.1016/j.bone.2019.115219.
+num=10
+last=F
+first=F
+
+Seidel, E.; Walenda, G.; **Messerschmidt, C.**; **Obermayer, B.**; Peitzsch, M.; Wallace, P.; Bahethi, R.; Yoo, T.; Choi, M.; Schrade, P.; Bachmann, S.; Liebisch, G.; Eisenhofer, G.; **Beule, D.**; Scholl, U. I. *Generation and Characterization of a Mitotane-Resistant Adrenocortical Cell Line.* **Endocrine Connections 2020**, 9 (2), 122–134. https://doi.org/10.1530/EC-19-0510.
+num=7
+last=F
+first=F
+
+Melo, U. S.; Schöpflin, R.; Acuna-Hidalgo, R.; Mensah, M. A.; Fischer-Zirnsak, B.; **Holtgrewe, M.**; Klever, M.-K.; Türkmen, S.; Heinrich, V.; Pluym, I. D.; Matoso, E.; Bernardo de Sousa, S.; Louro, P.; Hülsemann, W.; Cohen, M.; Dufke, A.; Latos-Bieleńska, A.; Vingron, M.; Kalscheuer, V.; Quintero-Rivera, F.; Spielmann, M.; Mundlos, S. *Hi-C Identifies Complex Genomic Rearrangements and TAD-Shuffling in Developmental Diseases.* **The American Journal of Human Genetics 2020**, S0002929720301257. https://doi.org/10.1016/j.ajhg.2020.04.016.
+num=63
+first=F
+last=F
+
+Robinson, P. N.; Ravanmehr, V.; Jacobsen, J. O. B.; Danis, D.; Zhang, X. A.; Carmody, L. C.; Gargano, M. A.; Thaxton, C. L.; Karlebach, G.; Reese, J.; **Holtgrewe, M.**; Köhler, S.; McMurry, J. A.; Haendel, M. A.; Smedley, D. *Interpretable Clinical Genomics with a Likelihood Ratio Paradigm.* **The American Journal of Human Genetics 2020**, S0002929720302305. https://doi.org/10.1016/j.ajhg.2020.06.021.
+num=32
+first=F
+last=F
+
+Blumenau, S.; Foddis, M.; Müller, S.; **Holtgrewe, M.**; **Bentele, K.**; Berchtold, D.; **Beule, D.**; Dirnagl, U.; Sassi, C. *Investigating APOE, APP-Aβ Metabolism Genes and Alzheimer’s Disease GWAS Hits in Brain Small Vessel Ischemic Disease.* **Sci Rep 2020**, 10 (1), 7103. https://doi.org/10.1038/s41598-020-63183-5.
+num=9
+first=F
+last=F
+
+Quade, A.; Thiel, A.; Kurth, I.; **Holtgrewe, M.**; Elbracht, M.; Beule, D.; Eggermann, K.; Scholl, U. I.; Häusler, M. *Paroxysmal Tonic Upgaze: A Heterogeneous Clinical Condition Responsive to Carbonic Anhydrase Inhibition.* **European Journal of Paediatric Neurology 2020**, 25, 181–186. https://doi.org/10.1016/j.ejpn.2019.11.002.
+num=8
+first=F
+last=F
+
+Thole, T. M.; Toedling, J.; Sprüssel, A.; Pfeil, S.; Savelyeva, L.; Capper, D.; **Messerschmidt, C.**; **Beule, D.**; Groeneveld‐Krentz, S.; Eckert, C.; Gambara, G.; Henssen, A. G.; Finkler, S.; Schulte, J. H.; Sieber, A.; Bluethgen, N.; Regenbrecht, C. R. A.; Künkele, A.; Lodrini, M.; Eggert, A.; Deubzer, H. E. *Reflection of Neuroblastoma Intratumor Heterogeneity in the New OHC‐NB1 Disease Model.* **Int. J. Cancer 2020**, 146 (4), 1031–1041. https://doi.org/10.1002/ijc.32572.
+num=9
+first=F
+last=F
+
+
+Lamping, M.; **Benary, M.**; Leyvraz, S.; **Messerschmidt, C.**; **Blanc, E.**; Kessler, T.; Schütte, M.; Lenze, D.; Jöhrens, K.; Burock, S.; Klinghammer, K.; Ochsenreither, S.; Sers, C.; Schäfer, R.; Tinhofer, I.; **Beule, D.**; Klauschen, F.; Yaspo, M.-L.; Keilholz, U.; Rieke, D. T. *Support of a Molecular Tumour Board by an Evidence-Based Decision Management System for Precision Oncology.* **European Journal of Cancer 2020**, 127, 41–51. https://doi.org/10.1016/j.ejca.2019.12.017.
+num=17
+first=T
+last=F
+
+Praktiknjo, S. D.; **Obermayer, B.**; Zhu, Q.; Fang, L.; Liu, H.; Quinn, H.; Stoeckius, M.; Kocks, C.; Birchmeier, W.; Rajewsky, N. *Tracing Tumorigenesis in a Solid Tumor Model at Single-Cell Resolution.* **Nat Commun 2020**, 11 (1), 991. https://doi.org/10.1038/s41467-020-14777-0.
+num=35
+last=F
+first=F
+
+Suter, A.; Santos‐Simarro, F.; Toerring, P. M.; Abad Perez, A.; Ramos‐Mejia, R.; Heath, K. E.; Huckstadt, V.; Parrón‐Pajares, M.; Mensah, M. A.; Hülsemann, W.; **Holtgrewe, M.**; Mundlos, S.; Kornak, U.; Bartsch, O.; Ehmke, N. *Variable Pulmonary Manifestations in Chitayat Syndrome: Six Additional Affected Individuals.* **Am J Med Genet 2020**, 182 (9), 2068–2076. https://doi.org/10.1002/ajmg.a.61735.
+num=5
+last=F
+first=F
+
+Bockstahler, M.; Fischer, A.; Goetzke, C. C.; Neumaier, H. L.; Sauter, M.; Kespohl, M.; Müller, A.-M.; Meckes, C.; Salbach, C.; Schenk, M.; Heuser, A.; Landmesser, U.; **Weiner, J.**; Meder, B.; Lehmann, L.; Kratzer, A.; Klingel, K.; Katus, H. A.; Kaya, Z.; Beling, A. *Heart-Specific Immune Responses in an Animal Model of Autoimmune-Related Myocarditis Mitigated by an Immunoproteasome Inhibitor and Genetic Ablation.* **Circulation 2020**, 141 (23), 1885–1902. https://doi.org/10.1161/CIRCULATIONAHA.119.043171.
+num=43
+first=F
+last=F
+
+Krishnamoorthy, G.; Kaiser, P.; Abu Abed, U.; **Weiner, J.**; Moura-Alves, P.; Brinkmann, V.; Kaufmann, S. H. E. *FX11 Limits Mycobacterium Tuberculosis Growth and Potentiates Bactericidal Activity of Isoniazid through Host-Directed Activity.* **Dis. Model. Mech. 2020**, 13 (3), dmm041954. https://doi.org/10.1242/dmm.041954.
+num=14
+first=F
+last=F
+
+Tregoning, J. S.; **Weiner, J.**; Cizmeci, D.; Hake, D.; Maertzdorf, J.; Kaufmann, S. H. E.; Leroux-Roels, G.; Maes, C.; Aerssens, A.; Calvert, A.; Jones, C. E. *Pregnancy Has a Minimal Impact on the Acute Transcriptional Signature to Vaccination.* **NPJ Vaccines 2020**, 5 (1), 29. https://doi.org/10.1038/s41541-020-0177-6.
+num=4
+first=F
+last=F
+
+**Weiner, J.**; Domaszewska, T.; Donkor, S.; Kaufmann, S.H.; Hill, P.C.; Sutherland, J.S., *Changes in transcript, metabolite, and antibody reactivity during the early protective immune response in humans to mycobacterium tuberculosis infection*. **Clin. Infect. Dis.**, 71(1), pp.30-40. https://academic.oup.com/cid/article-abstract/71/1/30/5550193
+num=12
+first=T
+last=F
+
+Win, Z.; **Weiner, J.** Listanco, A.; Patel, N.; Sharma, R.; Busza, A.; Greenwood, A.; Maertzdorf, J.; Mollenkopf, H.-J.; Pizzoferro, K.; Cole, T.; Bodinham, C. L.; Kaufmann, S. H.; Denoel, P.; del Giudice, G.; Lewis, D.J.  *Systematic evaluation of kinetics and distribution of muscle and lymph node activation measured by 18F-FDG- and 11C-PBR28-PET/CT imaging, and whole blood and muscle transcriptomics after immunisation of healthy humans with adjuvanted and unadjuvanted vaccines*. **Frontiers Immun.**, https://www.frontiersin.org/articles/10.3389/fimmu.2020.613496/abstract
+num=5
+first=T
+last=F
+
+
+
+**Holtgrewe, M.; Messerschmidt, C.; Nieminen, M.; Beule, D.** *Digestiflow: From BCL to FASTQ with Ease*. **Bioinformatics 2019**, btz850. https://doi.org/10.1093/bioinformatics/btz850.
+num=2
+first=T
+last=T
+
+**Schumann, F.; Blanc, E.; Messerschmidt, C.**; Blankenstein, T.; Busse, A.; **Beule, D.** *SigsPack, a Package for Cancer Mutational Signatures*. **BMC Bioinformatics 2019**, 20 (1), 450. https://doi.org/10.1186/s12859-019-3043-7.
+num=10
+first=T
+last=T
+
+**Blanc, E.; Holtgrewe, M.**; Dhamodaran, A.; **Messerschmidt, C.**; Willimsky, G.; Blankenstein, T.; **Beule, D.** *Identification and Ranking of Recurrent Neo-Epitopes in Cancer*. **BMC Med Genomics 2019**, 12 (1), 171. https://doi.org/10.1186/s12920-019-0611-7.
+num=2
+first=T
+last=T
+
+Boeddrich, A.; Babila, J. T.; Wiglenda, T.; Diez, L.; Jacob, M.; Nietfeld, W.; Huska, M. R.; Haenig, C.; Groenke, N.; Buntru, A.; **Blanc, E.**; Meier, J. C.; Vannoni, E.; Erck, C.; Friedrich, B.; Martens, H.; Neuendorf, N.; Schnoegl, S.; Wolfer, D. P.; Loos, M.; **Beule, D.**; Andrade-Navarro, M. A.; Wanker, E. E. *The Anti-Amyloid Compound DO1 Decreases Plaque Pathology and Neuroinflammation-Related Expression Changes in 5xFAD Transgenic Mice*. **Cell Chem Biol 2019**, 26(1), 109-120.e7. https://doi.org/10.1016/j.chembiol.2018.10.013.
+num=6
+first=F
+last=F
+
+**Borgsmüller, N.; Gloaguen, Y.**; Opialla, T.; **Blanc, E.**; Sicard, E.; Royer, A.-L.; Le Bizec, B.; Durand, S.; Migné, C.; Pétéra, M.; Pujos-Guillot, E.; Giacomoni, F.; Guitton, Y.; **Beule, D.**; Kirwan, J. *WiPP: Workflow for Improved Peak Picking for Gas Chromatography-Mass Spectrometry (GC-MS) Data*. **Metabolites 2019**, 9(9). https://doi.org/10.3390/metabo9090171.
+num=14
+first=T
+last=F
+
+Buonfiglioli, A.; Efe, I. E.; Guneykaya, D.; **Ivanov, A.**; Huang, Y.; Orlowski, E.; Krüger, C.; Deisz, R. A.; Markovic, D.; Flüh, C.; Newman, A. G.; Schneider, U. C.; **Beule, D.**; Wolf, S. A.; Dzaye, O.; Gutmann, D. H.; Semtner, M.; Kettenmann, H.; Lehnardt, S. *Let-7 MicroRNAs Regulate Microglial Function and Suppress Glioma Growth through Toll-Like Receptor 7*. **Cell Rep 2019**, 29 (11), 3460-3471.e7. https://doi.org/10.1016/j.celrep.2019.11.029.
+num=47
+first=F
+last=F
+
+Foddis, M.; Winek, K.; **Bentele, K.**; Mueller, S.; Blumenau, S.; Reichhart N, N.; Crespo-Garcia, S.; Harnett, D.; **Ivanov, A.**; Meisel, A.; Joussen, A.; Strauss, O.; **Beule, D.**; Dirnagl, U.; Sassi, C. *An Exploratory Investigation of Brain Collateral Circulation Plasticity after Cerebral Ischemia in Two Experimental C57BL/6 Mouse Models*. **J. Cereb. Blood Flow Metab. 2019**, 271678X19827251. https://doi.org/10.1177/0271678X19827251.
+num=12
+first=F
+last=F
+
+Kühnisch, J.; Herbst, C.; Al‐Wakeel‐Marquard, N.; Dartsch, J.; **Holtgrewe, M.**; Baban, A.; Mearini, G.; Hardt, J.; Kolokotronis, K.; Gerull, B.; Carrier, L.; **Beule, D.**; Schubert, S.; Messroghli, D.; Degener, F.; Berger, F.; Klaassen, S. *Targeted Panel Sequencing in Pediatric Primary Cardiomyopathy Supports a Critical Role of TNNI3*. **Clin Genet 2019**, 96 (6), 549–559. https://doi.org/10.1111/cge.13645.
+num=19
+first=F
+last=F
+
+**Kuhring, M.; Nieminen, M.**; Kirwan, J.; **Beule, D.; Holtgrewe, M.** *AltamISA: A Python API for ISA-Tab Files*. **JOSS 2019**, 4 (40), 1610. https://doi.org/10.21105/joss.01610.
+num=2
+first=T
+last=T
+
+Lamping, M.; Rieke, D. T.; Klauschen, F.; Jöhrens, K.; Anagnostopoulos, I.; Lenze, D.; Tinhofer, I.; Benary, M.; Ochsenreither, S.; Klinghammer, K. F.; Burock, S.; Jann, H.; Stüven, A. K.; Ditzen, **D.; Beule, D.; Messerschmidt, C.; Blanc**, E.; Schäfer, R.; Keilholz, U. *Clinical Impact of Comprehensive versus Targeted Genomic Analysis for Precision Oncology*. **JCO 2019**, 37 (15_suppl), e13033–e13033. https://doi.org/10.1200/JCO.2019.37.15_suppl.e13033.
+num=0
+first=F
+last=F
+
+Quade, A.; Thiel, A.; Kurth, I.; **Holtgrewe, M.**; Elbracht, M.; **Beule, D.**; Eggermann, K.; Scholl, U. I.; Häusler, M. *Paroxysmal Tonic Upgaze: A Heterogeneous Clinical Condition Responsive to Carbonic Anhydrase Inhibition*. **Eur. J. Paediatr. Neurol. 2019**. https://doi.org/10.1016/j.ejpn.2019.11.002.
+num=8
+first=F
+last=F
+
+Herda, S.; Heimann, A.; Althoff, S.; Ruß, J.; Bullinger, L.; **Beule, D.**; **Obermayer, B.**; Na, I.-K. *Long-Term T Cell Expansion Results in Increased Numbers of Central Memory T Cells with Sustained Functional Properties for Adoptive T Cell Therapy*. **Blood 2019**, 134 (Supplement_1), 1943–1943. https://doi.org/10.1182/blood-2019-124736.
+num=0
+first=F
+last=F
+
+van Heesch, S.; Witte, F.; Schneider-Lunitz, V.; Schulz, J. F.; Adami, E.; Faber, A. B.; Kirchner, M.; Maatz, H.; Blachut, S.; Sandmann, C.-L.; Kanda, M.; Worth, C. L.; Schafer, S.; Calviello, L.; Merriott, R.; Patone, G.; Hummel, O.; Wyler, E.; **Obermayer, B.**; Mücke, M. B.; Lindberg, E. L.; Trnka, F.; Memczak, S.; Schilling, M.; Felkin, L. E.; Barton, P. J. R.; Quaife, N. M.; Vanezis, K.; Diecke, S.; Mukai, M.; Mah, N.; Oh, S.-J.; Kurtz, A.; Schramm, C.; Schwinge, D.; Sebode, M.; Harakalova, M.; Asselbergs, F. W.; Vink, A.; de Weger, R. A.; Viswanathan, S.; Widjaja, A. A.; Gärtner-Rommel, A.; Milting, H.; dos Remedios, C.; Knosalla, C.; Mertins, P.; Landthaler, M.; Vingron, M.; Linke, W. A.; Seidman, J. G.; Seidman, C. E.; Rajewsky, N.; Ohler, U.; Cook, S. A.; Hubner, N. *The Translational Landscape of the Human Heart*. **Cell 2019**, 178 (1), 242-260.e29. https://doi.org/10.1016/j.cell.2019.05.010.
+num=298
+first=F
+last=F
+
+
+**Holtgrewe, M.**; Knaus, A.; Hildebrand, G.; Pantel, J.-T.; Santos, M. R. de L.; Neveling, K.; Goldmann, J.; Schubach, M.; Jäger, M.; Coutelier, M.; Mundlos, S.; **Beule, D.**; Sperling, K.; Krawitz, P. M. *Multisite de Novo Mutations in Human Offspring after Paternal Exposure to Ionizing Radiation*. **Sci Rep 2018**, 8 (1), 14611. https://doi.org/10.1038/s41598-018-33066-x.
+num=22
+first=T
+last=F
+
+Guneykaya, D.; **Ivanov, A.**; Hernandez, D. P.; Haage, V.; Wojtas, B.; Meyer, N.; Maricos, M.; Jordan, P.; Buonfiglioli, A.; Gielniewski, B.; Ochocka, N.; Cömert, C.; Friedrich, C.; Artiles, L. S.; Kaminska, B.; Mertins, P.; **Beule, D.**; Kettenmann, H.; Wolf, S. A. *Transcriptional and Translational Differences of Microglia from Male and Female Brains*. Cell Rep 2018, 24 (10), 2773-2783.e6. https://doi.org/10.1016/j.celrep.2018.08.001.
+num=240
+first=T
+last=F
+
+Rieke, D. T.; Lamping, M.; Klauschen, F.; Ochsenreither, S.; Schütte, M.; Kessler, T.; Klinghammer, K. F.; Jöhrens, K.; **Messerschmidt, C.**; Lenze, D.; Burock, S.; Ditzen, D.; Schäfer, R.; Pavel, M.; Tinhofer, I.; Sers, C.; **Beule, D.**; Yaspo, M.-L.; Leyvraz, S.; Keilholz, U. *Efficacy of a Structured Workflow for the Interpretation of Comprehensive Genomic Analysis Data in Clinical Routine*. **JCO 2018**, 36 (15_suppl), e24164–e24164. https://doi.org/10.1200/JCO.2018.36.15_suppl.e24164.
+num=1
+first=F
+last=F
+
+Salatzki, J.; Foryst-Ludwig, A.; **Bentele, K.**; Blumrich, A.; Smeir, E.; Ban, Z.; Brix, S.; Grune, J.; Beyhoff, N.; Klopfleisch, R.; Dunst, S.; Surma, M. A.; Klose, C.; Rothe, M.; Heinzel, F. R.; Krannich, A.; Kershaw, E. E.; **Beule, D.**; Schulze, P. C.; Marx, N.; Kintscher, U. *Adipose Tissue ATGL Modifies the Cardiac Lipidome in Pressure-Overload-Induced Left Ventricular Failure*. **PLoS Genet. 2018**, 14 (1), e1007171. https://doi.org/10.1371/journal.pgen.1007171.
+num=34
+first=F
+last=F
+
+
+Kammertoens, T.; Friese, C.; Arina, A.; Idel, C.; Briesemeister, D.; Rothe, M.; **Ivanov, A.**; Szymborska, A.; Patone, G.; Kunz, S.; Sommermeyer, D.; Engels, B.; Leisegang, M.; Textor, A.; Fehling, H. J.; Fruttiger, M.; Lohoff, M.; Herrmann, A.; Yu, H.; Weichselbaum, R.; Uckert, W.; Hübner, N.; Gerhardt, H.; **Beule, D.**; Schreiber, H.; Blankenstein, T. *Tumour Ischaemia by Interferon-γ Resembles Physiological Blood Vessel Regression*. **Nature 2017**, 545 (7652), 98–102. https://doi.org/10.1038/nature22311.
+num=181
+first=F
+first=F
+last=F
+journal=Nature
+
+Mamlouk, S.; Childs, L. H.; Aust, D.; Heim, D.; Melching, F.; Oliveira, C.; Wolf, T.; Durek, P.; Schumacher, D.; Bläker, H.; von Winterfeld, M.; Gastl, B.; Möhr, K.; Menne, A.; Zeugner, S.; Redmer, T.; Lenze, D.; Tierling, S.; Möbs, M.; Weichert, W.; Folprecht, G.; **Blanc, E.; Beule, D.**; Schäfer, R.; Morkel, M.; Klauschen, F.; Leser, U.; Sers, C. *DNA Copy Number Changes Define Spatial Patterns of Heterogeneity in Colorectal Cancer*. **Nat Commun 2017**, 8, 14093. https://doi.org/10.1038/ncomms14093.
+num=79
+first=F
+last=F
+journal=Nat Comm
+
+Mattei, D.; **Ivanov, A.**; Ferrai, C.; Jordan, P.; Guneykaya, D.; Buonfiglioli, A.; Schaafsma, W.; Przanowski, P.; Deuther-Conrad, W.; Brust, P.; Hesse, S.; Patt, M.; Sabri, O.; Ross, T. L.; Eggen, B. J. L.; Boddeke, E. W. G. M.; Kaminska, B.; **Beule, D.**; Pombo, A.; Kettenmann, H.; Wolf, S. A. *Maternal Immune Activation Results in Complex Microglial Transcriptome Signature in the Adult Offspring That Is Reversed by Minocycline Treatment*. **Transl Psychiatry 2017**, 7 (5), e1120–e1120. https://doi.org/10.1038/tp.2017.80.
+num=157
+first=T
+journal=Transl Psychiatry
+
+**Messerschmidt, C.; Holtgrewe, M.; Beule, D.** *HLA-MA: Simple yet Powerful Matching of Samples Using HLA Typing Results*. **Bioinformatics 2017**, 33 (14), 2241–2242. https://doi.org/10.1093/bioinformatics/btx132.
+num=0
+first=T
+last=T
+journal=Bioinformatics
+
+Rieke, D. T.; **Messerschmidt, C.**; Ochsenreither, S.; Klinghammer, K. F.; Tinhofer, I.; Jöhrens, K.; Klauschen, F.; **Beule, D.**; Keilholz, U. *Association of an APOBEC Mutational Signature, Mutational Load, and BRCAness with Inflammation and PD-L1 Expression in HNSCC*. **JCO 2017**, 35 (15_suppl), e14613–e14613. https://doi.org/10.1200/JCO.2017.35.15_suppl.e14613.
+num=0
+first=F
+last=F
+journal=Journal of Clinical Oncology
+
+
+Yaakov, G.; Lerner, D.; **Bentele, K.**; Steinberger, J.; Barkai, N. Coupling *Phenotypic Persistence to DNA Damage Increases Genetic Diversity in Severe Stress*. **Nat Ecol Evol 2017**, 1 (1), 0016. https://doi.org/10.1038/s41559-016-0016.
+num=40
+first=F
+last=F
+journal=Nature Ecology Evolution
+
+**Holtgrewe, M.; Beule, D.** *VCFPy: A Python 3 Library with Good Support for Both Reading and Writing VCF*. **JOSS 2016**, 1 (6), 85. https://doi.org/10.21105/joss.00085.
+num=3
+first=T
+last=T
+journal=JOSS
+
+Smedley, D.; Jacobsen, J. O. B.; Jäger, M.; Köhler, S.; **Holtgrewe, M.**; Schubach, M.; Siragusa, E.; Zemojtel, T.; Buske, O. J.; Washington, N. L.; Bone, W. P.; Haendel, M. A.; Robinson, P. N. *Next-Generation Diagnostics and Disease-Gene Discovery with the Exomiser*. **Nat Protoc 2015**, 10 (12), 2004–2015. https://doi.org/10.1038/nprot.2015.124.
+num=251
+first=F
+last=F
+journal=Nature Protocols
