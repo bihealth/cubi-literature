@@ -23,6 +23,14 @@ Göppel T, **Obermayer  B**, Chen I, Gerland U (2021). “A kinetic error filter
 doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.1101/2021.08.06.455386.abstract)
 
 
+# 2023
+
+
+Müller R, Freitag-Wolf S, **Weiner  J3**, Chopra A, Top T, Dommisch H, Schaefer A (2023). “Case-only design identifies interactions of genetic risk variants
+at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of periodontal wound healing for disease aetiology.” _J Clin Periodontol_,
+*50*, 90-101. doi:10.1111/jcpe.13712  [☞ Link](https://doi.org/10.1111/jcpe.13712)
+
+
 # 2022
 
 
@@ -153,14 +161,6 @@ detection of copy number variants from whole-genome sequencing.” _Eur J Hum Ge
 Vogt G, Verheyen S, Schwartzmann S, Ehmke N, Potratz C, Schwerin-Nagel A, Plecko B, **Holtgrewe  M**, Seelow D, Blatterer J, Speicher M, Kornak U, Horn D,
 Mundlos S, Fischer-Zirnsak B, Boschann F (2022). “Biallelic truncating variants in ATP9A cause a novel neurodevelopmental disorder involving postnatal
 microcephaly and failure to thrive.” _J Med Genet_, *59*(7), 662-668. doi:10.1136/jmedgenet-2021-107843  [☞ Link](https://doi.org/10.1136/jmedgenet-2021-107843)
-
-
-# 2023
-
-
-Müller R, Freitag-Wolf S, **Weiner  J3**, Chopra A, Top T, Dommisch H, Schaefer A (2023). “Case-only design identifies interactions of genetic risk variants
-at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of periodontal wound healing for disease aetiology.” _J Clin Periodontol_,
-*50*, 90-101. doi:10.1111/jcpe.13712  [☞ Link](https://doi.org/10.1111/jcpe.13712)
 
 
 # 2021
