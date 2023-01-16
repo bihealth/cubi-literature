@@ -1,8 +1,9 @@
 **Nieminen  M**, **Stolpe  O**, **Kuhring  M**, **Weiner  J**, **Pett  P** (2022). “SODAR: enabling, modeling, and managing multi-omics integration studies.” _bioRxiv_.
 doi:10.1101/2022.08.19.504516  [☞ Link](https://www.biorxiv.org/content/10.1101/2022.08.19.504516.abstract)
 
-Graff P, Wolzopolski J, Voss A, Blimkie T, **Weiner  J** (2022). “Extracellular matrix remodeling in atopic dermatitis harnesses the onset of an asthmatic
-phenotype and is a potential contributor to the atopic march.” _medRxiv_. doi:10.1101/2022.01.17.22269397  [☞ Link](https://www.medrxiv.org/content/10.1101/2022.01.17.22269397.abstract)
+Graff P, Wilzopolski J, Voss A, Blimkie TM, 3rd JW, Kershaw O, Panwar P, Hackett T, Brömme D, Loyal L, Thiel A, **Beule  D**, Hancock RE, Gruber AD, Bäumer
+W, Hedtrich S (2022). “Extracellular matrix remodeling in atopic dermatitis harnesses the onset of an asthmatic phenotype and is a potential contributor
+to the atopic march.” _medRxiv_. doi:10.1101/2022.01.17.22269397  [☞ Link](https://www.medrxiv.org/content/10.1101/2022.01.17.22269397.abstract)
 
 Mothes R, Pascual-Reguant A, Koehler R, Liebeskind J, Liebheit A, Bauherr S, Dittmayer C, Laue M, Manitius R, Elezkurtaj S, Durek P, Heinrich F, Heinz
 GA, Guerra GM, **Obermayer  B**, Meinhardt J, Ihlow J, Radke J, Heppner FL, Enghard P, Stockmann H, Aschman T, Schneider J, Corman V, Sander LE, Mashreghi M,
