@@ -58,7 +58,7 @@ M, Wesselmann H, Suttorp N, Uhrig A, Müller-Redetzky H, Nattermann J, Kuebler W
 Sander L, Blüthgen N, Sawitzki B, PA-COVID-19 SG (2022). “Complement activation induces excessive T cell cytotoxicity in severe COVID-19.” _Cell_,
 *185*(3), 493-512.e25. ISSN 0092-8674, doi:10.1016/j.cell.2021.12.040  [☞ Link](https://doi.org/10.1016/j.cell.2021.12.040)
 
-Zinnall U, Milek M, Minia I, Vieira-Vieira C, Müller S, Mastrobuoni G, Hazapis O, Del GS, Schwefel D, Bley N, Voigt F, Chao J, Kempa S, Hüttelmaier S,
+Zinnall U, **Milek  M**, Minia I, Vieira-Vieira C, Müller S, Mastrobuoni G, Hazapis O, Del GS, Schwefel D, Bley N, Voigt F, Chao J, Kempa S, Hüttelmaier S,
 Selbach M, Landthaler M (2022). “HDLBP binds ER-targeted mRNAs by multivalent interactions to promote protein synthesis of transmembrane and secreted
 proteins.” _Nat Commun_, *13*(1), 2727. doi:10.1038/s41467-022-30322-7  [☞ Link](https://doi.org/10.1038/s41467-022-30322-7)
 
