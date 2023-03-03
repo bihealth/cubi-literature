@@ -1,4 +1,4 @@
-# Preprints
+### Preprints
 
 
 **Nieminen  M**, **Stolpe  O**, **Kuhring  M**, **Weiner  J**, **Pett  P** (2022). “SODAR: enabling, modeling, and managing multi-omics integration studies.” _bioRxiv_.
@@ -24,8 +24,12 @@ Göppel T, **Obermayer  B**, Chen I, Gerland U (2021). “A kinetic error filter
 doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.1101/2021.08.06.455386.abstract)
 
 
-# 2023
+### 2023
 
+
+Spranger L, 3rd JW, Bredow J, Zeitz U, Grittner U, Boschmann M, Dickmann S, Stobäus N, Schwartzenberg RJ, Brachs M, others (2023). “Thrifty energy
+phenotype predicts weight regain in postmenopausal women with overweight or obesity and is related to FGFR1 signaling.” _Clinical Nutrition_, *42*,
+559-567. doi:10.1016/j.clnu.2023.02.020  [☞ Link](https://www.sciencedirect.com/science/article/abs/pii/S0261561423000560)
 
 Freitag K, Eede P, **Ivanov  A**, Sterczyk N, Schneeberger S, Borodina T, Sauer S, **Beule  D**, Heppner F (2023). “Diverse but unique astrocytic phenotypes
 during embryonic stem cell differentiation, culturing and development.” _Commun Biol_, *6*, 40. doi:10.1038/s42003-023-04410-3
@@ -36,7 +40,7 @@ at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of peri
 *50*, 90-101. doi:10.1111/jcpe.13712  [☞ Link](https://doi.org/10.1111/jcpe.13712)
 
 
-# 2022
+### 2022
 
 
 Jarick K, Topczewska P, Jakob M, Yano H, Arifuzzaman M, Gao X, Boulekou S, Stokic-Trtica V, Leclère P, Preußer A, Rompe Z, Stamm A, Tsou A, Chu C,
@@ -173,7 +177,7 @@ Mundlos S, Fischer-Zirnsak B, Boschann F (2022). “Biallelic truncating variant
 microcephaly and failure to thrive.” _J Med Genet_, *59*(7), 662-668. doi:10.1136/jmedgenet-2021-107843  [☞ Link](https://doi.org/10.1136/jmedgenet-2021-107843)
 
 
-# 2021
+### 2021
 
 
 Schinke C, Fernandez VV, **Ivanov  A**, Peng Y, Körtvelyessy P, Nolte L, Huehnchen P, **Beule  D**, Stachelscheid H, Boehmerle W, Endres M (2021). “Dataset for:
@@ -293,7 +297,7 @@ isolated polysyndactyly are not restricted to the protein's C-terminal third.”
  [☞ Link](https://doi.org/10.1111/cge.14059)
 
 
-# 2020
+### 2020
 
 
 Mattei D, **Ivanov  A**, van OM, Pantelyushin S, Richetto J, Mueller F, Beffinger M, Schellhammer L, Vom BJ, Wollscheid B, **Beule  D**, Paolicelli R, Meyer U
@@ -413,7 +417,7 @@ condition responsive to carbonic anhydrase inhibition.” _Eur J Paediatr Neurol
  [☞ Link](https://doi.org/10.1016/j.ejpn.2019.11.002)
 
 
-# 2019
+### 2019
 
 
 **Holtgrewe  M**, **Messerschmidt  C**, **Nieminen  M**, **Beule  D** (2019). “Digestiflow: From BCL to FASTQ with Ease.” _Bioinformatics_.
@@ -461,7 +465,7 @@ N (2019). “The Translational Landscape of the Human Heart.” _Cell_, *178*, 2
  [☞ Link](https://doi.org/10.1016/j.cell.2019.05.010)
 
 
-# 2018
+### 2018
 
 
 **Holtgrewe  M**, Knaus A, Hildebrand G, Pantel J, Santos M, Neveling K, Goldmann J, Schubach M, Jäger M, Coutelier M, Mundlos S, **Beule  D**, Sperling K,
@@ -483,7 +487,7 @@ pressure-overload-induced left ventricular failure.” _PLoS Genet_, *14*, e1007
  [☞ Link](https://doi.org/10.1371/journal.pgen.1007171)
 
 
-# 2017
+### 2017
 
 
 Kammertoens T, Friese C, Arina A, Idel C, Briesemeister D, Rothe M, **Ivanov  A**, Szymborska A, Patone G, Kunz S, Sommermeyer D, Engels B, Leisegang M,
@@ -512,7 +516,7 @@ Yaakov G, Lerner D, **Bentele  K**, Steinberger J, Barkai N (2017). “Coupling 
 stress.” _Nat Ecol Evol_, *1*, 16. doi:10.1038/s41559-016-0016  [☞ Link](https://doi.org/10.1038/s41559-016-0016)
 
 
-# 2016
+### 2016
 
 
 **Holtgrewe  M**, **Beule  D** (2016). “VCFPy: A Python 3 Library with Good Support for Both Reading and Writing VCF.” _JOSS_, *1*(6), 85. doi:10.21105/joss.00085

@@ -1,3 +1,7 @@
+Spranger L, 3rd JW, Bredow J, Zeitz U, Grittner U, Boschmann M, Dickmann S, Stobäus N, Schwartzenberg RJ, Brachs M, others (2023). “Thrifty energy
+phenotype predicts weight regain in postmenopausal women with overweight or obesity and is related to FGFR1 signaling.” _Clinical Nutrition_, *42*,
+559-567. doi:10.1016/j.clnu.2023.02.020  [☞ Link](https://www.sciencedirect.com/science/article/abs/pii/S0261561423000560)
+
 Freitag K, Eede P, **Ivanov  A**, Sterczyk N, Schneeberger S, Borodina T, Sauer S, **Beule  D**, Heppner F (2023). “Diverse but unique astrocytic phenotypes
 during embryonic stem cell differentiation, culturing and development.” _Commun Biol_, *6*, 40. doi:10.1038/s42003-023-04410-3
  [☞ Link](https://doi.org/10.1038/s42003-023-04410-3)
