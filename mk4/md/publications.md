@@ -27,6 +27,10 @@ doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.110
 ### 2023
 
 
+Winkler W, Díaz CF, **Blanc  E**, Napieczynska H, Langner P, Werner M, Walter B, Wollert-Wulf B, Yasuda T, Heuser A, **Beule  D**, Mathas S, Anagnostopoulos I,
+Rosenwald A, Rajewsky K, Janz M (2023). “Mouse models of human multiple myeloma subgroups.” _Proceedings of the National Academy of Sciences of the
+United States of America_, *120*, e2219439120. ISSN 1091-6490, doi:10.1073/pnas.2219439120  [☞ Link](https://doi.org/10.1073/pnas.2219439120)
+
 Spranger L, **Weiner  J**, Bredow J, Zeitz U, Grittner U, Boschmann M, Dickmann S, Stobaus N, Schwartzenberg JJ, Brachs M, Spranger J, Mai K (2023). “Thrifty
 energy phenotype predicts weight regain in postmenopausal women with overweight or obesity and is related to FGFR1 signaling.” _Clinical Nutrition_,
 *42*, 559-567. doi:10.1016/j.clnu.2023.02.020  [☞ Link](https://www.sciencedirect.com/science/article/abs/pii/S0261561423000560)
