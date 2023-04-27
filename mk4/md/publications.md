@@ -27,6 +27,11 @@ doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.110
 ### 2023
 
 
+Stellmach C, Sass J, Auber B, Boeker M, Wienker T, Heidel AJ, **Benary  M**, Schumacher S, Ossowski S, Klauschen F, Möller Y, Schmutzler R, Ustjanzew A,
+Werner P, Tomczak A, Hölter T, Thun S (2023). “Creation of a structured molecular genomics report for Germany as a local adaption of HL7’s Genomic
+Reporting Implementation Guide.” _Journal of the American Medical Informatics Association_. ISSN 1527-974X, doi:10.1093/jamia/ocad061
+ [☞ Link](https://doi.org/10.1093/jamia/ocad061)
+
 Winkler W, Díaz CF, **Blanc  E**, Napieczynska H, Langner P, Werner M, Walter B, Wollert-Wulf B, Yasuda T, Heuser A, **Beule  D**, Mathas S, Anagnostopoulos I,
 Rosenwald A, Rajewsky K, Janz M (2023). “Mouse models of human multiple myeloma subgroups.” _Proceedings of the National Academy of Sciences of the
 United States of America_, *120*, e2219439120. ISSN 1091-6490, doi:10.1073/pnas.2219439120  [☞ Link](https://doi.org/10.1073/pnas.2219439120)
