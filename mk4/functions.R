@@ -59,6 +59,7 @@ benary
 messerschmidt
 obermayer
 holtgrewe
+zuljan
 nieminen
 milek
 weiner
@@ -78,7 +79,7 @@ is_cubi_first <- function(bibe) {
 #' Format bibliography
 format_bib_md <- function(bibs, highlight_authors=NULL, add_url=TRUE) {
 
-  ret <- map_chr(bibs, format) 
+  ret <- map_chr(1:length(bibs), ~ format(bibs[[.x]]))
   if(!is.null(highlight_authors)) {
     auth_regex <- paste0(highlight_authors, collapse="|")
     auth_regex <- paste0("(", auth_regex, ")( *[[:blank:][:alnum:]]+[[:alnum:]])", collapse="|")
