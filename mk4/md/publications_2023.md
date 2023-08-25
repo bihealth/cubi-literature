@@ -1,5 +1,5 @@
 de Bortoli T, **Benary  M**, Horak P, Lamping M, Stintzing S, Tinhofer I,
-Leyvraz S, Sch"afer R, Klauschen F, Keller U, Rieke DT, Jelas I (2023).
+Leyvraz S, Schäfer R, Klauschen F, Keller U, Rieke DT, Jelas I (2023).
 “Tumour mutational burden and survival with molecularly matched
 therapy.” _European Journal of Cancer_, *190*, 112925.
 doi:10.1016/j.ejca.2023.05.013

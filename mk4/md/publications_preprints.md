@@ -1,3 +1,21 @@
+Jahn D, Knapstein PR, Otto E, Köhli P, Sevecke J, Graef F, Graffmann C,
+Fuchs M, Jiang S, Rickert M, Erdmann C, Appelt J, Revend L, Küttner Q,
+Witte J, Rahmani A, Duda G, Xie W, Donat A, Schinke T, **Ivanov  A**,
+Tchouto MN, **Beule  D**, Frosch K, Baranowsky A, Tsitsilonis S, Keller J
+(2023). “Increased beta2-adrenergic signaling is a targetable stimulus
+essential for bone healing by promoting callus neovascularization.”
+_bioRxiv_, 2023-07. doi:doi.org/10.1101/2023.07.14.548550
+ [☞ Link](https://www.biorxiv.org/content/10.1101/2023.07.14.548550v1.abstract)
+
+Boeddrich A, Haenig C, Neuendorf N, **Blanc  E**, **Ivanov  A**, Kirchner M,
+Schleumann P, Bayraktaroglu I, Richter M, Molenda CM, Sporbert A,
+Zenkner M, Schnoegl S, Suenkel C, Schneider L, Rybak-Wolf A, Kochnowsky
+B, Byrne LM, Wild EJ, Nielsen JE, Dittmar G, Peters O, **Beule  D**, Wanker
+EE (2023). “A proteomics analysis of 5xFAD mouse brain regions reveals
+the lysosome-associated protein Arl8b as a candidate biomarker for
+Alzheimer's disease.” _bioRxiv_, 2023-01. doi:10.1101/2023.01.16.523715
+ [☞ Link](https://www.biorxiv.org/content/10.1101/2023.01.16.523715v1.abstract)
+
 Ermshaus A, Piechotta M, Ruter G, Keilholz U, Leser U, **Benary  M** (2023).
 “preon: Fast and accurate entity normalization for drug names and
 cancer types in precision oncology.” _bioRxiv_, 2023-05.
@@ -13,7 +31,7 @@ _medRxiv_. doi:10.1101/2022.01.17.22269397
  [☞ Link](https://www.medrxiv.org/content/10.1101/2022.01.17.22269397.abstract)
 
 Mothes R, Pascual-Reguant A, Koehler R, Liebeskind J, Liebheit A,
-Bauherr S, Dittmayer C, Laue M, Manitius R, Elezkurtaj S, Durek P,
+Bauherr S, Dittmayer C, Laue M, von~Manitius R, Elezkurtaj S, Durek P,
 Heinrich F, Heinz GA, Guerra GM, **Obermayer  B**, Meinhardt J, Ihlow J,
 Radke J, Heppner FL, Enghard P, Stockmann H, Aschman T, Schneider J,
 Corman V, Sander LE, Mashreghi M, Conrad T, Hocke A, Niesner RA,
