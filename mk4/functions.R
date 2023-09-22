@@ -82,7 +82,9 @@ format_bib_md <- function(bibs, highlight_authors=NULL, add_url=TRUE) {
   ret <- map_chr(1:length(bibs), ~ format(bibs[[.x]]))
   if(!is.null(highlight_authors)) {
     auth_regex <- paste0(highlight_authors, collapse="|")
-    auth_regex <- paste0("(", auth_regex, ")( *[[:blank:][:alnum:]]+[[:alnum:]])", collapse="|")
+    # either single initial letter or multiple letters and spaces ending in a letter
+    initial_re <- "([[:alnum:]]|[[:alnum:]]+[[:space:][:alnum:]]*[[:alnum:]])"
+    auth_regex <- paste0("\\b(", auth_regex, ")\\b[[:space:]]+", initial_re, collapse="|")
     ret <- map_chr(ret, ~ gsub(auth_regex, "**\\1 \\2**", ., ignore.case=TRUE))
   }
 
