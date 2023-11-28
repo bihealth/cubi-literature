@@ -1,3 +1,25 @@
+Ludwik KA, Opitz R, Jyrch S, Megges M, **Weiner J**, **Beule D**, Kühnen P, Stachelscheid H (2023). “Generation of iPSC lines with SLC16A2: G410R or SLC16A2
+knock out.” _Stem Cell Research_, 103256. doi:10.1016/j.scr.2023.103256  [☞ Link](https://www.sciencedirect.com/science/article/pii/S1873506123002428)
+
+Schneemann M, Heils L, Moos V, Weiß F, Krug SM, **Weiner J**, **Beule D**, Gerhard R, Schulzke J, Bücker R (2023). “A Colonic Organoid Model Challenged with the
+Large Toxins of Clostridioides difficile TcdA and TcdB Exhibit Deregulated Tight Junction Proteins.” _Toxins_, *15*(11), 643. doi:10.3390/toxins15110643
+ [☞ Link](https://www.mdpi.com/2072-6651/15/11/643)
+
+Monsorno K, Ginggen K, **Ivanov A**, Buckinx A, Lalive AL, Tchenio A, Benson S, Vendrell M, D’Alessandro A, **Beule D**, Pellerin L, Mameli M, Paolicelli RC
+(2023). “Loss of microglial MCT4 leads to defective synaptic pruning and anxiety-like behavior in mice.” _Nature Communications_, *14*(1), 5749.
+
+Zheng L, Chopra A, **Weiner J**, **Beule D**, Dommisch H, Schaefer A (2023). “miRNAs from inflamed gingiva link gene signaling to increased MET expression.”
+_Journal of Dental Research_, 00220345231197984. doi:10.1177/002203452311979  [☞ Link](https://journals.sagepub.com/doi/full/10.1177/00220345231197984)
+
+Mhlekude B, Postmus D, Stenzel S, **Weiner J**, Jansen J, Zapatero-Belinchòn FJ, Olmer R, Richter A, Heinze J, Heinemann N, Mühlemann B, Schroeder S, Jones
+TC, Müller MA, Drosten C, Pich A, Thiel V, Martin U, Niemeyer D, Gerold G, **Beule D**, Goffinet C (2023). “Pharmacological inhibition of bromodomain and
+extra-terminal proteins induces an NRF-2-mediated antiviral state that is subverted by SARS-CoV-2 infection.” _PLoS pathogens_, *19*(9), e1011657.
+doi:10.1371/journal.ppat.1011657  [☞ Link](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011657)
+
+**Benary M**, Wang XD, Schmidt M, Soll D, Hilfenhaus G, Nassir M, Sigler C, Knödler M, Keller U, **Beule D**, Keilholz U, Leser U, Rieke DT (2023). “Leveraging
+Large Language Models for Decision Support in Personalized Oncology.” _JAMA Network Open_, *6*(11), e2343689-e2343689.
+doi:10.1001/jamanetworkopen.2023.43689 
+
 Briest F, Noerenberg D, Hennch C, Yoshida K, Hablesreiter R, Nimo J, Sasca D, Kirchner M, Mansouri L, Inoue Y, Wiegand L, Staiger AM, Casadei B,
 Korkolopoulou P, **Weiner J**, Lopez-Guillermo A, Warth A, Schneider T, Nagy Á, Klapper W, Hummel M, Kanellis G, Anagnostopoulos I, Mertins P, Bullinger L,
 Rosenquist R, Vassilakopoulos TP, Ott G, Ogawa S, Damm F (2023). “Frequent ZNF217 mutations lead to transcriptional deregulation of interferon signal
@@ -54,6 +76,10 @@ during embryonic stem cell differentiation, culturing and development.” _Commu
 
 **Nieminen M**, **Stolpe O**, **Kuhring M**, **Weiner J**, **Pett P**, **Beule D**, **Holtgrewe M** (2023). “SODAR: managing multiomics study data and metadata.” _Gigascience_,
 *12*, giad052. doi:10.1093/gigascience/giad052  [☞ Link](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad052/7232111)
+
+Graff P, Wilzopolski J, Voss A, Blimkie TM, **Weiner J3**, Kershaw O, Panwar P, Hackett T, Brömme D, Loyal L, Thiel A, **Beule D**, Hancock RE, Gruber AD,
+Bäumer W, Hedtrich S (2023). “Extracellular matrix remodeling in atopic dermatitis harnesses the onset of an asthmatic phenotype and is a potential
+contributor to the atopic march.” _Journal of Investigative Dermatology_. doi:10.1016/j.jid.2023.09.278 
 
 Müller R, Freitag-Wolf S, **Weiner J3**, Chopra A, Top T, Dommisch H, Schaefer A (2023). “Case-only design identifies interactions of genetic risk variants
 at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of periodontal wound healing for disease aetiology.” _J Clin Periodontol_,

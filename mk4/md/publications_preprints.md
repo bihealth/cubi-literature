@@ -11,10 +11,6 @@ analysis of 5xFAD mouse brain regions reveals the lysosome-associated protein Ar
 Ermshaus A, Piechotta M, Ruter G, Keilholz U, Leser U, **Benary M** (2023). “preon: Fast and accurate entity normalization for drug names and cancer types
 in precision oncology.” _bioRxiv_, 2023-05. doi:10.1101/2023.05.22.540912 
 
-Graff P, Wilzopolski J, Voss A, Blimkie TM, **Weiner J3**, Kershaw O, Panwar P, Hackett T, Brömme D, Loyal L, Thiel A, **Beule D**, Hancock RE, Gruber AD,
-Bäumer W, Hedtrich S (2022). “Extracellular matrix remodeling in atopic dermatitis harnesses the onset of an asthmatic phenotype and is a potential
-contributor to the atopic march.” _medRxiv_. doi:10.1101/2022.01.17.22269397  [☞ Link](https://www.medrxiv.org/content/10.1101/2022.01.17.22269397.abstract)
-
 Yerinde C, Keye J, Durlanik S, Freise I, Nowak F, Hsiao H, Letizia M, Schlickeiser S, **Obermayer B**, Huck A, Friedrich M, Wu H, Kunkel D, Kühl AA, Bauer
 S, Thiel A, Siegmund B, Glauben R, Weidinger C (2022). “HDAC7 controls anti-viral and anti-tumor immunity by CD8+ T cells.” _bioRxiv_.
 doi:10.1101/2022.09.18.508452  [☞ Link](https://www.biorxiv.org/content/early/2022/09/19/2022.09.18.508452)
