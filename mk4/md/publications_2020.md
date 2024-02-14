@@ -1,6 +1,6 @@
-Mattei D, **Ivanov A**, van Oostrum M, Pantelyushin S, Richetto J, Mueller F, Beffinger M, Schellhammer L, Vom BJ, Wollscheid B, **Beule D**, Paolicelli R,
-Meyer U (2020). “Enzymatic Dissociation Induces Transcriptional and Proteotype Bias in Brain Cell Populations.” _Int J Mol Sci_, *21*.
-doi:10.3390/ijms21217944  [☞ Link](https://doi.org/10.3390/ijms21217944)
+Mattei D, **Ivanov A**, Oostrum M, Pantelyushin S, Richetto J, Mueller F, Beffinger M, Schellhammer L, Vom BJ, Wollscheid B, **Beule D**, Paolicelli R, Meyer U
+(2020). “Enzymatic Dissociation Induces Transcriptional and Proteotype Bias in Brain Cell Populations.” _Int J Mol Sci_, *21*. doi:10.3390/ijms21217944
+ [☞ Link](https://doi.org/10.3390/ijms21217944)
 
 **Kuhring M**, Eisenberger A, Schmidt V, Kränkel N, Leistner D, Kirwan J, **Beule D** (2020). “Concepts and Software Package for Efficient Quality Control in
 Targeted Metabolomics Studies: MeTaQuaC.” _Anal Chem_, *92*, 10241-10245. doi:10.1021/acs.analchem.0c00136

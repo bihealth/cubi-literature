@@ -277,6 +277,13 @@ write_bib <- function(bib, file) {
   writeLines(bib_entries, file)
 }
 
+write_bib_2 <- function(bib, file) {
+  bib_entries <- map_chr(1:length(bib), ~ {
+    format(bib[[.x]], "BibTeX")
+  }) %>% paste(collapse="\n\n")
+  writeLines(bib_entries, file)
+}
+
 
 entrez_to_bibentry <- function(pmrec) {
   pmrec$author <- map_chr(pmrec$authors$name, 

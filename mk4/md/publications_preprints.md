@@ -1,3 +1,8 @@
+Horn V, Cancino C, Steinheuer L, **Obermayer B**, Fritz K, Nguyen AL, Plattner C, Bösel D, Burns M, Schulz AR, Mantzivi E, Lissner D, Conrad T, Mashreghi M,
+Sonnenberg E, **Beule D**, Flatz L, Consortium TI, Trjanoski Z, Weidinger C, Mei HE, Siegmund B, Thurley K, Hegazy AN (2023). “Multimodal profiling of
+peripheral blood identifies proliferating circulating effector CD4+ T cells as predictors for response to integrin α4β7-blocking therapy in patients
+with inflammatory bowel disease.” _bioRxiv_. doi:10.1101/2023.10.01.560386  [☞ Link](https://www.biorxiv.org/content/early/2023/10/03/2023.10.01.560386)
+
 Jahn D, Knapstein PR, Otto E, Köhli P, Sevecke J, Graef F, Graffmann C, Fuchs M, Jiang S, Rickert M, Erdmann C, Appelt J, Revend L, Küttner Q, Witte J,
 Rahmani A, Duda G, Xie W, Donat A, Schinke T, **Ivanov A**, Tchouto MN, **Beule D**, Frosch K, Baranowsky A, Tsitsilonis S, Keller J (2023). “Increased
 beta2-adrenergic signaling is a targetable stimulus essential for bone healing by promoting callus neovascularization.” _bioRxiv_, 2023-07.

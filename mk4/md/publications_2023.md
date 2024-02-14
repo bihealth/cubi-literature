@@ -1,3 +1,6 @@
+Markus D, Pelletier A, Boube M, Port F, Boutros M, Payre F, **Obermayer B**, Zanet J (2023). “The pleiotropic functions of Pri smORF peptides synchronize
+leg development regulators.” _PLOS Genetics_, *19*(10), 1-27. doi:10.1371/journal.pgen.1011004  [☞ Link](https://doi.org/10.1371/journal.pgen.1011004)
+
 Ludwik KA, Opitz R, Jyrch S, Megges M, **Weiner J**, **Beule D**, Kühnen P, Stachelscheid H (2023). “Generation of iPSC lines with SLC16A2: G410R or SLC16A2
 knock out.” _Stem Cell Research_, 103256. doi:10.1016/j.scr.2023.103256  [☞ Link](https://www.sciencedirect.com/science/article/pii/S1873506123002428)
 
@@ -43,17 +46,17 @@ Translational Medicine_, *15*(705), eadg1659. doi:10.1126/scitranslmed.adg1659  
 Haas S, **Beule D**, Bullinger L, Wittenbecher F, Na I (2023). “Single-cell clonal tracking of persistent T-cells in allogeneic hematopoietic stem cell
 transplantation.” _Frontiers in Immunology_, *14*. ISSN 1664-3224, doi:10.3389/fimmu.2023.1114368  [☞ Link](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1114368)
 
-Gressier E, Schulte-Schrepping J, Petrov L, Brumhard S, Stubbemann P, Hiller A, **Obermayer B**, Spitzer J, Kostevc T, Whitney PG, Bachem A, Odainic A, van
-de Sandt C, Nguyen THO, Ashhurst T, Wilson K, Oates CVL, Gearing LJ, Meischel T, Hochheiser K, Greyer M, Clarke M, Kreutzenbeck M, Gabriel SS,
-Kastenmüller W, Kurts C, Londrigan SL, Kallies A, Kedzierska K, Hertzog PJ, Latz E, Chen YE, Radford KJ, Chopin M, Schroeder J, Kurth F, Gebhardt T,
-Sander LE, Sawitzki B, Schultze JL, Schmidt SV, Bedoui S (2023). “CD4+ T cell calibration of antigen-presenting cells optimizes antiviral CD8+ T cell
-immunity.” _Nature Immunology_, *24*(6), 979-990. ISSN 1529-2916, doi:10.1038/s41590-023-01517-x  [☞ Link](https://doi.org/10.1038/s41590-023-01517-x)
+Gressier E, Schulte-Schrepping J, Petrov L, Brumhard S, Stubbemann P, Hiller A, **Obermayer B**, Spitzer J, Kostevc T, Whitney PG, Bachem A, Odainic A, de
+Sandt C, Nguyen THO, Ashhurst T, Wilson K, Oates CVL, Gearing LJ, Meischel T, Hochheiser K, Greyer M, Clarke M, Kreutzenbeck M, Gabriel SS, Kastenmüller
+W, Kurts C, Londrigan SL, Kallies A, Kedzierska K, Hertzog PJ, Latz E, Chen YE, Radford KJ, Chopin M, Schroeder J, Kurth F, Gebhardt T, Sander LE,
+Sawitzki B, Schultze JL, Schmidt SV, Bedoui S (2023). “CD4+ T cell calibration of antigen-presenting cells optimizes antiviral CD8+ T cell immunity.”
+_Nature Immunology_, *24*(6), 979-990. ISSN 1529-2916, doi:10.1038/s41590-023-01517-x  [☞ Link](https://doi.org/10.1038/s41590-023-01517-x)
 
 Loedige I, Baranovskii A, Mendonsa S, Dantsuji S, Popitsch N, Breimann L, Zerna N, Cherepanov V, **Milek M**, Ameres S, Chekulaeva M (2023). “mRNA stability
 and m6A are major determinants of subcellular mRNA localization in neurons.” _Molecular Cell_, *83*(15), 2709-2725.e10. ISSN 1097-2765,
 doi:10.1016/j.molcel.2023.06.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S1097276523004689)
 
-de Bortoli T, **Benary M**, Horak P, Lamping M, Stintzing S, Tinhofer I, Leyvraz S, Schäfer R, Klauschen F, Keller U, Rieke DT, Jelas I (2023). “Tumour
+Bortoli T, **Benary M**, Horak P, Lamping M, Stintzing S, Tinhofer I, Leyvraz S, Schäfer R, Klauschen F, Keller U, Rieke DT, Jelas I (2023). “Tumour
 mutational burden and survival with molecularly matched therapy.” _European Journal of Cancer_, *190*, 112925. doi:10.1016/j.ejca.2023.05.013
  [☞ Link](https://www.sciencedirect.com/science/article/abs/pii/S0959804923002538)
 
@@ -85,12 +88,12 @@ Müller R, Freitag-Wolf S, **Weiner J3**, Chopra A, Top T, Dommisch H, Schaefer 
 at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of periodontal wound healing for disease aetiology.” _J Clin Periodontol_,
 *50*, 90-101. doi:10.1111/jcpe.13712  [☞ Link](https://doi.org/10.1111/jcpe.13712)
 
-Mothes R, Pascual-Reguant A, Koehler R, Liebeskind J, Liebheit A, Bauherr S, Philipsen L, Dittmayer C, Laue M, von Manitius R, Elezkurtaj S, Durek P,
+Mothes R, Pascual-Reguant A, Koehler R, Liebeskind J, Liebheit A, Bauherr S, Philipsen L, Dittmayer C, Laue M, Manitius R, Elezkurtaj S, Durek P,
 Heinrich F, Heinz GA, Guerra GM, **Obermayer B**, Meinhardt J, Ihlow J, Radke J, Heppner FL, Enghard P, Stockmann H, Aschman T, Schneider J, Corman VM,
 Sander LE, Mashreghi M, Conrad T, Hocke AC, Niesner RA, Radbruch H, Hauser AE (2023). “Distinct tissue niches direct lung immunopathology via CCL18 and
 CCL21 in severe COVID-19.” _Nature Communications_, *14*(1), 791. ISSN 2041-1723, doi:10.1038/s41467-023-36333-2
  [☞ Link](https://doi.org/10.1038/s41467-023-36333-2)
 
-Rieke DT, Schröder S, Schafhausen P, **Blanc E**, **Zuljan E**, von der Emde B, **Beule D**, Keller U, Keilholz U, Klinghammer K (2023). “Targeted treatment in a
-case series of AR+, HRAS/PIK3CA co-mutation salivary duct carcinoma.” _Frontiers in Oncology_, *13*. ISSN 2234-943X, doi:10.3389/fonc.2023.1107134
+Rieke DT, Schröder S, Schafhausen P, **Blanc E**, **Zuljan E**, der Emde B, **Beule D**, Keller U, Keilholz U, Klinghammer K (2023). “Targeted treatment in a case
+series of AR+, HRAS/PIK3CA co-mutation salivary duct carcinoma.” _Frontiers in Oncology_, *13*. ISSN 2234-943X, doi:10.3389/fonc.2023.1107134
 
