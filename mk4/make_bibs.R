@@ -25,11 +25,14 @@ writeLines("### Preprints\n\n", full_bib)
 writeLines(pubs, full_bib)
 
 for(year in sort(as.integer(years), decreasing=TRUE)){
+  message(year)
   sel  <- map_lgl(bib, ~ .x$year == year)
-  pubs <- format_bib_md(bib[ sel & !preprints ], highlight_authors=cubi_authors)
-  writeLines(pubs, file.path(output_dir, sprintf("publications_%s.md", year)))
-  writeLines(sprintf("\n\n### %s\n\n", year), full_bib)
-  writeLines(pubs, full_bib)
+  if(sum(sel & !preprints) > 0) {
+    pubs <- format_bib_md(bib[ sel & !preprints ], highlight_authors=cubi_authors)
+    writeLines(pubs, file.path(output_dir, sprintf("publications_%s.md", year)))
+    writeLines(sprintf("\n\n### %s\n\n", year), full_bib)
+    writeLines(pubs, full_bib)
+  }
 }
 
 
