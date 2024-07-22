@@ -9,7 +9,7 @@ Brains.” _Cell Rep_, *24*, 2773-2783.e6. doi:10.1016/j.celrep.2018.08.001  [�
 Rieke D, Lamping M, Klauschen F, Ochsenreither S, Schütte M, Kessler T, Klinghammer K, Jöhrens K, **Messerschmidt C**, Lenze D, Burock S, Ditzen D, Schäfer
 R, Pavel M, Tinhofer I, Sers C, **Beule D**, Yaspo M, Leyvraz S, Keilholz U (2018). “Efficacy of a Structured Workflow for the Interpretation of
 Comprehensive Genomic Analysis Data in Clinical Routine.” _J Clin Oncol_, *36*(15_suppl), e24164-e24164. doi:10.1200/JCO.2018.36.15_suppl.e24164
- [☞ Link]( https://doi.org/10.1200/JCO.2018.36.15_suppl.e24164 )
+ [☞ Link](https://doi.org/10.1200/JCO.2018.36.15_suppl.e24164)
 
 Salatzki J, Foryst-Ludwig A, **Bentele K**, Blumrich A, Smeir E, Ban Z, Brix S, Grune J, Beyhoff N, Klopfleisch R, Dunst S, Surma M, Klose C, Rothe M,
 Heinzel F, Krannich A, Kershaw E, **Beule D**, Schulze P, Marx N, Kintscher U (2018). “Adipose tissue ATGL modifies the cardiac lipidome in

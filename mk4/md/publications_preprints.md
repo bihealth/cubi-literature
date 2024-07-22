@@ -1,3 +1,8 @@
+**Zuljan E**, von der Emde B, Piwonski I, Pestana ACA, Klinghammer K, Mock A, Horak P, Heining C, Klauschen F, Pretzell IBM, Brandts C, Kreutzfeldt S,
+Teleanu M, Hübschmann D, Morris L, Keller U, Glimm H, Fröhling S, Ochsenreither S, Keilholz U, **Blanc E**, **Beule D**, Rieke D (2024). “Integrative analysis
+reveals a macrophage-predominant, immunosuppressive immune microenvironment and subtype-specific therapeutic vulnerabilities in advanced salivary gland
+cancer.” _medRxiv_, 2024-06. doi:10.1101/2024.06.11.24308538  [☞ Link](https://www.medrxiv.org/content/10.1101/2024.06.11.24308538v2)
+
 Wei T, **Blanc E**, Peidli S, Bischoff P, Trinks A, Horst D, Sers C, Bluthgen N, **Beule D**, Morkel* M, Obermayer* B (2024). “High-confidence calling of normal
 epithelial cells allows identification of a novel stem-like cell state in the colorectal cancer microenvironment.” _bioRxiv_.
 doi:10.1101/2024.02.23.581690  [☞ Link](https://www.biorxiv.org/content/early/2024/02/27/2024.02.23.581690)
