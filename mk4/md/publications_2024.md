@@ -1,3 +1,41 @@
+Fatykhova D, Fritsch VN, Siebert K, Methling K, Lalk M, Busche T, Kalinowski J, **Weiner J**, **Beule D**, Bertrams W, others (2024). “Microenvironmental
+acidification by pneumococcal sugar consumption fosters barrier disruption and immune suppression in the human alveolus.” _European Respiratory
+Journal_. doi:doi.org/10.1183/13993003.01983-2023  [☞ Link](https://publications.ersnet.org/content/erj/early/2024/08/22/1399300301983-2023)
+
+Adhikary PP, Idowu T, Tan Z, Hoang C, Shanta S, Dumbani M, Mappalakayil L, Awasthi B, Bermudez M, **Weiner J**, **Beule D**, Wolber G, Page BD, Hedtrich S
+(2024). “Disrupting TSLP-TSLP receptor interactions via putative small molecule inhibitors yields a novel and efficient treatment option for atopic
+diseases.” _EMBO Molecular Medicine_, 1-27. doi:10.1038/s44321-024-00085-3  [☞ Link](https://www.embopress.org/doi/full/10.1038/s44321-024-00085-3)
+
+Mattei D, **Ivanov A**, Hammer J, Ugursu B, Schalbetter S, Richetto J, Weber-Stadlbauer U, Mueller F, Scarborough J, Wolf SA, Kettenmann H, Wollscheid B,
+**Beule D**, Meyer U (2024). “Microglia undergo molecular and functional adaptations to dark and light phases in male laboratory mice.” _Brain, Behavior,
+and Immunity_, *120*, 571-583. ISSN 0889-1591, doi:10.1016/j.bbi.2024.07.007  [☞ Link](https://www.sciencedirect.com/science/article/pii/S088915912400477X)
+
+Kopp J, Koch LA, Lyubenova H, Küchler O, **Holtgrewe M**, **Ivanov A**, Dubourg C, Launay E, Brachs S, Mundlos S, Pellerin L, Mameli M, Paolicelli RC (2024).
+“Loss-of-function variants affecting the STAGA complex component SUPT7L cause a developmental disorder with generalized lipodystrophy.” _Human
+Genetics_, *143*(5), 683-694. doi:10.1007/s00439-024-02669-y  [☞ Link](https://link.springer.com/article/10.1007/s00439-024-02669-y)
+
+Ruiz-Orera J, Miller DC, Greiner J, Genehr C, **Grammatikaki A**, Blachut S, Mbebi J, Patone G, Myronova A, Adami E, others (2024). “Evolution of
+translational control and the emergence of genes and open reading frames in human and non-human primate hearts.” _Nature Cardiovascular Research_, 1-19.
+doi:10.1038/s44161-024-00544-7  [☞ Link](https://www.nature.com/articles/s44161-024-00544-7)
+
+Fisch A, Pestana A, Sachse V, Doll C, Hofmann E, Heiland M, Obermueller T, Heidemann J, Dommerich S, Schoppe D, Schallenberg S, Piwonski I, **Blanc E**,
+Tinhofer I (2024). “Feasibility analysis of using patient-derived tumour organoids for treatment decision guidance in locally advanced head and neck
+squamous cell carcinoma.” _European journal of cancer (Oxford, England : 1990)_, *213*, 115100. ISSN 1879-0852, doi:10.1016/j.ejca.2024.115100
+ [☞ Link](https://linkinghub.elsevier.com/retrieve/pii/S0959804924017076)
+
+Al-Diab O, Sünkel C, **Blanc E**, Catar RA, Ashraf MI, Zhao H, Wang P, Rinschen MM, Fritsche-Guenther R, Grahammer F, Bachmann S, **Beule D**, Kirwan JA,
+Rajewsky N, Huber TB, Gürgen D, Kusch A (2024). “Sex-specific molecular signature of mouse podocytes in homeostasis and in response to pharmacological
+challenge with rapamycin.” _Biology of sex differences_, *15*, 72. ISSN 2042-6410, doi:10.1186/s13293-024-00647-7
+ [☞ Link](https://bsd.biomedcentral.com/articles/10.1186/s13293-024-00647-7)
+
+Trinks A, **Milek M**, **Beule D**, Kluge J, Florian S, Sers C, Horst D, Morkel M, Bischoff P (2024). “Robust detection of clinically relevant features in
+single-cell RNA profiles of patient-matched fresh and formalin-fixed paraffin-embedded (FFPE) lung cancer tissue.” _Cellular Oncology_, 1-11.
+doi:10.5281/zenodo.7852154  [☞ Link](https://link.springer.com/article/10.1007/s13402-024-00922-0)
+
+Šmid A, Štajdohar M, **Milek M**, Urbančič D, Kuželički NK, Tamm R, Metspalu A, Mlinarič-Raščan I (2024). “Transcriptome analysis reveals involvement of
+thiopurine S-methyltransferase in oxidation-reduction processes.” _European Journal of Pharmaceutical Sciences_, *192*, 106616.
+doi:10.1016/j.ejps.2023.106616  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0928098723002464)
+
 Dörner PJ, Anandakumar H, Röwekamp I, Vernengo FF, Pascual-Leone BM, Krzanowski M, Sellmaier J, Brüning U, Fritsche-Guenther R, Pfannkuch L, Kurth F,
 **Milek M**, Igbokwe V, Löber U, Gutbier B, Holstein M, Heinz GA, Mashreghi M, Schulte LN, Klatt A, Caesar S, Wienhold S, Offermanns S, Mack M, Witzenrath
 M, Jordan S, **Beule D**, Kirwan JA, Forslund SK, Wilck N, Bartolomaeus H, Heimesaat MM, Opitz B (2024). “Clinically used broad-spectrum antibiotics
@@ -45,9 +83,9 @@ periodontitis.” In _EUROPEAN JOURNAL OF HUMAN GENETICS_, volume 32, 406-406. S
 Lebedin M, Ratswohl C, Garg A, Schips M, García CV, Spatt L, Thibeault C, **Obermayer B**, **Weiner J**, Velásquez IM, others (2024). “Soluble ACE2 correlates
 with severe COVID-19 and can impair antibody responses.” _iScience_.
 
-Tranter E, Frentsch M, Hütter-Krönke ML, Vuong GL, Busch D, Loyal L, Henze L, Rosnev S, Blau I, Thiel A, **Beule D**, Bullinger L, Obermayer* B, Na* I
-(2024). “Comparable CD8+ T-cell responses to SARS-CoV-2 vaccination in single-cell transcriptomics of recently allogeneic transplanted patients and
-healthy individuals.” _Journal of Medical Virology_, *96*(3), e29539. doi:10.1002/jmv.29539  [☞ Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.29539)
+Tranter E, Frentsch M, Hütter-Krönke ML, Vuong GL, Busch D, Loyal L, Henze L, Rosnev S, Blau I, Thiel A, **Beule D**, Bullinger L, **Obermayer B**, Na I (2024).
+“Comparable CD8+ T-cell responses to SARS-CoV-2 vaccination in single-cell transcriptomics of recently allogeneic transplanted patients and healthy
+individuals.” _Journal of Medical Virology_, *96*(3), e29539. doi:10.1002/jmv.29539  [☞ Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.29539)
 
 Bhasin MA, Knaus A, Incardona P, Schmid A, **Holtgrewe M**, Elbracht M, Krawitz PM, Hsieh T (2024). “Enhancing Variant Prioritization in VarFish through
 On-Premise Computational Facial Analysis.” _Genes_, *15*(3), 370.
@@ -59,3 +97,4 @@ in precision oncology.” _Bioinformatics_, *40*(3), btae085. ISSN 1367-4811, do
 Jahn D, Knapstein PR, Otto E, Köhli P, Sevecke J, Graef F, Graffmann C, Fuchs M, Jiang S, Rickert M, Erdmann C, Appelt J, Revend L, Küttner Q, Witte J,
 Rahmani A, Duda G, Xie W, Donat A, Schinke T, **Ivanov A**, Tchouto MN, **Beule D**, Frosch K, Baranowsky A, Tsitsilonis S, Keller J (2024). “Increased
 beta2-adrenergic signaling promotes fracture healing through callus neovascularization in mice.” _Science Translational Medicine_, *16*(743), eadk9129.
+doi:10.1126/scitranslmed.adk9129  [☞ Link](https://www.science.org/doi/10.1126/scitranslmed.adk9129)

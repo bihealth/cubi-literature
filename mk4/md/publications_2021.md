@@ -36,9 +36,9 @@ Nicholson B, Veldman T, Woods C, Mallia P, Kon O, Kaufmann S, Openshaw P, Chiu C
 Cells during Experimental Human Influenza: A Clinical Study.” _Am J Respir Crit Care Med_, *204*, 826-841. doi:10.1164/rccm.202103-0620OC
  [☞ Link](https://doi.org/10.1164/rccm.202103-0620OC)
 
-Rajasekaran S, Siddiqui J, Rakijas J, Nicolay B, Lin C, Khan E, Patel R, Morris R, Wyler E, Boukhali M, Balasubramanyam J, Ranjith KR, Rechem C, Vogel
-C, Elchuri S, Landthaler M, **Obermayer B**, Haas W, Dyson N, Miles W (2021). “Integrated multi-omics analysis of RB-loss identifies widespread cellular
-programming and synthetic weaknesses.” _Commun Biol_, *4*, 977. doi:10.1038/s42003-021-02495-2  [☞ Link](https://doi.org/10.1038/s42003-021-02495-2)
+Rajasekaran S, Siddiqui J, Rakijas J, Nicolay B, Lin C, Khan E, Patel R, Morris R, Wyler E, Boukhali M, Balasubramanyam J, Ranjith KR, van Rechem C,
+Vogel C, Elchuri S, Landthaler M, **Obermayer B**, Haas W, Dyson N, Miles W (2021). “Integrated multi-omics analysis of RB-loss identifies widespread
+cellular programming and synthetic weaknesses.” _Commun Biol_, *4*, 977. doi:10.1038/s42003-021-02495-2  [☞ Link](https://doi.org/10.1038/s42003-021-02495-2)
 
 Schinke C, Fernandez VV, **Ivanov A**, Peng Y, Körtvelyessy P, Nolte L, Huehnchen P, **Beule D**, Stachelscheid H, Boehmerle W, Endres M (2021). “Modeling
 chemotherapy induced neurotoxicity with human induced pluripotent stem cell (iPSC) -derived sensory neurons.” _Neurobiol Dis_, *155*, 105391.
@@ -57,8 +57,8 @@ Bürger J, Borisova E, Yamamoto H, Rasin M, Ohler U, **Beule D**, Mielke T, Tara
 Synthesis in the Developing Neocortex at Near-Atomic Resolution Reveals Ebp1-Mediated Neuronal Proteostasis at the 60S Tunnel Exit.” _Mol Cell_, *81*,
 304-322.e16. doi:10.1016/j.molcel.2020.11.037  [☞ Link](https://doi.org/10.1016/j.molcel.2020.11.037)
 
-Heyckendorf J, Marwitz S, Reimann M, Avsar K, DiNardo A, Günther G, Hoelscher M, Ibraim E, Kalsdorf B, Kaufmann S, Kontsevaya I, Leth F, Mandalakas A,
-Maurer F, Müller M, Nitschkowski D, Olaru I, Popa C, Rachow A, Rolling T, Rybniker J, Salzer H, Sanchez-Carballo P, Schuhmann M, Schaub D, Spinu V,
+Heyckendorf J, Marwitz S, Reimann M, Avsar K, DiNardo A, Günther G, Hoelscher M, Ibraim E, Kalsdorf B, Kaufmann S, Kontsevaya I, van Leth F, Mandalakas
+A, Maurer F, Müller M, Nitschkowski D, Olaru I, Popa C, Rachow A, Rolling T, Rybniker J, Salzer H, Sanchez-Carballo P, Schuhmann M, Schaub D, Spinu V,
 Suárez I, Terhalle E, Unnewehr M, **Weiner J3**, Goldmann T, Lange C (2021). “Prediction of anti-tuberculosis treatment duration based on a 22-gene
 transcriptomic model.” _Eur Respir J_, *58*. doi:10.1183/13993003.03492-2020  [☞ Link](https://doi.org/10.1183/13993003.03492-2020)
 
@@ -66,8 +66,8 @@ Bao X, **Weiner J3**, Meckes O, Dommisch H, Schaefer A (2021). “Entamoeba ging
 *100*, 771-776. doi:10.1177/00220345211004498  [☞ Link](https://doi.org/10.1177/00220345211004498)
 
 Eckold C, Kumar V, **Weiner J**, Alisjahbana B, Riza A, Ronacher K, Coronel J, Kerry-Barnard S, Malherbe S, Kleynhans L, Stanley K, Ruslami R, Ioana M,
-Ugarte-Gil C, Walzl G, Crevel R, Wijmenga C, Critchley J, Dockrell H, Cliff J, TANDEM c (2021). “Impact of Intermediate Hyperglycemia and Diabetes on
-Immune Dysfunction in Tuberculosis.” _Clin Infect Dis_, *72*, 69-78. doi:10.1093/cid/ciaa751  [☞ Link](https://doi.org/10.1093/cid/ciaa751)
+Ugarte-Gil C, Walzl G, van Crevel R, Wijmenga C, Critchley J, Dockrell H, Cliff J, TANDEM c (2021). “Impact of Intermediate Hyperglycemia and Diabetes
+on Immune Dysfunction in Tuberculosis.” _Clin Infect Dis_, *72*, 69-78. doi:10.1093/cid/ciaa751  [☞ Link](https://doi.org/10.1093/cid/ciaa751)
 
 Wyler E, Mösbauer K, Franke V, Diag A, Gottula L, Arsiè R, Klironomos F, Koppstein D, Hönzke K, Ayoub S, Buccitelli C, Hoffmann K, Richter A, Legnini I,
 **Ivanov A**, Mari T, Del GS, Papies J, Praktiknjo S, Meyer T, Müller M, Niemeyer D, Hocke A, Selbach M, Akalin A, Rajewsky N, Drosten C, Landthaler M
@@ -108,7 +108,7 @@ Kühnisch J, Klaassen S (2021). “Pathogenic Variants Associated With Dilated C
 Med_, *14*(4), e003250. doi:10.1161/CIRCGEN.120.003250  [☞ Link](https://doi.org/10.1161/CIRCGEN.120.003250)
 
 Melo U, Piard J, Fischer-Zirnsak B, Klever M, Schöpflin R, Mensah M, **Holtgrewe M**, Arbez-Gindre F, Martin A, Guigue V, Gaillard D, Landais E, Roze V,
-Kremer V, Ramanah R, Cabrol C, Harms F, Kornak U, Spielmann M, Mundlos S, Maldergem L (2021). “Complete lung agenesis caused by complex genomic
+Kremer V, Ramanah R, Cabrol C, Harms F, Kornak U, Spielmann M, Mundlos S, van Maldergem L (2021). “Complete lung agenesis caused by complex genomic
 rearrangements with neo-TAD formation at the SHH locus.” _Hum Genet_, *140*(10), 1459-1469. doi:10.1007/s00439-021-02344-6
  [☞ Link](https://doi.org/10.1007/s00439-021-02344-6)
 

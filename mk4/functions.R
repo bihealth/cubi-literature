@@ -57,6 +57,7 @@ bentele
 blanc
 benary
 messerschmidt
+grammatikaki
 obermayer
 holtgrewe
 zuljan
@@ -89,6 +90,7 @@ format_bib_md <- function(bibs, highlight_authors=NULL, add_url=TRUE) {
   }
 
   ret <- map_chr(ret, ~ gsub("<.*", "", .x))
+  ret <- map_chr(ret, ~ gsub("~", " ", .x))
 
   if(add_url) {
     ret <- map2_chr(ret, bibs, ~ {
@@ -231,6 +233,7 @@ read_bib <- function(file, new_keys=TRUE, standardize=TRUE) {
 }
 
 is_preprint <- function(b) {
+  if(length(b$ispreprint) > 0) return(TRUE)
   return(grepl("(arxiv|medrxiv|biorxiv)", b$journal, ignore.case = TRUE))
 }
 

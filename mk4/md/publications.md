@@ -1,10 +1,18 @@
 ### Preprints
 
 
-**Zuljan E**, von der Emde B, Piwonski I, Pestana ACA, Klinghammer K, Mock A, Horak P, Heining C, Klauschen F, Pretzell IBM, Brandts C, Kreutzfeldt S,
-Teleanu M, Hübschmann D, Morris L, Keller U, Glimm H, Fröhling S, Ochsenreither S, Keilholz U, **Blanc E**, **Beule D**, Rieke D (2024). “Integrative analysis
-reveals a macrophage-predominant, immunosuppressive immune microenvironment and subtype-specific therapeutic vulnerabilities in advanced salivary gland
-cancer.” _medRxiv_, 2024-06. doi:10.1101/2024.06.11.24308538  [☞ Link](https://www.medrxiv.org/content/10.1101/2024.06.11.24308538v2)
+Chopra A, Song J, **Weiner J**, **Beule D**, Schaefer AS (2024). “Genetic analysis of cis-enhancers associated with bone mineral density and periodontitis in
+the gene SOST.” _ResearchSquare_.  [☞ Link](https://www.researchsquare.com/article/rs-4409923/v1)
+
+Opitz B, Essex M, Pascual-Leone BM, Loeber U, **Kuhring M**, Zhang B, Bruening U, Fritsche-Guenther R, Krzanowski M, Vernengo FF, Brumhard S, Röwekamp I,
+Bielecka A, Lesker T, Wyler E, Landthaler M, Mantei A, Meisel C, Caesar S, Thibeault C, Corman V, Marko L, Suttorp N, Strowig T, Kurth F, Sander L, Li
+Y, Kirwan J, Forslund S (2023). “Gut microbiota dysbiosis is associated with altered tryptophan metabolism and dysregulated inflammatory response in
+severe COVID-19.” doi:10.21203/rs.3.rs-2459463/v1  [☞ Link](https://www.researchsquare.com/article/rs-2459463/v1)
+
+**Zuljan E**, von der Emde B, Piwonski I, Pestana ACA, Klinghammer K, Mock A, Horak P, Heining C, Klauschen F, Pretzell M, Boerries I, Brandts C,
+Kreutzfeldt S, Teleanu M, Hübschmann D, Morris L, Keller U, Glimm H, Fröhling S, Ochsenreither S, Keilholz U, **Blanc E**, **Beule D**, Rieke D (2024).
+“Integrative analysis reveals a macrophage-predominant, immunosuppressive immune microenvironment and subtype-specific therapeutic vulnerabilities in
+advanced salivary gland cancer.” _medRxiv_, 2024-06. doi:10.1101/2024.06.11.24308538  [☞ Link](https://www.medrxiv.org/content/10.1101/2024.06.11.24308538v2)
 
 Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, Haghverdi L (2024). “Identifying cancer cells from calling single-nucleotide
 variants in scRNA-seq data.” _bioRxiv_. doi:10.1101/2024.02.21.581377  [☞ Link](https://www.biorxiv.org/content/early/2024/02/23/2024.02.21.581377)
@@ -13,11 +21,6 @@ Horn V, Cancino C, Steinheuer L, **Obermayer B**, Fritz K, Nguyen AL, Plattner C
 Sonnenberg E, **Beule D**, Flatz L, Consortium TI, Trjanoski Z, Weidinger C, Mei HE, Siegmund B, Thurley K, Hegazy AN (2023). “Multimodal profiling of
 peripheral blood identifies proliferating circulating effector CD4+ T cells as predictors for response to integrin α4β7-blocking therapy in patients
 with inflammatory bowel disease.” _bioRxiv_. doi:10.1101/2023.10.01.560386  [☞ Link](https://www.biorxiv.org/content/early/2023/10/03/2023.10.01.560386)
-
-Boeddrich A, Haenig C, Neuendorf N, **Blanc E**, **Ivanov A**, Kirchner M, Schleumann P, Bayraktaroglu I, Richter M, Molenda CM, Sporbert A, Zenkner M, Schnoegl
-S, Suenkel C, Schneider L, Rybak-Wolf A, Kochnowsky B, Byrne LM, Wild EJ, Nielsen JE, Dittmar G, Peters O, **Beule D**, Wanker EE (2023). “A proteomics
-analysis of 5xFAD mouse brain regions reveals the lysosome-associated protein Arl8b as a candidate biomarker for Alzheimer's disease.” _bioRxiv_,
-2023-01. doi:10.1101/2023.01.16.523715  [☞ Link](https://www.biorxiv.org/content/10.1101/2023.01.16.523715v1.abstract)
 
 Yerinde C, Keye J, Durlanik S, Freise I, Nowak F, Hsiao H, Letizia M, Schlickeiser S, **Obermayer B**, Huck A, Friedrich M, Wu H, Kunkel D, Kühl AA, Bauer
 S, Thiel A, Siegmund B, Glauben R, Weidinger C (2022). “HDAC7 controls anti-viral and anti-tumor immunity by CD8+ T cells.” _bioRxiv_.
@@ -32,6 +35,44 @@ doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.110
 
 ### 2024
 
+
+Fatykhova D, Fritsch VN, Siebert K, Methling K, Lalk M, Busche T, Kalinowski J, **Weiner J**, **Beule D**, Bertrams W, others (2024). “Microenvironmental
+acidification by pneumococcal sugar consumption fosters barrier disruption and immune suppression in the human alveolus.” _European Respiratory
+Journal_. doi:doi.org/10.1183/13993003.01983-2023  [☞ Link](https://publications.ersnet.org/content/erj/early/2024/08/22/1399300301983-2023)
+
+Adhikary PP, Idowu T, Tan Z, Hoang C, Shanta S, Dumbani M, Mappalakayil L, Awasthi B, Bermudez M, **Weiner J**, **Beule D**, Wolber G, Page BD, Hedtrich S
+(2024). “Disrupting TSLP-TSLP receptor interactions via putative small molecule inhibitors yields a novel and efficient treatment option for atopic
+diseases.” _EMBO Molecular Medicine_, 1-27. doi:10.1038/s44321-024-00085-3  [☞ Link](https://www.embopress.org/doi/full/10.1038/s44321-024-00085-3)
+
+Mattei D, **Ivanov A**, Hammer J, Ugursu B, Schalbetter S, Richetto J, Weber-Stadlbauer U, Mueller F, Scarborough J, Wolf SA, Kettenmann H, Wollscheid B,
+**Beule D**, Meyer U (2024). “Microglia undergo molecular and functional adaptations to dark and light phases in male laboratory mice.” _Brain, Behavior,
+and Immunity_, *120*, 571-583. ISSN 0889-1591, doi:10.1016/j.bbi.2024.07.007  [☞ Link](https://www.sciencedirect.com/science/article/pii/S088915912400477X)
+
+Kopp J, Koch LA, Lyubenova H, Küchler O, **Holtgrewe M**, **Ivanov A**, Dubourg C, Launay E, Brachs S, Mundlos S, Pellerin L, Mameli M, Paolicelli RC (2024).
+“Loss-of-function variants affecting the STAGA complex component SUPT7L cause a developmental disorder with generalized lipodystrophy.” _Human
+Genetics_, *143*(5), 683-694. doi:10.1007/s00439-024-02669-y  [☞ Link](https://link.springer.com/article/10.1007/s00439-024-02669-y)
+
+Ruiz-Orera J, Miller DC, Greiner J, Genehr C, **Grammatikaki A**, Blachut S, Mbebi J, Patone G, Myronova A, Adami E, others (2024). “Evolution of
+translational control and the emergence of genes and open reading frames in human and non-human primate hearts.” _Nature Cardiovascular Research_, 1-19.
+doi:10.1038/s44161-024-00544-7  [☞ Link](https://www.nature.com/articles/s44161-024-00544-7)
+
+Fisch A, Pestana A, Sachse V, Doll C, Hofmann E, Heiland M, Obermueller T, Heidemann J, Dommerich S, Schoppe D, Schallenberg S, Piwonski I, **Blanc E**,
+Tinhofer I (2024). “Feasibility analysis of using patient-derived tumour organoids for treatment decision guidance in locally advanced head and neck
+squamous cell carcinoma.” _European journal of cancer (Oxford, England : 1990)_, *213*, 115100. ISSN 1879-0852, doi:10.1016/j.ejca.2024.115100
+ [☞ Link](https://linkinghub.elsevier.com/retrieve/pii/S0959804924017076)
+
+Al-Diab O, Sünkel C, **Blanc E**, Catar RA, Ashraf MI, Zhao H, Wang P, Rinschen MM, Fritsche-Guenther R, Grahammer F, Bachmann S, **Beule D**, Kirwan JA,
+Rajewsky N, Huber TB, Gürgen D, Kusch A (2024). “Sex-specific molecular signature of mouse podocytes in homeostasis and in response to pharmacological
+challenge with rapamycin.” _Biology of sex differences_, *15*, 72. ISSN 2042-6410, doi:10.1186/s13293-024-00647-7
+ [☞ Link](https://bsd.biomedcentral.com/articles/10.1186/s13293-024-00647-7)
+
+Trinks A, **Milek M**, **Beule D**, Kluge J, Florian S, Sers C, Horst D, Morkel M, Bischoff P (2024). “Robust detection of clinically relevant features in
+single-cell RNA profiles of patient-matched fresh and formalin-fixed paraffin-embedded (FFPE) lung cancer tissue.” _Cellular Oncology_, 1-11.
+doi:10.5281/zenodo.7852154  [☞ Link](https://link.springer.com/article/10.1007/s13402-024-00922-0)
+
+Šmid A, Štajdohar M, **Milek M**, Urbančič D, Kuželički NK, Tamm R, Metspalu A, Mlinarič-Raščan I (2024). “Transcriptome analysis reveals involvement of
+thiopurine S-methyltransferase in oxidation-reduction processes.” _European Journal of Pharmaceutical Sciences_, *192*, 106616.
+doi:10.1016/j.ejps.2023.106616  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0928098723002464)
 
 Dörner PJ, Anandakumar H, Röwekamp I, Vernengo FF, Pascual-Leone BM, Krzanowski M, Sellmaier J, Brüning U, Fritsche-Guenther R, Pfannkuch L, Kurth F,
 **Milek M**, Igbokwe V, Löber U, Gutbier B, Holstein M, Heinz GA, Mashreghi M, Schulte LN, Klatt A, Caesar S, Wienhold S, Offermanns S, Mack M, Witzenrath
@@ -80,9 +121,9 @@ periodontitis.” In _EUROPEAN JOURNAL OF HUMAN GENETICS_, volume 32, 406-406. S
 Lebedin M, Ratswohl C, Garg A, Schips M, García CV, Spatt L, Thibeault C, **Obermayer B**, **Weiner J**, Velásquez IM, others (2024). “Soluble ACE2 correlates
 with severe COVID-19 and can impair antibody responses.” _iScience_.
 
-Tranter E, Frentsch M, Hütter-Krönke ML, Vuong GL, Busch D, Loyal L, Henze L, Rosnev S, Blau I, Thiel A, **Beule D**, Bullinger L, Obermayer* B, Na* I
-(2024). “Comparable CD8+ T-cell responses to SARS-CoV-2 vaccination in single-cell transcriptomics of recently allogeneic transplanted patients and
-healthy individuals.” _Journal of Medical Virology_, *96*(3), e29539. doi:10.1002/jmv.29539  [☞ Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.29539)
+Tranter E, Frentsch M, Hütter-Krönke ML, Vuong GL, Busch D, Loyal L, Henze L, Rosnev S, Blau I, Thiel A, **Beule D**, Bullinger L, **Obermayer B**, Na I (2024).
+“Comparable CD8+ T-cell responses to SARS-CoV-2 vaccination in single-cell transcriptomics of recently allogeneic transplanted patients and healthy
+individuals.” _Journal of Medical Virology_, *96*(3), e29539. doi:10.1002/jmv.29539  [☞ Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.29539)
 
 Bhasin MA, Knaus A, Incardona P, Schmid A, **Holtgrewe M**, Elbracht M, Krawitz PM, Hsieh T (2024). “Enhancing Variant Prioritization in VarFish through
 On-Premise Computational Facial Analysis.” _Genes_, *15*(3), 370.
@@ -94,10 +135,15 @@ in precision oncology.” _Bioinformatics_, *40*(3), btae085. ISSN 1367-4811, do
 Jahn D, Knapstein PR, Otto E, Köhli P, Sevecke J, Graef F, Graffmann C, Fuchs M, Jiang S, Rickert M, Erdmann C, Appelt J, Revend L, Küttner Q, Witte J,
 Rahmani A, Duda G, Xie W, Donat A, Schinke T, **Ivanov A**, Tchouto MN, **Beule D**, Frosch K, Baranowsky A, Tsitsilonis S, Keller J (2024). “Increased
 beta2-adrenergic signaling promotes fracture healing through callus neovascularization in mice.” _Science Translational Medicine_, *16*(743), eadk9129.
+doi:10.1126/scitranslmed.adk9129  [☞ Link](https://www.science.org/doi/10.1126/scitranslmed.adk9129)
 
 
 ### 2023
 
+
+Monsorno K, Ginggen K, **Ivanov A**, Buckinx A, Lalive AL, Tchenio A, Benson S, Vendrell M, D’Alessandro A, **Beule D**, others (2023). “Loss of microglial MCT4
+leads to defective synaptic pruning and anxiety-like behavior in mice.” _Nature Communications_, *14*(1), 5749. doi:10.1038/s41467-023-41502-4
+ [☞ Link](https://www.nature.com/articles/s41467-023-41502-4)
 
 Markus D, Pelletier A, Boube M, Port F, Boutros M, Payre F, **Obermayer B**, Zanet J (2023). “The pleiotropic functions of Pri smORF peptides synchronize
 leg development regulators.” _PLOS Genetics_, *19*(10), 1-27. doi:10.1371/journal.pgen.1011004  [☞ Link](https://doi.org/10.1371/journal.pgen.1011004)
@@ -147,17 +193,22 @@ Translational Medicine_, *15*(705), eadg1659. doi:10.1126/scitranslmed.adg1659  
 Haas S, **Beule D**, Bullinger L, Wittenbecher F, Na I (2023). “Single-cell clonal tracking of persistent T-cells in allogeneic hematopoietic stem cell
 transplantation.” _Frontiers in Immunology_, *14*. ISSN 1664-3224, doi:10.3389/fimmu.2023.1114368  [☞ Link](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1114368)
 
-Gressier E, Schulte-Schrepping J, Petrov L, Brumhard S, Stubbemann P, Hiller A, **Obermayer B**, Spitzer J, Kostevc T, Whitney PG, Bachem A, Odainic A, de
-Sandt C, Nguyen THO, Ashhurst T, Wilson K, Oates CVL, Gearing LJ, Meischel T, Hochheiser K, Greyer M, Clarke M, Kreutzenbeck M, Gabriel SS, Kastenmüller
-W, Kurts C, Londrigan SL, Kallies A, Kedzierska K, Hertzog PJ, Latz E, Chen YE, Radford KJ, Chopin M, Schroeder J, Kurth F, Gebhardt T, Sander LE,
-Sawitzki B, Schultze JL, Schmidt SV, Bedoui S (2023). “CD4+ T cell calibration of antigen-presenting cells optimizes antiviral CD8+ T cell immunity.”
-_Nature Immunology_, *24*(6), 979-990. ISSN 1529-2916, doi:10.1038/s41590-023-01517-x  [☞ Link](https://doi.org/10.1038/s41590-023-01517-x)
+Gressier E, Schulte-Schrepping J, Petrov L, Brumhard S, Stubbemann P, Hiller A, **Obermayer B**, Spitzer J, Kostevc T, Whitney PG, Bachem A, Odainic A,
+van de Sandt C, Nguyen THO, Ashhurst T, Wilson K, Oates CVL, Gearing LJ, Meischel T, Hochheiser K, Greyer M, Clarke M, Kreutzenbeck M, Gabriel SS,
+Kastenmüller W, Kurts C, Londrigan SL, Kallies A, Kedzierska K, Hertzog PJ, Latz E, Chen YE, Radford KJ, Chopin M, Schroeder J, Kurth F, Gebhardt T,
+Sander LE, Sawitzki B, Schultze JL, Schmidt SV, Bedoui S (2023). “CD4+ T cell calibration of antigen-presenting cells optimizes antiviral CD8+ T cell
+immunity.” _Nature Immunology_, *24*(6), 979-990. ISSN 1529-2916, doi:10.1038/s41590-023-01517-x  [☞ Link](https://doi.org/10.1038/s41590-023-01517-x)
 
 Loedige I, Baranovskii A, Mendonsa S, Dantsuji S, Popitsch N, Breimann L, Zerna N, Cherepanov V, **Milek M**, Ameres S, Chekulaeva M (2023). “mRNA stability
 and m6A are major determinants of subcellular mRNA localization in neurons.” _Molecular Cell_, *83*(15), 2709-2725.e10. ISSN 1097-2765,
 doi:10.1016/j.molcel.2023.06.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S1097276523004689)
 
-Bortoli T, **Benary M**, Horak P, Lamping M, Stintzing S, Tinhofer I, Leyvraz S, Schäfer R, Klauschen F, Keller U, Rieke DT, Jelas I (2023). “Tumour
+Boeddrich A, Haenig C, Neuendorf N, **Blanc E**, **Ivanov A**, Kirchner M, Schleumann P, Bayraktaroglu I, Richter M, Molenda CM, Sporbert A, Zenkner M, Schnoegl
+S, Suenkel C, Schneider L, Rybak-Wolf A, Kochnowsky B, Byrne LM, Wild EJ, Nielsen JE, Dittmar G, Peters O, **Beule D**, Wanker EE (2023). “A proteomics
+analysis of 5xFAD mouse brain regions reveals the lysosome-associated protein Arl8b as a candidate biomarker for Alzheimer's disease.” _Genome Med_,
+*15*, 50. doi:10.1186/s13073-023-01206-2  [☞ Link](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01206-2)
+
+de Bortoli T, **Benary M**, Horak P, Lamping M, Stintzing S, Tinhofer I, Leyvraz S, Schäfer R, Klauschen F, Keller U, Rieke DT, Jelas I (2023). “Tumour
 mutational burden and survival with molecularly matched therapy.” _European Journal of Cancer_, *190*, 112925. doi:10.1016/j.ejca.2023.05.013
  [☞ Link](https://www.sciencedirect.com/science/article/abs/pii/S0959804923002538)
 
@@ -189,19 +240,24 @@ Müller R, Freitag-Wolf S, **Weiner J3**, Chopra A, Top T, Dommisch H, Schaefer 
 at SIGLEC5 and PLG with the lncRNA CTD-2353F22.1 implying the importance of periodontal wound healing for disease aetiology.” _J Clin Periodontol_,
 *50*, 90-101. doi:10.1111/jcpe.13712  [☞ Link](https://doi.org/10.1111/jcpe.13712)
 
-Mothes R, Pascual-Reguant A, Koehler R, Liebeskind J, Liebheit A, Bauherr S, Philipsen L, Dittmayer C, Laue M, Manitius R, Elezkurtaj S, Durek P,
+Mothes R, Pascual-Reguant A, Koehler R, Liebeskind J, Liebheit A, Bauherr S, Philipsen L, Dittmayer C, Laue M, von Manitius R, Elezkurtaj S, Durek P,
 Heinrich F, Heinz GA, Guerra GM, **Obermayer B**, Meinhardt J, Ihlow J, Radke J, Heppner FL, Enghard P, Stockmann H, Aschman T, Schneider J, Corman VM,
 Sander LE, Mashreghi M, Conrad T, Hocke AC, Niesner RA, Radbruch H, Hauser AE (2023). “Distinct tissue niches direct lung immunopathology via CCL18 and
 CCL21 in severe COVID-19.” _Nature Communications_, *14*(1), 791. ISSN 2041-1723, doi:10.1038/s41467-023-36333-2
  [☞ Link](https://doi.org/10.1038/s41467-023-36333-2)
 
-Rieke DT, Schröder S, Schafhausen P, **Blanc E**, **Zuljan E**, der Emde B, **Beule D**, Keller U, Keilholz U, Klinghammer K (2023). “Targeted treatment in a case
-series of AR+, HRAS/PIK3CA co-mutation salivary duct carcinoma.” _Frontiers in Oncology_, *13*. ISSN 2234-943X, doi:10.3389/fonc.2023.1107134
+Rieke DT, Schröder S, Schafhausen P, **Blanc E**, **Zuljan E**, von der Emde B, **Beule D**, Keller U, Keilholz U, Klinghammer K (2023). “Targeted treatment in a
+case series of AR+, HRAS/PIK3CA co-mutation salivary duct carcinoma.” _Frontiers in Oncology_, *13*. ISSN 2234-943X, doi:10.3389/fonc.2023.1107134
 
 
 
 ### 2022
 
+
+Holle J, Bartolomaeus H, Löber U, Behrens F, Bartolomaeus TUP, Anandakumar H, Wimmer MI, Vu DL, **Kuhring M**, Brüning U, Maifeld A, Geisberger S, Kempa S,
+Schumacher F, Kleuser B, Bufler P, Querfeld U, Kitschke S, Engler D, Kuhrt LD, Drechsel O, Eckardt K, Forslund SK, Thürmer A, McParland V, Kirwan JA,
+Wilck N, Müller D (2022). “Inflammation in Children with CKD Linked to Gut Dysbiosis and Metabolite Imbalance.” _Journal of the American Society of
+Nephrology_, *33*(12), 2259. ISSN 1046-6673, doi:10.1681/ASN.2022030378  [☞ Link](https://journals.lww.com/jasn/fulltext/2022/12000/Inflammation_in_Children_with_CKD_Linked_to_Gut.13.aspx)
 
 Baumgardt M, Hülsemann M, Löwa A, Fatykhova D, Hoffmann K, Kessler M, Mieth M, Hellwig K, Frey D, Langenhagen A, Voss A, **Obermayer B**, Wyler E, Dökel S,
 Gruber AD, Tölch U, Hippenstiel S, Hocke AC, Hönzke K (2022). “State-of-the-art analytical methods of viral infections in human lung organoids.” _PLOS
@@ -241,7 +297,7 @@ Freitag K, Sterczyk N, Wendlinger S, **Obermayer B**, Schulz J, Farztdinov V, M�
 C, Milovanovic D, Sigrist S, Conrad T, **Beule D**, Heppner F, Jendrach M (2022). “Spermidine reduces neuroinflammation and soluble amyloid beta in an
 Alzheimer's disease mouse model.” _J Neuroinflammation_, *19*, 172. doi:10.1186/s12974-022-02534-7  [☞ Link](https://doi.org/10.1186/s12974-022-02534-7)
 
-Schalbetter S, Arx A, Cruz-Ochoa N, Dawson K, **Ivanov A**, Mueller F, Lin H, Amport R, Mildenberger W, Mattei D, **Beule D**, Földy C, Greter M, Notter T,
+Schalbetter S, von Arx A, Cruz-Ochoa N, Dawson K, **Ivanov A**, Mueller F, Lin H, Amport R, Mildenberger W, Mattei D, **Beule D**, Földy C, Greter M, Notter T,
 Meyer U (2022). “Adolescence is a sensitive period for prefrontal microglia to act on cognitive development.” _Sci Adv_, *8*, eabi6672.
 doi:10.1126/sciadv.abi6672  [☞ Link](https://doi.org/10.1126/sciadv.abi6672)
 
@@ -277,8 +333,8 @@ doi:10.1002/ijc.33995  [☞ Link](https://doi.org/10.1002/ijc.33995)
 
 Georg P, Astaburuaga-García R, Bonaguro L, Brumhard S, Michalick L, Lippert L, Kostevc T, Gäbel C, Schneider M, Streitz M, Demichev V, Gemünd I, Barone
 M, Tober-Lau P, Helbig E, Hillus D, Petrov L, Stein J, Dey H, Paclik D, Iwert C, Mülleder M, Aulakh S, Djudjaj S, Bülow R, Mei H, Schulz A, Thiel A,
-Hippenstiel S, Saliba A, Eils R, Lehmann I, Mall M, Stricker S, Röhmel J, Corman V, **Beule D**, Wyler E, Landthaler M, **Obermayer B**, Stillfried S, Boor P,
-Demir M, Wesselmann H, Suttorp N, Uhrig A, Müller-Redetzky H, Nattermann J, Kuebler W, Meisel C, Ralser M, Schultze J, Aschenbrenner A, Thibeault C,
+Hippenstiel S, Saliba A, Eils R, Lehmann I, Mall M, Stricker S, Röhmel J, Corman V, **Beule D**, Wyler E, Landthaler M, **Obermayer B**, von Stillfried S, Boor
+P, Demir M, Wesselmann H, Suttorp N, Uhrig A, Müller-Redetzky H, Nattermann J, Kuebler W, Meisel C, Ralser M, Schultze J, Aschenbrenner A, Thibeault C,
 Kurth F, Sander L, Blüthgen N, Sawitzki B, PA-COVID-19 SG (2022). “Complement activation induces excessive T cell cytotoxicity in severe COVID-19.”
 _Cell_, *185*(3), 493-512.e25. ISSN 0092-8674, doi:10.1016/j.cell.2021.12.040  [☞ Link](https://doi.org/10.1016/j.cell.2021.12.040)
 
@@ -392,9 +448,9 @@ Nicholson B, Veldman T, Woods C, Mallia P, Kon O, Kaufmann S, Openshaw P, Chiu C
 Cells during Experimental Human Influenza: A Clinical Study.” _Am J Respir Crit Care Med_, *204*, 826-841. doi:10.1164/rccm.202103-0620OC
  [☞ Link](https://doi.org/10.1164/rccm.202103-0620OC)
 
-Rajasekaran S, Siddiqui J, Rakijas J, Nicolay B, Lin C, Khan E, Patel R, Morris R, Wyler E, Boukhali M, Balasubramanyam J, Ranjith KR, Rechem C, Vogel
-C, Elchuri S, Landthaler M, **Obermayer B**, Haas W, Dyson N, Miles W (2021). “Integrated multi-omics analysis of RB-loss identifies widespread cellular
-programming and synthetic weaknesses.” _Commun Biol_, *4*, 977. doi:10.1038/s42003-021-02495-2  [☞ Link](https://doi.org/10.1038/s42003-021-02495-2)
+Rajasekaran S, Siddiqui J, Rakijas J, Nicolay B, Lin C, Khan E, Patel R, Morris R, Wyler E, Boukhali M, Balasubramanyam J, Ranjith KR, van Rechem C,
+Vogel C, Elchuri S, Landthaler M, **Obermayer B**, Haas W, Dyson N, Miles W (2021). “Integrated multi-omics analysis of RB-loss identifies widespread
+cellular programming and synthetic weaknesses.” _Commun Biol_, *4*, 977. doi:10.1038/s42003-021-02495-2  [☞ Link](https://doi.org/10.1038/s42003-021-02495-2)
 
 Schinke C, Fernandez VV, **Ivanov A**, Peng Y, Körtvelyessy P, Nolte L, Huehnchen P, **Beule D**, Stachelscheid H, Boehmerle W, Endres M (2021). “Modeling
 chemotherapy induced neurotoxicity with human induced pluripotent stem cell (iPSC) -derived sensory neurons.” _Neurobiol Dis_, *155*, 105391.
@@ -413,8 +469,8 @@ Bürger J, Borisova E, Yamamoto H, Rasin M, Ohler U, **Beule D**, Mielke T, Tara
 Synthesis in the Developing Neocortex at Near-Atomic Resolution Reveals Ebp1-Mediated Neuronal Proteostasis at the 60S Tunnel Exit.” _Mol Cell_, *81*,
 304-322.e16. doi:10.1016/j.molcel.2020.11.037  [☞ Link](https://doi.org/10.1016/j.molcel.2020.11.037)
 
-Heyckendorf J, Marwitz S, Reimann M, Avsar K, DiNardo A, Günther G, Hoelscher M, Ibraim E, Kalsdorf B, Kaufmann S, Kontsevaya I, Leth F, Mandalakas A,
-Maurer F, Müller M, Nitschkowski D, Olaru I, Popa C, Rachow A, Rolling T, Rybniker J, Salzer H, Sanchez-Carballo P, Schuhmann M, Schaub D, Spinu V,
+Heyckendorf J, Marwitz S, Reimann M, Avsar K, DiNardo A, Günther G, Hoelscher M, Ibraim E, Kalsdorf B, Kaufmann S, Kontsevaya I, van Leth F, Mandalakas
+A, Maurer F, Müller M, Nitschkowski D, Olaru I, Popa C, Rachow A, Rolling T, Rybniker J, Salzer H, Sanchez-Carballo P, Schuhmann M, Schaub D, Spinu V,
 Suárez I, Terhalle E, Unnewehr M, **Weiner J3**, Goldmann T, Lange C (2021). “Prediction of anti-tuberculosis treatment duration based on a 22-gene
 transcriptomic model.” _Eur Respir J_, *58*. doi:10.1183/13993003.03492-2020  [☞ Link](https://doi.org/10.1183/13993003.03492-2020)
 
@@ -422,8 +478,8 @@ Bao X, **Weiner J3**, Meckes O, Dommisch H, Schaefer A (2021). “Entamoeba ging
 *100*, 771-776. doi:10.1177/00220345211004498  [☞ Link](https://doi.org/10.1177/00220345211004498)
 
 Eckold C, Kumar V, **Weiner J**, Alisjahbana B, Riza A, Ronacher K, Coronel J, Kerry-Barnard S, Malherbe S, Kleynhans L, Stanley K, Ruslami R, Ioana M,
-Ugarte-Gil C, Walzl G, Crevel R, Wijmenga C, Critchley J, Dockrell H, Cliff J, TANDEM c (2021). “Impact of Intermediate Hyperglycemia and Diabetes on
-Immune Dysfunction in Tuberculosis.” _Clin Infect Dis_, *72*, 69-78. doi:10.1093/cid/ciaa751  [☞ Link](https://doi.org/10.1093/cid/ciaa751)
+Ugarte-Gil C, Walzl G, van Crevel R, Wijmenga C, Critchley J, Dockrell H, Cliff J, TANDEM c (2021). “Impact of Intermediate Hyperglycemia and Diabetes
+on Immune Dysfunction in Tuberculosis.” _Clin Infect Dis_, *72*, 69-78. doi:10.1093/cid/ciaa751  [☞ Link](https://doi.org/10.1093/cid/ciaa751)
 
 Wyler E, Mösbauer K, Franke V, Diag A, Gottula L, Arsiè R, Klironomos F, Koppstein D, Hönzke K, Ayoub S, Buccitelli C, Hoffmann K, Richter A, Legnini I,
 **Ivanov A**, Mari T, Del GS, Papies J, Praktiknjo S, Meyer T, Müller M, Niemeyer D, Hocke A, Selbach M, Akalin A, Rajewsky N, Drosten C, Landthaler M
@@ -464,7 +520,7 @@ Kühnisch J, Klaassen S (2021). “Pathogenic Variants Associated With Dilated C
 Med_, *14*(4), e003250. doi:10.1161/CIRCGEN.120.003250  [☞ Link](https://doi.org/10.1161/CIRCGEN.120.003250)
 
 Melo U, Piard J, Fischer-Zirnsak B, Klever M, Schöpflin R, Mensah M, **Holtgrewe M**, Arbez-Gindre F, Martin A, Guigue V, Gaillard D, Landais E, Roze V,
-Kremer V, Ramanah R, Cabrol C, Harms F, Kornak U, Spielmann M, Mundlos S, Maldergem L (2021). “Complete lung agenesis caused by complex genomic
+Kremer V, Ramanah R, Cabrol C, Harms F, Kornak U, Spielmann M, Mundlos S, van Maldergem L (2021). “Complete lung agenesis caused by complex genomic
 rearrangements with neo-TAD formation at the SHH locus.” _Hum Genet_, *140*(10), 1459-1469. doi:10.1007/s00439-021-02344-6
  [☞ Link](https://doi.org/10.1007/s00439-021-02344-6)
 
@@ -476,9 +532,9 @@ isolated polysyndactyly are not restricted to the protein's C-terminal third.”
 ### 2020
 
 
-Mattei D, **Ivanov A**, Oostrum M, Pantelyushin S, Richetto J, Mueller F, Beffinger M, Schellhammer L, Vom BJ, Wollscheid B, **Beule D**, Paolicelli R, Meyer U
-(2020). “Enzymatic Dissociation Induces Transcriptional and Proteotype Bias in Brain Cell Populations.” _Int J Mol Sci_, *21*. doi:10.3390/ijms21217944
- [☞ Link](https://doi.org/10.3390/ijms21217944)
+Mattei D, **Ivanov A**, van Oostrum M, Pantelyushin S, Richetto J, Mueller F, Beffinger M, Schellhammer L, Vom BJ, Wollscheid B, **Beule D**, Paolicelli R,
+Meyer U (2020). “Enzymatic Dissociation Induces Transcriptional and Proteotype Bias in Brain Cell Populations.” _Int J Mol Sci_, *21*.
+doi:10.3390/ijms21217944  [☞ Link](https://doi.org/10.3390/ijms21217944)
 
 **Kuhring M**, Eisenberger A, Schmidt V, Kränkel N, Leistner D, Kirwan J, **Beule D** (2020). “Concepts and Software Package for Efficient Quality Control in
 Targeted Metabolomics Studies: MeTaQuaC.” _Anal Chem_, *92*, 10241-10245. doi:10.1021/acs.analchem.0c00136
@@ -633,7 +689,7 @@ Herda S, Heimann A, Althoff S, Ruß J, Bullinger L, **Beule D**, **Obermayer B**
 Central Memory T Cells with Sustained Functional Properties for Adoptive T Cell Therapy.” _Blood_. doi:10.1182/blood-2019-124736
  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0006497118598608)
 
-van~Heesch S, Witte F, Schneider-Lunitz V, Schulz J, Adami E, Faber A, Kirchner M, Maatz H, Blachut S, Sandmann C, Kanda M, Worth C, Schafer S,
+van Heesch S, Witte F, Schneider-Lunitz V, Schulz J, Adami E, Faber A, Kirchner M, Maatz H, Blachut S, Sandmann C, Kanda M, Worth C, Schafer S,
 Calviello L, Merriott R, Patone G, Hummel O, Wyler E, **Obermayer B**, Mücke M, Lindberg E, Trnka F, Memczak S, Schilling M, Felkin L, Barton P, Quaife N,
 Vanezis K, Diecke S, Mukai M, Mah N, Oh S, Kurtz A, Schramm C, Schwinge D, Sebode M, Harakalova M, Asselbergs F, Vink A, de WR, Viswanathan S, Widjaja
 A, Gärtner-Rommel A, Milting H, Dos RC, Knosalla C, Mertins P, Landthaler M, Vingron M, Linke W, Seidman J, Seidman C, Rajewsky N, Ohler U, Cook S,

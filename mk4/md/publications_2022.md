@@ -1,3 +1,8 @@
+Holle J, Bartolomaeus H, Löber U, Behrens F, Bartolomaeus TUP, Anandakumar H, Wimmer MI, Vu DL, **Kuhring M**, Brüning U, Maifeld A, Geisberger S, Kempa S,
+Schumacher F, Kleuser B, Bufler P, Querfeld U, Kitschke S, Engler D, Kuhrt LD, Drechsel O, Eckardt K, Forslund SK, Thürmer A, McParland V, Kirwan JA,
+Wilck N, Müller D (2022). “Inflammation in Children with CKD Linked to Gut Dysbiosis and Metabolite Imbalance.” _Journal of the American Society of
+Nephrology_, *33*(12), 2259. ISSN 1046-6673, doi:10.1681/ASN.2022030378  [☞ Link](https://journals.lww.com/jasn/fulltext/2022/12000/Inflammation_in_Children_with_CKD_Linked_to_Gut.13.aspx)
+
 Baumgardt M, Hülsemann M, Löwa A, Fatykhova D, Hoffmann K, Kessler M, Mieth M, Hellwig K, Frey D, Langenhagen A, Voss A, **Obermayer B**, Wyler E, Dökel S,
 Gruber AD, Tölch U, Hippenstiel S, Hocke AC, Hönzke K (2022). “State-of-the-art analytical methods of viral infections in human lung organoids.” _PLOS
 ONE_, *17*(12), 1-8. doi:10.1371/journal.pone.0276115  [☞ Link](https://doi.org/10.1371/journal.pone.0276115)
@@ -36,7 +41,7 @@ Freitag K, Sterczyk N, Wendlinger S, **Obermayer B**, Schulz J, Farztdinov V, M�
 C, Milovanovic D, Sigrist S, Conrad T, **Beule D**, Heppner F, Jendrach M (2022). “Spermidine reduces neuroinflammation and soluble amyloid beta in an
 Alzheimer's disease mouse model.” _J Neuroinflammation_, *19*, 172. doi:10.1186/s12974-022-02534-7  [☞ Link](https://doi.org/10.1186/s12974-022-02534-7)
 
-Schalbetter S, Arx A, Cruz-Ochoa N, Dawson K, **Ivanov A**, Mueller F, Lin H, Amport R, Mildenberger W, Mattei D, **Beule D**, Földy C, Greter M, Notter T,
+Schalbetter S, von Arx A, Cruz-Ochoa N, Dawson K, **Ivanov A**, Mueller F, Lin H, Amport R, Mildenberger W, Mattei D, **Beule D**, Földy C, Greter M, Notter T,
 Meyer U (2022). “Adolescence is a sensitive period for prefrontal microglia to act on cognitive development.” _Sci Adv_, *8*, eabi6672.
 doi:10.1126/sciadv.abi6672  [☞ Link](https://doi.org/10.1126/sciadv.abi6672)
 
@@ -72,8 +77,8 @@ doi:10.1002/ijc.33995  [☞ Link](https://doi.org/10.1002/ijc.33995)
 
 Georg P, Astaburuaga-García R, Bonaguro L, Brumhard S, Michalick L, Lippert L, Kostevc T, Gäbel C, Schneider M, Streitz M, Demichev V, Gemünd I, Barone
 M, Tober-Lau P, Helbig E, Hillus D, Petrov L, Stein J, Dey H, Paclik D, Iwert C, Mülleder M, Aulakh S, Djudjaj S, Bülow R, Mei H, Schulz A, Thiel A,
-Hippenstiel S, Saliba A, Eils R, Lehmann I, Mall M, Stricker S, Röhmel J, Corman V, **Beule D**, Wyler E, Landthaler M, **Obermayer B**, Stillfried S, Boor P,
-Demir M, Wesselmann H, Suttorp N, Uhrig A, Müller-Redetzky H, Nattermann J, Kuebler W, Meisel C, Ralser M, Schultze J, Aschenbrenner A, Thibeault C,
+Hippenstiel S, Saliba A, Eils R, Lehmann I, Mall M, Stricker S, Röhmel J, Corman V, **Beule D**, Wyler E, Landthaler M, **Obermayer B**, von Stillfried S, Boor
+P, Demir M, Wesselmann H, Suttorp N, Uhrig A, Müller-Redetzky H, Nattermann J, Kuebler W, Meisel C, Ralser M, Schultze J, Aschenbrenner A, Thibeault C,
 Kurth F, Sander L, Blüthgen N, Sawitzki B, PA-COVID-19 SG (2022). “Complement activation induces excessive T cell cytotoxicity in severe COVID-19.”
 _Cell_, *185*(3), 493-512.e25. ISSN 0092-8674, doi:10.1016/j.cell.2021.12.040  [☞ Link](https://doi.org/10.1016/j.cell.2021.12.040)
 
