@@ -11,14 +11,6 @@ Kreutzfeldt S, Teleanu M, Hübschmann D, Morris L, Keller U, Glimm H, Fröhling 
 “Integrative analysis reveals a macrophage-predominant, immunosuppressive immune microenvironment and subtype-specific therapeutic vulnerabilities in
 advanced salivary gland cancer.” _medRxiv_, 2024-06. doi:10.1101/2024.06.11.24308538  [☞ Link](https://www.medrxiv.org/content/10.1101/2024.06.11.24308538v2)
 
-Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, Haghverdi L (2024). “Identifying cancer cells from calling single-nucleotide
-variants in scRNA-seq data.” _bioRxiv_. doi:10.1101/2024.02.21.581377  [☞ Link](https://www.biorxiv.org/content/early/2024/02/23/2024.02.21.581377)
-
-Horn V, Cancino C, Steinheuer L, **Obermayer B**, Fritz K, Nguyen AL, Plattner C, Bösel D, Burns M, Schulz AR, Mantzivi E, Lissner D, Conrad T, Mashreghi M,
-Sonnenberg E, **Beule D**, Flatz L, Consortium TI, Trjanoski Z, Weidinger C, Mei HE, Siegmund B, Thurley K, Hegazy AN (2023). “Multimodal profiling of
-peripheral blood identifies proliferating circulating effector CD4+ T cells as predictors for response to integrin α4β7-blocking therapy in patients
-with inflammatory bowel disease.” _bioRxiv_. doi:10.1101/2023.10.01.560386  [☞ Link](https://www.biorxiv.org/content/early/2023/10/03/2023.10.01.560386)
-
 Yerinde C, Keye J, Durlanik S, Freise I, Nowak F, Hsiao H, Letizia M, Schlickeiser S, **Obermayer B**, Huck A, Friedrich M, Wu H, Kunkel D, Kühl AA, Bauer
 S, Thiel A, Siegmund B, Glauben R, Weidinger C (2022). “HDAC7 controls anti-viral and anti-tumor immunity by CD8+ T cells.” _bioRxiv_.
 doi:10.1101/2022.09.18.508452  [☞ Link](https://www.biorxiv.org/content/early/2022/09/19/2022.09.18.508452)

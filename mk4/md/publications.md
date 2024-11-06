@@ -14,14 +14,6 @@ Kreutzfeldt S, Teleanu M, Hübschmann D, Morris L, Keller U, Glimm H, Fröhling 
 “Integrative analysis reveals a macrophage-predominant, immunosuppressive immune microenvironment and subtype-specific therapeutic vulnerabilities in
 advanced salivary gland cancer.” _medRxiv_, 2024-06. doi:10.1101/2024.06.11.24308538  [☞ Link](https://www.medrxiv.org/content/10.1101/2024.06.11.24308538v2)
 
-Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, Haghverdi L (2024). “Identifying cancer cells from calling single-nucleotide
-variants in scRNA-seq data.” _bioRxiv_. doi:10.1101/2024.02.21.581377  [☞ Link](https://www.biorxiv.org/content/early/2024/02/23/2024.02.21.581377)
-
-Horn V, Cancino C, Steinheuer L, **Obermayer B**, Fritz K, Nguyen AL, Plattner C, Bösel D, Burns M, Schulz AR, Mantzivi E, Lissner D, Conrad T, Mashreghi M,
-Sonnenberg E, **Beule D**, Flatz L, Consortium TI, Trjanoski Z, Weidinger C, Mei HE, Siegmund B, Thurley K, Hegazy AN (2023). “Multimodal profiling of
-peripheral blood identifies proliferating circulating effector CD4+ T cells as predictors for response to integrin α4β7-blocking therapy in patients
-with inflammatory bowel disease.” _bioRxiv_. doi:10.1101/2023.10.01.560386  [☞ Link](https://www.biorxiv.org/content/early/2023/10/03/2023.10.01.560386)
-
 Yerinde C, Keye J, Durlanik S, Freise I, Nowak F, Hsiao H, Letizia M, Schlickeiser S, **Obermayer B**, Huck A, Friedrich M, Wu H, Kunkel D, Kühl AA, Bauer
 S, Thiel A, Siegmund B, Glauben R, Weidinger C (2022). “HDAC7 controls anti-viral and anti-tumor immunity by CD8+ T cells.” _bioRxiv_.
 doi:10.1101/2022.09.18.508452  [☞ Link](https://www.biorxiv.org/content/early/2022/09/19/2022.09.18.508452)
@@ -35,6 +27,30 @@ doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.110
 
 ### 2024
 
+
+Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, Haghverdi L (2024). “Identifying cancer cells from calling single-nucleotide
+variants in scRNA-seq data.” _Bioinformatics_, *40*(9), btae512. ISSN 1367-4811, doi:10.1093/bioinformatics/btae512
+ [☞ Link](https://doi.org/10.1093/bioinformatics/btae512)
+
+Horn V, Cancino CA, Steinheuer LM, **Obermayer B**, Fritz K, Nguyen AL, Juhran KS, Plattner C, Bösel D, Oldenburg L, Burns M, Schulz AR, Saliutina M,
+Mantzivi E, Lissner D, Conrad T, Mashreghi M, Zundler S, Sonnenberg E, Schumann M, Haag L, **Beule D**, Flatz L, Atreya I, Atreya R, Bacher P, Becker C,
+Bojarski C, Britzen-Laurent N, Bosch-Voskens C, Chang H, Diefenbach A, Günther C, Hegazy AN, Hildner K, Klose CS, Koop K, Krug S, Kühl AA, Leppkes M,
+López-Posadas R, Ludwig LS, Neufert C, Neurath M, Patankar J, Prüß M, Radbruch A, Romagnani C, Ronchi F, Sanders A, Scheffold A, Schulzke J, Schumann M,
+Schürmann S, Siegmund B, Stürzl M, Trajanoski Z, Triantafyllopoulou A, Waldner M, Weidinger C, Wirtz S, Zundler S, Trjanoski Z, D’Haens G, Weidinger C,
+Mei HE, Siegmund B, Thurley K, Hegazy AN (2024). “Multimodal Profiling of Peripheral Blood Identifies Proliferating Circulating Effector CD4+ T Cells as
+Predictors for Response to Integrin α4β7–Blocking Therapy in Inflammatory Bowel Disease.” _Gastroenterology_. ISSN 0016-5085,
+doi:10.1053/j.gastro.2024.09.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0016508524055276)
+
+Menzel M, Martis-Thiele M, Goldschmid H, Ott A, Romanovsky E, Siemanowski-Hrach J, Seillier L, Brüchle NO, Maurer A, Lehmann K, Begemann M, Elbracht M,
+Meyer R, Dintner S, Claus R, Meier-Kolthoff JP, **Blanc E**, Möbs M, Joosten M, **Benary M**, Basitta P, Hölscher F, Tischler V, Groß T, Kutz O, Prause R,
+William D, Horny K, Goering W, Sivalingam S, Borkhardt A, Blank C, Junk SV, Yasin L, Moskalev EA, Carta MG, Ferrazzi F, Tögel L, Wolter S, Adam E,
+Matysiak U, Rosenthal T, Dönitz J, Lehmann U, Schmidt G, Bartels S, Hofmann W, Hirsch S, Dikow N, Göbel K, Banan R, Hamelmann S, Fink A, Ball M, Neumann
+O, Rehker J, Kloth M, Murtagh J, Hartmann N, Jurmeister P, Mock A, Kumbrink J, Jung A, Mayr E, Jacob A, Trautmann M, Kirmse S, Falkenberg K, Ruckert C,
+Hirsch D, Immel A, Dietmaier W, Haack T, Marienfeld R, Fürstberger A, Niewöhner J, Gerstenmaier U, Eberhardt T, Greif PA, Appenzeller S, Maurus K, Doll
+J, Jelting Y, Jonigk D, Märkl B, **Beule D**, Horst D, Wulf A, Aust D, Werner M, Reuter-Jessen K, Ströbel P, Auber B, Sahm F, Merkelbach-Bruse S, Siebolts
+U, Roth W, Lassmann S, Klauschen F, Gaisa NT, Weichert W, Evert M, Armeanu-Ebinger S, Ossowski S, Schroeder C, Schaaf CP, Malek N, Schirmacher P, Kazdal
+D, Pfarr N, Budczies J, Stenzinger A (2024). “Benchmarking whole exome sequencing in the German network for personalized medicine.” _European Journal of
+Cancer_, *211*, 114306. ISSN 0959-8049, doi:10.1016/j.ejca.2024.114306  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0959804924009626)
 
 Fatykhova D, Fritsch VN, Siebert K, Methling K, Lalk M, Busche T, Kalinowski J, **Weiner J**, **Beule D**, Bertrams W, others (2024). “Microenvironmental
 acidification by pneumococcal sugar consumption fosters barrier disruption and immune suppression in the human alveolus.” _European Respiratory
@@ -67,7 +83,7 @@ challenge with rapamycin.” _Biology of sex differences_, *15*, 72. ISSN 2042-6
  [☞ Link](https://bsd.biomedcentral.com/articles/10.1186/s13293-024-00647-7)
 
 Trinks A, **Milek M**, **Beule D**, Kluge J, Florian S, Sers C, Horst D, Morkel M, Bischoff P (2024). “Robust detection of clinically relevant features in
-single-cell RNA profiles of patient-matched fresh and formalin-fixed paraffin-embedded (FFPE) lung cancer tissue.” _Cellular Oncology_, 1-11.
+single-cell RNA profiles of patient-matched fresh and formalin-fixed paraffin-embedded (FFPE) lung cancer tissue.” _Cellular Oncology_, *47*, 1-11.
 doi:10.5281/zenodo.7852154  [☞ Link](https://link.springer.com/article/10.1007/s13402-024-00922-0)
 
 Šmid A, Štajdohar M, **Milek M**, Urbančič D, Kuželički NK, Tamm R, Metspalu A, Mlinarič-Raščan I (2024). “Transcriptome analysis reveals involvement of
