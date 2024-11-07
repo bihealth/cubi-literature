@@ -28,6 +28,22 @@ doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.110
 ### 2024
 
 
+Schmidt A, Danyel M, Grundmann K, Brunet T, Klinkhammer H, Hsieh T, Engels H, Peters S, Knaus A, Moosa S, Averdunk L, Boschann F, Sczakiel HL,
+Schwartzmann S, Mensah MA, Pantel JT, **Holtgrewe M**, Bösch A, Weiß C, Weinhold N, Suter A, Stoltenburg C, Neugebauer J, Kallinich T, Kaindl AM, Holzhauer
+S, Bührer C, Bufler P, Kornak U, Ott C, Schülke M, Nguyen HHP, Hoffjan S, Grasemann C, Rothoeft T, Brinkmann F, Matar N, Sivalingam S, Perne C, Mangold
+E, Kreiss M, Cremer K, Betz RC, Mücke M, Grigull L, Klockgether T, Spier I, Heimbach A, Bender T, Brand F, Stieber C, Morawiec AM, Karakostas P, Schäfer
+VS, Bernsen S, Weydt P, Castro-Gomez S, Aziz A, Grobe-Einsler M, Kimmich O, Kobeleva X, Önder D, Lesmann H, Kumar S, Tacik P, Basin MA, Incardona P,
+Lee-Kirsch MA, Berner R, Schuetz C, Körholz J, Kretschmer T, Donato ND, Schröck E, Heinen A, Reuner U, Hanßke A, Kaiser FJ, Manka E, Munteanu M,
+Kuechler A, Cordula K, Hirtz R, Schlapakow E, Schlein C, Lisfeld J, Kubisch C, Herget T, Hempel M, Weiler-Normann C, Ullrich K, Schramm C, Rudolph C,
+Rillig F, Groffmann M, Muntau A, Tibelius A, Schwaibold EMC, Schaaf CP, Zawada M, Kaufmann L, Hinderhofer K, Okun PM, Kotzaeridou U, Hoffmann GF,
+Choukair D, Bettendorf M, Spielmann M, Ripke A, Pauly M, Münchau A, Lohmann K, Hüning I, Hanker B, Bäumer T, Herzog R, Hellenbroich Y, Westphal DS,
+Strom T, Kovacs R, Riedhammer KM, Mayerhanser K, Graf E, Brugger M, Hoefele J, Oexle K, Mirza-Schreiber N, Berutti R, Schatz U, Krenn M, Makowski C,
+Weigand H, Schröder S, Rohlfs M, Vill K, Hauck F, Borggraefe I, Müller-Felber W, Kurth I, Elbracht M, Knopp C, Begemann M, Kraft F, Lemke JR, Hentschel
+J, Platzer K, Strehlow V, Jamra RA, Kehrer M, Demidov G, Beck-Wödl S, Graessner H, Sturm M, Zeltner L, Schöls LJ, Magg J, Bevot A, Kehrer C, Kaiser N,
+Turro E, Horn D, Grüters-Kieslich A, Klein C, Mundlos S, Nöthen M, Riess O, Meitinger T, Krude H, Krawitz PM, Haack T, Ehmke N, Wagner M (2024).
+“Next-generation phenotyping integrated in a national framework for patients with ultrarare disorders improves genetic diagnostics and yields new
+molecular findings.” _Nature Genetics_. ISSN 1546-1718, doi:10.1038/s41588-024-01836-1  [☞ Link](https://doi.org/10.1038/s41588-024-01836-1)
+
 Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, Haghverdi L (2024). “Identifying cancer cells from calling single-nucleotide
 variants in scRNA-seq data.” _Bioinformatics_, *40*(9), btae512. ISSN 1367-4811, doi:10.1093/bioinformatics/btae512
  [☞ Link](https://doi.org/10.1093/bioinformatics/btae512)
