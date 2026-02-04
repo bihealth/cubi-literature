@@ -1,3 +1,17 @@
+Steinbrecht D, Minia I, **Milek M**, Meisig J, Bl"uthgen N, Landthaler M (2024). “Subcellular mRNA kinetic modeling reveals nuclear retention as
+rate-limiting.” _Molecular Systems Biology_, *20*(12), 1346-1371.
+
+Burkert M, **Blanc E**, Thiessen N, Weber C, Toedling J, Monti R, Dombrowe VM, de Biase MS, Kaufmann TL, Haase K, Waszak S, Eggert A, **Beule D**, Schulte J,
+Ohler U, Schwarz R (2024). “Copy-number dosage regulates telomere maintenance and disease-associated pathways in neuroblastoma.” _Iscience_, *27*(10).
+
+Dore R, Sentis SC, Johann K, Lopez-Alcantara N, Resch J, Chandrasekar A, Müller-Fielitz H, Moeller LC, Fuehrer D, Schwaninger M, **Obermayer B**, Opitz R,
+Mittag J (2024). “Partial resistance to thyroid hormone-induced tachycardia and cardiac hypertrophy in mice lacking thyroid hormone receptor $\beta$.”
+_Thyroid_, *34*(6), 796-805.
+
+Kiefer MF, Meng Y, Yang N, Vahrenbrink M, Wulff S, Li C, Wowro SJ, Petricek KM, Sommerfeld M, Flores RE, others (2024). “Intestinal retinol saturase is
+implicated in the development of obesity and epithelial homeostasis upon injury.” _American Journal of Physiology-Endocrinology and Metabolism_,
+*327*(2), E203-E216.
+
 Schmidt A, Danyel M, Grundmann K, Brunet T, Klinkhammer H, Hsieh T, Engels H, Peters S, Knaus A, Moosa S, Averdunk L, Boschann F, Sczakiel HL,
 Schwartzmann S, Mensah MA, Pantel JT, **Holtgrewe M**, Bösch A, Weiß C, Weinhold N, Suter A, Stoltenburg C, Neugebauer J, Kallinich T, Kaindl AM, Holzhauer
 S, Bührer C, Bufler P, Kornak U, Ott C, Schülke M, Nguyen HHP, Hoffjan S, Grasemann C, Rothoeft T, Brinkmann F, Matar N, Sivalingam S, Perne C, Mangold

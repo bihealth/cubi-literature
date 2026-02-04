@@ -1,5 +1,41 @@
-Chopra A, Song J, **Weiner J**, **Beule D**, Schaefer AS (2024). “Genetic analysis of cis-enhancers associated with bone mineral density and periodontitis in
-the gene SOST.” _ResearchSquare_.  [☞ Link](https://www.researchsquare.com/article/rs-4409923/v1)
+Oppenheim O, Giese W, Park H, Baumann E, **Ivanov A**, **Beule D**, Eichmann A, Gerhardt H (2025). “Divergent endothelial mechanisms drive arteriovenous
+malformations in Alk1 and SMAD4 loss-of-function.” _bioRxiv_. doi:10.1101/2025.01.03.631070  [☞ Link](https://www.biorxiv.org/content/10.1101/2025.01.03.631070v1)
+
+Molenaar A, Pathak E, Bernecker M, Mallet N, Gutierrez-Aguilar R, Mencias C, Lutter D, De Angelis M, Maity G, K"uhnen P, **Obermayer B**, Opitz R, Schriever
+SC, M"uller TD, Pfluger PT (2025). “Central T3 deprivation disturbs cortical cilia formation, oligodendrocyte lineage and neuronal
+cell-cell-communication in a MCT8/OATP1C1 deficient Allan-Herndon-Dudley Syndrome mouse model.” _bioRxiv_. doi:10.64898/2025.12.23.696195
+ [☞ Link](https://www.biorxiv.org/content/early/2025/12/25/2025.12.23.696195)
+
+von Kügelgen N, Vallone VF, Ludwik KA, Babaeva M, Diecke S, **Beule D** (2025). “StemCNV-check: a pipeline for human pluripotent stem cell (hPSC) genomic
+integrity control using SNP array data and copy number variant scoring.” _bioRxiv_. doi:10.1101/2025.12.01.691615
+ [☞ Link](https://www.biorxiv.org/content/10.64898/2025.12.01.691615v1)
+
+May V, Hartmann T, **Beule D**, **Holtgrewe M** (2025). “Svirlpool: structural variant detection from long read sequencing by local assembly.” _bioRxiv_,
+2025-11.
+
+Foti A, Hurwitz R, Textoris-Taube K, **Milek M**, Pickrum A, Castellaw A, Kim HJ, Chandrasekaran R, Becker S, Mithu VS, Krueger R, von Bernuth H, Mülleder
+M, Biswas A, Fahjen P, Winkler M, Abed UA, Humme D, Thee S, Prasse A, Seeliger B, **Beule D**, Griesinger C, Ralser M, Torres VJ, Zychlinsky A (2025).
+“Tyrosine halogenation converts $\alpha$-defensins into potent immunomodulators.” _bioRxiv_. doi:10.1101/2023.11.01.565105
+ [☞ Link](https://www.biorxiv.org/content/10.1101/2023.11.01.565105v2)
+
+Daher U, Fernandez-Vallone V, Baumgardt M, **Obermayer B**, Wiese N, Kirsch AK, Fisch T, L"owa A, Schmueck-Henneresse M, Hocke AC, Amini L, Stachelscheid H
+(2025). “An autologous human iPSC-derived 3D organoid infection model for preclinical testing of antiviral T cells.” _bioRxiv_.
+doi:10.1101/2025.09.16.676521  [☞ Link](https://www.biorxiv.org/content/early/2025/09/16/2025.09.16.676521)
+
+Plumbom I, **Obermayer B**, Raspe R, Pascual-Reguant A, Theurillat I, Pentimalli TM, Hsieh Y, Gil M, Dietrich C, Seeger-Zografakis M, Quedenau C, Wilde J,
+Braeuning C, Fischer C, Schuelke M, Ludwig LS, Eggert A, Rajewsky N, Borodina T, **Beule D**, Altmueller J, Radbruch H, Hauser A, Conrad T (2025).
+“circVDJ-seq for T cell clonotype detection in single-cell and spatial multi-omics.” _bioRxiv_. doi:10.1101/2025.09.16.675546
+ [☞ Link](https://www.biorxiv.org/content/early/2025/09/18/2025.09.16.675546)
+
+Salla M, **Obermayer B**, Cotta M, Friebel E, Campo-Garcia J, Charalambous G, Bueno RJ, Lieu D, Dabek P, Helmuth A, Tellides G, Assi R, Bankov K, Lodrini M,
+Deubzer H, **Beule D**, Chung H, Radbruch H, Capper D, Heppner F, Starossom SC, Lareau CA, Liu I, Ludwig LS (2025). “Cryo-mtscATAC-seq for single-cell
+mitochondrial DNA genotyping and clonal tracing in archived human tissues.” _bioRxiv_. doi:10.1101/2025.09.17.675534
+ [☞ Link](https://www.biorxiv.org/content/early/2025/09/20/2025.09.17.675534)
+
+Letizia M, Omar T, Weidner P, Jakob MO, Freise I, Krug SM, L"oscher B, Rosati E, **Obermayer B**, Gamez-Belmonte MdlR, Hecker J, Ziegler J, Weixler B,
+Asbach P, Kunkel D, Stumvoll M, Miehle K, Becker C, Klose CS, Glauben R, **Beule D**, K"uhl A, Franke A, Sanders A, Siegmund B, Weidinger C (2025). “T
+cell-intrinsic lymphoproliferation as a key driver of intestinal autoimmunity in acquired generalized lipodystrophy.” _medRxiv_.
+doi:10.1101/2025.02.19.25322160  [☞ Link](https://www.medrxiv.org/content/early/2025/02/24/2025.02.19.25322160)
 
 Opitz B, Essex M, Pascual-Leone BM, Loeber U, **Kuhring M**, Zhang B, Bruening U, Fritsche-Guenther R, Krzanowski M, Vernengo FF, Brumhard S, Röwekamp I,
 Bielecka A, Lesker T, Wyler E, Landthaler M, Mantei A, Meisel C, Caesar S, Thibeault C, Corman V, Marko L, Suttorp N, Strowig T, Kurth F, Sander L, Li

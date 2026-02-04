@@ -1,3 +1,6 @@
+Kühnisch J, Theisen S, Dartsch J, Fritsche-Guenther R, Kirchner M, **Obermayer B**, Bauer A, Kahlert A, Rothe M, **Beule D**, others (2023). “Prdm16 mutation
+determines sex-specific cardiac metabolism and identifies two novel cardiac metabolic regulators.” _Cardiovascular Research_, *119*(18), 2902-2916.
+
 Monsorno K, Ginggen K, **Ivanov A**, Buckinx A, Lalive AL, Tchenio A, Benson S, Vendrell M, D’Alessandro A, **Beule D**, others (2023). “Loss of microglial MCT4
 leads to defective synaptic pruning and anxiety-like behavior in mice.” _Nature Communications_, *14*(1), 5749. doi:10.1038/s41467-023-41502-4
  [☞ Link](https://www.nature.com/articles/s41467-023-41502-4)
@@ -32,10 +35,6 @@ Korkolopoulou P, **Weiner J**, Lopez-Guillermo A, Warth A, Schneider T, Nagy Á,
 Rosenquist R, Vassilakopoulos TP, Ott G, Ogawa S, Damm F (2023). “Frequent ZNF217 mutations lead to transcriptional deregulation of interferon signal
 transduction via altered chromatin accessibility in B cell lymphoma.” _Leukemia_, 1-13. doi:10.1038/s41375-023-02013-9
  [☞ Link](https://www.nature.com/articles/s41375-023-02013-9)
-
-Spranger L, **Weiner J**, Bredow J, Zeitz U, Grittner U, Boschmann M, Dickmann S, Stobäus N, Schwartzenberg RJ, Brachs M, Spranger J, Mai K (2023). “Thrifty
-energy phenotype predicts weight regain in postmenopausal women with overweight or obesity and is related to FGFR1 signaling.” _Clinical Nutrition_,
-*42*(4), 559-567. doi:10.1016/j.clnu.2023.02.020  [☞ Link](https://www.sciencedirect.com/science/article/abs/pii/S0261561423000560)
 
 Chopra A, Song J, **Weiner J**, Keceli HG, Dincer PR, Cruz R, Carracedo A, Blanco J, Dommisch H, Schaefer AS (2023). “RSPO4 is a potential risk gene of
 stages III-IV, grade C periodontitis through effects on innate immune response and oral barrier integrity.” _Journal of Clinical Periodontology_,
