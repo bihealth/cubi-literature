@@ -1,4 +1,4 @@
-Steinbrecht D, Minia I, **Milek M**, Meisig J, Bl"uthgen N, Landthaler M (2024). “Subcellular mRNA kinetic modeling reveals nuclear retention as
+Steinbrecht D, Minia I, **Milek M**, Meisig J, Blüthgen N, Landthaler M (2024). “Subcellular mRNA kinetic modeling reveals nuclear retention as
 rate-limiting.” _Molecular Systems Biology_, *20*(12), 1346-1371.
 
 Burkert M, **Blanc E**, Thiessen N, Weber C, Toedling J, Monti R, Dombrowe VM, de Biase MS, Kaufmann TL, Haase K, Waszak S, Eggert A, **Beule D**, Schulte J,
@@ -32,20 +32,11 @@ Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, 
 variants in scRNA-seq data.” _Bioinformatics_, *40*(9), btae512. ISSN 1367-4811, doi:10.1093/bioinformatics/btae512
  [☞ Link](https://doi.org/10.1093/bioinformatics/btae512)
 
-Horn V, Cancino CA, Steinheuer LM, **Obermayer B**, Fritz K, Nguyen AL, Juhran KS, Plattner C, Bösel D, Oldenburg L, Burns M, Schulz AR, Saliutina M,
-Mantzivi E, Lissner D, Conrad T, Mashreghi M, Zundler S, Sonnenberg E, Schumann M, Haag L, **Beule D**, Flatz L, Atreya I, Atreya R, Bacher P, Becker C,
-Bojarski C, Britzen-Laurent N, Bosch-Voskens C, Chang H, Diefenbach A, Günther C, Hegazy AN, Hildner K, Klose CS, Koop K, Krug S, Kühl AA, Leppkes M,
-López-Posadas R, Ludwig LS, Neufert C, Neurath M, Patankar J, Prüß M, Radbruch A, Romagnani C, Ronchi F, Sanders A, Scheffold A, Schulzke J, Schumann M,
-Schürmann S, Siegmund B, Stürzl M, Trajanoski Z, Triantafyllopoulou A, Waldner M, Weidinger C, Wirtz S, Zundler S, Trjanoski Z, D’Haens G, Weidinger C,
-Mei HE, Siegmund B, Thurley K, Hegazy AN (2024). “Multimodal Profiling of Peripheral Blood Identifies Proliferating Circulating Effector CD4+ T Cells as
-Predictors for Response to Integrin α4β7–Blocking Therapy in Inflammatory Bowel Disease.” _Gastroenterology_. ISSN 0016-5085,
-doi:10.1053/j.gastro.2024.09.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0016508524055276)
-
 Menzel M, Martis-Thiele M, Goldschmid H, Ott A, Romanovsky E, Siemanowski-Hrach J, Seillier L, Brüchle NO, Maurer A, Lehmann K, Begemann M, Elbracht M,
 Meyer R, Dintner S, Claus R, Meier-Kolthoff JP, **Blanc E**, Möbs M, Joosten M, **Benary M**, Basitta P, Hölscher F, Tischler V, Groß T, Kutz O, Prause R,
 William D, Horny K, Goering W, Sivalingam S, Borkhardt A, Blank C, Junk SV, Yasin L, Moskalev EA, Carta MG, Ferrazzi F, Tögel L, Wolter S, Adam E,
 Matysiak U, Rosenthal T, Dönitz J, Lehmann U, Schmidt G, Bartels S, Hofmann W, Hirsch S, Dikow N, Göbel K, Banan R, Hamelmann S, Fink A, Ball M, Neumann
-O, Rehker J, Kloth M, Murtagh J, Hartmann N, Jurmeister P, Mock A, Kumbrink J, Jung A, Mayr E, Jacob A, Trautmann M, Kirmse S, Falkenberg K, Ruckert C,
+O, Rehker J, Kloth M, Murtagh J, **Hartmann N**, Jurmeister P, Mock A, Kumbrink J, Jung A, Mayr E, Jacob A, Trautmann M, Kirmse S, Falkenberg K, Ruckert C,
 Hirsch D, Immel A, Dietmaier W, Haack T, Marienfeld R, Fürstberger A, Niewöhner J, Gerstenmaier U, Eberhardt T, Greif PA, Appenzeller S, Maurus K, Doll
 J, Jelting Y, Jonigk D, Märkl B, **Beule D**, Horst D, Wulf A, Aust D, Werner M, Reuter-Jessen K, Ströbel P, Auber B, Sahm F, Merkelbach-Bruse S, Siebolts
 U, Roth W, Lassmann S, Klauschen F, Gaisa NT, Weichert W, Evert M, Armeanu-Ebinger S, Ossowski S, Schroeder C, Schaaf CP, Malek N, Schirmacher P, Kazdal
@@ -114,11 +105,10 @@ Hramyka D, Sczakiel HL, Zhao MX, **Stolpe O**, **Nieminen M**, Adam R, Danyel M,
 Mensah MA, Boschann F, **Beule D**, **Holtgrewe M** (2024). “REEV: review, evaluate and explain variants.” _Nucleic Acids Research_, gkae366.
 doi:10.1093/nar/gkae366  [☞ Link](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae366/7676836)
 
-Ramberger E, Sapozhnikova V, Ng YLD, Dolnik A, Ziehm M, Popp O, Str"ang E, Kull M, Gr"unschl"ager F, Kr"uger J, **Benary M**, M"uller S, Gao X, Murgai A,
-Haji M, Schmidt A, Lutz R, Nogai A, Braune J, Laue D, Langer C, Khandanpour C, Bassermann F, D"ohner H, Engelhardt M, Straka C, Hundemer M, **Beule D**,
-Haas S, Keller U, Einsele H, Bullinger L, Knop S, Mertins P, Kr"onke J (2024). “The proteogenomic landscape of multiple myeloma reveals insights into
-disease biology and therapeutic opportunities.” _Nature Cancer_. ISSN 2662-1347, doi:10.1038/s43018-024-00784-3
- [☞ Link](https://doi.org/10.1038/s43018-024-00784-3)
+Ramberger E, Sapozhnikova V, Ng YLD, Dolnik A, Ziehm M, Popp O, Str"ang E, Kull M, Grünschl"ager F, Krüger J, **Benary M**, Müller S, Gao X, Murgai A, Haji
+M, Schmidt A, Lutz R, Nogai A, Braune J, Laue D, Langer C, Khandanpour C, Bassermann F, D"ohner H, Engelhardt M, Straka C, Hundemer M, **Beule D**, Haas S,
+Keller U, Einsele H, Bullinger L, Knop S, Mertins P, Kr"onke J (2024). “The proteogenomic landscape of multiple myeloma reveals insights into disease
+biology and therapeutic opportunities.” _Nature Cancer_. ISSN 2662-1347, doi:10.1038/s43018-024-00784-3  [☞ Link](https://doi.org/10.1038/s43018-024-00784-3)
 
 Habringer S, Ihlow J, Kleo K, Klostermann A, Schmidt M, Chai L, Knödler M, Leyvraz S, Sigler C, Sinn B, Maschmeyer G, Jegodka Y, **Benary M**, Ott C,
 Tinhofer I, Schäfer R, Möbs M, Keller U, Keilholz U, Rieke DT (2024). “A diagnostic challenge of KIT p.V559D and BRAF p.G469A mutations in a paragastric

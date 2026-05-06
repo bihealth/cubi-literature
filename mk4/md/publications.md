@@ -4,16 +4,16 @@
 Oppenheim O, Giese W, Park H, Baumann E, **Ivanov A**, **Beule D**, Eichmann A, Gerhardt H (2025). “Divergent endothelial mechanisms drive arteriovenous
 malformations in Alk1 and SMAD4 loss-of-function.” _bioRxiv_. doi:10.1101/2025.01.03.631070  [☞ Link](https://www.biorxiv.org/content/10.1101/2025.01.03.631070v1)
 
-Molenaar A, Pathak E, Bernecker M, Mallet N, Gutierrez-Aguilar R, Mencias C, Lutter D, De Angelis M, Maity G, K"uhnen P, **Obermayer B**, Opitz R, Schriever
-SC, M"uller TD, Pfluger PT (2025). “Central T3 deprivation disturbs cortical cilia formation, oligodendrocyte lineage and neuronal
+Molenaar A, Pathak E, Bernecker M, Mallet N, Gutierrez-Aguilar R, Mencias C, Lutter D, De Angelis M, Maity G, Kühnen P, **Obermayer B**, Opitz R, Schriever
+SC, Müller TD, Pfluger PT (2025). “Central T3 deprivation disturbs cortical cilia formation, oligodendrocyte lineage and neuronal
 cell-cell-communication in a MCT8/OATP1C1 deficient Allan-Herndon-Dudley Syndrome mouse model.” _bioRxiv_. doi:10.64898/2025.12.23.696195
  [☞ Link](https://www.biorxiv.org/content/early/2025/12/25/2025.12.23.696195)
 
-von Kügelgen N, Vallone VF, Ludwik KA, Babaeva M, Diecke S, **Beule D** (2025). “StemCNV-check: a pipeline for human pluripotent stem cell (hPSC) genomic
-integrity control using SNP array data and copy number variant scoring.” _bioRxiv_. doi:10.1101/2025.12.01.691615
+**von Kügelgen N**, Fernandez Vallone V, Ludwik K, Babaeva M, Diecke S, **Beule D** (2025). “StemCNV-check: a pipeline for human pluripotent stem cell (hPSC)
+genomic integrity control using SNP array data and copy number variant scoring.” _bioRxiv_. doi:10.1101/2025.12.01.691615
  [☞ Link](https://www.biorxiv.org/content/10.64898/2025.12.01.691615v1)
 
-May V, Hartmann T, **Beule D**, **Holtgrewe M** (2025). “Svirlpool: structural variant detection from long read sequencing by local assembly.” _bioRxiv_,
+**May V**, **Hartmann T**, **Beule D**, **Holtgrewe M** (2025). “Svirlpool: structural variant detection from long read sequencing by local assembly.” _bioRxiv_,
 2025-11.
 
 Foti A, Hurwitz R, Textoris-Taube K, **Milek M**, Pickrum A, Castellaw A, Kim HJ, Chandrasekaran R, Becker S, Mithu VS, Krueger R, von Bernuth H, Mülleder
@@ -36,7 +36,7 @@ mitochondrial DNA genotyping and clonal tracing in archived human tissues.” _b
  [☞ Link](https://www.biorxiv.org/content/early/2025/09/20/2025.09.17.675534)
 
 Letizia M, Omar T, Weidner P, Jakob MO, Freise I, Krug SM, L"oscher B, Rosati E, **Obermayer B**, Gamez-Belmonte MdlR, Hecker J, Ziegler J, Weixler B,
-Asbach P, Kunkel D, Stumvoll M, Miehle K, Becker C, Klose CS, Glauben R, **Beule D**, K"uhl A, Franke A, Sanders A, Siegmund B, Weidinger C (2025). “T
+Asbach P, Kunkel D, Stumvoll M, Miehle K, Becker C, Klose CS, Glauben R, **Beule D**, Kühl A, Franke A, Sanders A, Siegmund B, Weidinger C (2025). “T
 cell-intrinsic lymphoproliferation as a key driver of intestinal autoimmunity in acquired generalized lipodystrophy.” _medRxiv_.
 doi:10.1101/2025.02.19.25322160  [☞ Link](https://www.medrxiv.org/content/early/2025/02/24/2025.02.19.25322160)
 
@@ -45,17 +45,9 @@ Bielecka A, Lesker T, Wyler E, Landthaler M, Mantei A, Meisel C, Caesar S, Thibe
 Y, Kirwan J, Forslund S (2023). “Gut microbiota dysbiosis is associated with altered tryptophan metabolism and dysregulated inflammatory response in
 severe COVID-19.” doi:10.21203/rs.3.rs-2459463/v1  [☞ Link](https://www.researchsquare.com/article/rs-2459463/v1)
 
-**Zuljan E**, von der Emde B, Piwonski I, Pestana ACA, Klinghammer K, Mock A, Horak P, Heining C, Klauschen F, Pretzell M, Boerries I, Brandts C,
-Kreutzfeldt S, Teleanu M, Hübschmann D, Morris L, Keller U, Glimm H, Fröhling S, Ochsenreither S, Keilholz U, **Blanc E**, **Beule D**, Rieke D (2024).
-“Integrative analysis reveals a macrophage-predominant, immunosuppressive immune microenvironment and subtype-specific therapeutic vulnerabilities in
-advanced salivary gland cancer.” _medRxiv_, 2024-06. doi:10.1101/2024.06.11.24308538  [☞ Link](https://www.medrxiv.org/content/10.1101/2024.06.11.24308538v2)
-
 Yerinde C, Keye J, Durlanik S, Freise I, Nowak F, Hsiao H, Letizia M, Schlickeiser S, **Obermayer B**, Huck A, Friedrich M, Wu H, Kunkel D, Kühl AA, Bauer
 S, Thiel A, Siegmund B, Glauben R, Weidinger C (2022). “HDAC7 controls anti-viral and anti-tumor immunity by CD8+ T cells.” _bioRxiv_.
 doi:10.1101/2022.09.18.508452  [☞ Link](https://www.biorxiv.org/content/early/2022/09/19/2022.09.18.508452)
-
-Winkler W, Díaz C, **Blanc E**, Napieczynska H (2021). “Preclinical models of human multiple myeloma subgroups.” _bioRxiv_. doi:10.1101/2021.08.28.458010
- [☞ Link](https://www.biorxiv.org/content/10.1101/2021.08.28.458010.abstract)
 
 Göppel T, **Obermayer B**, Chen I, Gerland U (2021). “A kinetic error filtering mechanism for enzyme-free copying of nucleic acid sequences.” _bioRxiv_.
 doi:10.1101/2021.08.06.455386  [☞ Link](https://www.biorxiv.org/content/10.1101/2021.08.06.455386.abstract)
@@ -68,16 +60,16 @@ Hecker J, **Milek M**, Haag LM, Freise I, **Obermayer B**, **Beule D**, Ryan R, 
 blood mononuclear cells of ulcerative colitis patients treated with etrasimod.” _Journal of Crohn's and Colitis_, *20*(Supplement\_1), jjaf231.1019.
 doi:10.1093/ecco-jcc/jjaf231.1019  [☞ Link](https://academic.oup.com/ecco-jcc/article/20/Supplement_1/jjaf231.1019)
 
-D'ıaz CF, Kabrani E, Winkler W, **Blanc E**, Wollert-Wulf B, Salomon C, Wunderlich FT, **Beule D**, Janz M, Rajewsky K (2026). “FOXO1 re-expression with a
-dual-recombinase allele rescues class switching in germinal center B cells.” _J. Exp. Med._, *223*(3).
+Farré Díaz C, Kabrani E, Winkler W, **Blanc E**, Wollert-Wulf B, Salomon C, Wunderlich FT, **Beule D**, Janz M, Rajewsky K (2026). “FOXO1 re-expression with a
+dual-recombinase allele rescues class switching in germinal center B cells.” _J. Exp. Med._, *223*(3).  [☞ Link](https://pubmed.ncbi.nlm.nih.gov/41474973/)
 
 
 ### 2025
 
 
-Foddis M, Blumenau S, Mueller S, **Messerschmidt C**, Rocca C, Pagnamenta AT, Winek K, Endres M, Meisel A, Tucci A, Bras J, Guerreiro R, **Beule D**, Dirnagl U
-(2025). “Ide Copy Number Variant Does Not Influence Stroke Severity in 2 C57BL/6J Mouse Models nor in Humans: An Exploratory Study.” _Stroke_, *56*(3),
-725-736. doi:10.1161/STROKEAHA.124.049575  [☞ Link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.124.049575)
+Herzberg C, Schiele P, Walter A, Hamm F, **Obermayer B**, Kath J, Busch D, Stroux A, Frick M, Penack O, Damm F, Wagner D, Polansky J, Bullinger L, Künkele
+A, Frentsch M, Na I (2025). “Prior chemotherapy deteriorates T-cell quality for CAR T-cell therapy in B-cell non-Hodgkin’s lymphoma.” _Journal for
+immunotherapy of cancer_, *13*(4), e010709.
 
 Foddis M, Blumenau S, Mueller S, **Messerschmidt C**, Rocca C, Pagnamenta AT, Winek K, Endres M, Meisel A, Tucci A, Bras J, Guerreiro R, **Beule D**, Dirnagl U
 (2025). “Ide Copy Number Variant Does Not Influence Stroke Severity in 2 C57BL/6J Mouse Models nor in Humans: An Exploratory Study.” _Stroke_, *56*(3),
@@ -87,7 +79,7 @@ Luo Y, He J, Vallone VF, Hu M, **Blanc E**, Frischbutter S, Stachelscheid H, **B
 iPSC: a novel cell-based model for mastocytosis.” _Experimental Dermatology_, *34*(3 Suppl.), P013. Abstract presented at the 51st Annual Meeting of the
 Arbeitsgemeinschaft Dermatologische Forschung (ADF), Berlin, Germany.
 
-**Zuljan E**, Alampalli SV, **Blanc E**, Köhler B, Jackstadt R, Keller U, Stintzing S, Keilholz U, Glimm H, Fröhling S, **Beule D**, Jelas I, Rieke D, **Benary M**
+**Zuljan E**, **Alampalli SV**, **Blanc E**, Köhler B, Jackstadt R, Keller U, Stintzing S, Keilholz U, Glimm H, Fröhling S, **Beule D**, Jelas I, Rieke D, **Benary M**
 (2025). “Genomic and transcriptomic profiling of advanced early-onset colorectal cancer.” _Cancer Research_, *85*(8\_Supplement\_1), 2399-2399.
 doi:10.1158/1538-7445.AM2025-2399  [☞ Link](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/2399)
 
@@ -178,43 +170,45 @@ Weissmüller S, Heinz CC, Visser M, Bohlaender F, Ahrens K, **Beule D**, Gruber 
 Trimodulin’s Protective Role in Severe Pneumonia: Evidence from Preclinical Models.” doi:10.1183/13993003.congress-2025.OA4331
 
 
-Garc'ia CV, **Obermayer B**, Keller B, Lebedin M, Ratswohl C, Abolhassani H, Busse A, Virgilio MD, Mathas S, Speiser D, **Beule D**, Pan-Hammarstr"om Q, Warnatz
-K, de la Rosa K (2025). “Recombination junctions from antibody isotype switching classify immune and DNA repair dysfunction.” _Nature Communications_,
-*16*(1), 11331. ISSN 2041-1723, doi:10.1038/s41467-025-67206-5  [☞ Link](https://doi.org/10.1038/s41467-025-67206-5)
+Vázquez Garcìa C, **Obermayer B**, Keller B, Lebedin M, Ratswohl C, Abolhassani H, Busse A, Virgilio MD, Mathas S, Speiser D, **Beule D**, Pan-Hammarstr"om Q,
+Warnatz K, de la Rosa K (2025). “Recombination junctions from antibody isotype switching classify immune and DNA repair dysfunction.” _Nature
+Communications_, *16*(1), 11331. ISSN 2041-1723, doi:10.1038/s41467-025-67206-5  [☞ Link](https://doi.org/10.1038/s41467-025-67206-5)
 
 Sekulic A, Herr SM, Mulfaul K, Pomp"os I, Winkler S, Dietrich C, **Obermayer B**, Mullins RF, Conrad T, Zipfel PF, Sennlaub F, Skerka C, Strauß O (2025).
 “Factor-H-related protein 1 (FHR1), a promotor of para-inflammation in age-related macular degeneration.” _Journal of Neuroinflammation_, *22*(1), 173.
 ISSN 1742-2094, doi:10.1186/s12974-025-03499-z  [☞ Link](https://doi.org/10.1186/s12974-025-03499-z)
 
-Junkuhn C, Schiele P, Walter AL, Hamm F, **Obermayer B**, Kath J, Busch D, Stroux A, Frick M, Penack O, Damm F, Wagner DL, Polansky J, Bullinger L, K"unkele
-A, Frentsch M, Na I (2025). “Prior chemotherapy deteriorates T-cell quality for CAR T-cell therapy in B-cell non-Hodgkin's lymphoma.” _Journal for
-ImmunoTherapy of Cancer_, *13*(4), e010709. doi:10.1136/jitc-2024-010709  [☞ Link](https://doi.org/10.1136/jitc-2024-010709)
-
-Ihlow J, Penter L, Vuong LG, Bischoff P, **Obermayer B**, Trinks A, Blau O, Behnke A, Conrad T, Morkel M, Wu CJ, Westermann J, Bullinger L, von Br"unneck A,
-Bl"uthgen N, Horst D, Praktiknjo SD (2025). “Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm via targeted single-cell
+Ihlow J, Penter L, Vuong LG, Bischoff P, **Obermayer B**, Trinks A, Blau O, Behnke A, Conrad T, Morkel M, Wu CJ, Westermann J, Bullinger L, von Brünneck A,
+Blüthgen N, Horst D, Praktiknjo SD (2025). “Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm via targeted single-cell
 mutational profiling.” _Med_, *6*(4). ISSN 2666-6359, doi:10.1016/j.medj.2024.11.001  [☞ Link](https://doi.org/10.1016/j.medj.2024.11.001)
 
-Baumgardt M, **Obermayer B**, Bal'azs A, L"owa A, Wyler E, Alves LGT, Hellwig K, **Beule D**, Landthaler M, M"uller MA, Drosten C, Mall MA, Hippenstiel S,
+Baumgardt M, **Obermayer B**, Bal'azs A, L"owa A, Wyler E, Alves LGT, Hellwig K, **Beule D**, Landthaler M, Müller MA, Drosten C, Mall MA, Hippenstiel S,
 H"onzke K, Hocke AC (2025). “SARS-CoV-2 Infection of Human Lung Air-Liquid Interface Cultures Reveals Basal Cells as Relevant Targets.” _The Journal of
 Infectious Diseases_, *231*(5), 1210-1220. ISSN 0022-1899, doi:10.1093/infdis/jiaf125  [☞ Link](https://doi.org/10.1093/infdis/jiaf125)
 
-Westphalen C, Bielo L, Aftimos P, Beltran H, **Benary M**, Chakravarty D, Collienne M, Dienstmann R, Helali A, Gainor J, Horak P, Tourneau C, Marchiò C,
-Massard C, Meric-Bernstam F, Pauli C, Pruneri G, Roitberg F, Russnes H, Solit D, Starling N, Subbiah V, Tamborero D, Tarazona N, Turnbull C, de Haar J,
-André F, Mateo J, Curigliano G (2025). “ESMO Precision Oncology Working Group recommendations on the structure and quality indicators for molecular
-tumour boards in clinical practice.” _Annals of Oncology_. ISSN 0923-7534, doi:10.1016/j.annonc.2025.02.009
+Westphalen C, Boscolo Bielo L, Aftimos P, Beltran H, **Benary M**, Chakravarty D, Collienne M, Dienstmann R, El Helali A, Gainor J, Horak P, Le Tourneau C,
+Marchiò C, Massard C, Meric-Bernstam F, Pauli C, Pruneri G, Roitberg F, Russnes H, Solit D, Starling N, Subbiah V, Tamborero D, Tarazona N, Turnbull C,
+van de Haar J, André F, Mateo J, Curigliano G (2025). “ESMO Precision Oncology Working Group recommendations on the structure and quality indicators for
+molecular tumour boards in clinical practice.” _Annals of Oncology_. ISSN 0923-7534, doi:10.1016/j.annonc.2025.02.009
  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0923753425000808)
 
 Matera A, Compagnion A, Pedicone C, Kotah JM, **Ivanov A**, Monsorno K, Labouèbe G, Leggio L, Pereira-Iglesias M, **Beule D**, others (2025). “Microglial lipid
 phosphatase SHIP1 limits complement-mediated synaptic pruning in the healthy developing hippocampus.” _Immunity_, *58*(1), 197-217.
 
-Ihlow J, Penter L, Vuong LG, Bischoff P, **Obermayer B**, Trinks A, Blau O, Behnke A, Conrad T, Morkel M, others (2025). “Diagnosing recipient-vs.
-donor-derived posttransplant myelodysplastic neoplasm via targeted single-cell mutational profiling.” _Med_, *6*(4).
+Horn V, Cancino CA, Steinheuer LM, **Obermayer B**, Fritz K, Nguyen AL, Juhran KS, Plattner C, Bösel D, Oldenburg L, Burns M, Schulz AR, Saliutina M,
+Mantzivi E, Lissner D, Conrad T, Mashreghi M, Zundler S, Sonnenberg E, Schumann M, Haag L, **Beule D**, Flatz L, Atreya I, Atreya R, Bacher P, Becker C,
+Bojarski C, Britzen-Laurent N, Bosch-Voskens C, Chang H, Diefenbach A, Günther C, Hegazy AN, Hildner K, Klose CS, Koop K, Krug S, Kühl AA, Leppkes M,
+López-Posadas R, Ludwig LS, Neufert C, Neurath M, Patankar J, Prüß M, Radbruch A, Romagnani C, Ronchi F, Sanders A, Scheffold A, Schulzke J, Schumann M,
+Schürmann S, Siegmund B, Stürzl M, Trajanoski Z, Triantafyllopoulou A, Waldner M, Weidinger C, Wirtz S, Zundler S, Trjanoski Z, D’Haens G, Weidinger C,
+Mei HE, Siegmund B, Thurley K, Hegazy AN (2025). “Multimodal Profiling of Peripheral Blood Identifies Proliferating Circulating Effector CD4+ T Cells as
+Predictors for Response to Integrin α4β7–Blocking Therapy in Inflammatory Bowel Disease.” _Gastroenterology_. ISSN 0016-5085,
+doi:10.1053/j.gastro.2024.09.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0016508524055276)
 
 
 ### 2024
 
 
-Steinbrecht D, Minia I, **Milek M**, Meisig J, Bl"uthgen N, Landthaler M (2024). “Subcellular mRNA kinetic modeling reveals nuclear retention as
+Steinbrecht D, Minia I, **Milek M**, Meisig J, Blüthgen N, Landthaler M (2024). “Subcellular mRNA kinetic modeling reveals nuclear retention as
 rate-limiting.” _Molecular Systems Biology_, *20*(12), 1346-1371.
 
 Burkert M, **Blanc E**, Thiessen N, Weber C, Toedling J, Monti R, Dombrowe VM, de Biase MS, Kaufmann TL, Haase K, Waszak S, Eggert A, **Beule D**, Schulte J,
@@ -248,20 +242,11 @@ Marot-Lassauzaie V, Beneyto-Calabuig S, **Obermayer B**, Velten L, **Beule D**, 
 variants in scRNA-seq data.” _Bioinformatics_, *40*(9), btae512. ISSN 1367-4811, doi:10.1093/bioinformatics/btae512
  [☞ Link](https://doi.org/10.1093/bioinformatics/btae512)
 
-Horn V, Cancino CA, Steinheuer LM, **Obermayer B**, Fritz K, Nguyen AL, Juhran KS, Plattner C, Bösel D, Oldenburg L, Burns M, Schulz AR, Saliutina M,
-Mantzivi E, Lissner D, Conrad T, Mashreghi M, Zundler S, Sonnenberg E, Schumann M, Haag L, **Beule D**, Flatz L, Atreya I, Atreya R, Bacher P, Becker C,
-Bojarski C, Britzen-Laurent N, Bosch-Voskens C, Chang H, Diefenbach A, Günther C, Hegazy AN, Hildner K, Klose CS, Koop K, Krug S, Kühl AA, Leppkes M,
-López-Posadas R, Ludwig LS, Neufert C, Neurath M, Patankar J, Prüß M, Radbruch A, Romagnani C, Ronchi F, Sanders A, Scheffold A, Schulzke J, Schumann M,
-Schürmann S, Siegmund B, Stürzl M, Trajanoski Z, Triantafyllopoulou A, Waldner M, Weidinger C, Wirtz S, Zundler S, Trjanoski Z, D’Haens G, Weidinger C,
-Mei HE, Siegmund B, Thurley K, Hegazy AN (2024). “Multimodal Profiling of Peripheral Blood Identifies Proliferating Circulating Effector CD4+ T Cells as
-Predictors for Response to Integrin α4β7–Blocking Therapy in Inflammatory Bowel Disease.” _Gastroenterology_. ISSN 0016-5085,
-doi:10.1053/j.gastro.2024.09.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0016508524055276)
-
 Menzel M, Martis-Thiele M, Goldschmid H, Ott A, Romanovsky E, Siemanowski-Hrach J, Seillier L, Brüchle NO, Maurer A, Lehmann K, Begemann M, Elbracht M,
 Meyer R, Dintner S, Claus R, Meier-Kolthoff JP, **Blanc E**, Möbs M, Joosten M, **Benary M**, Basitta P, Hölscher F, Tischler V, Groß T, Kutz O, Prause R,
 William D, Horny K, Goering W, Sivalingam S, Borkhardt A, Blank C, Junk SV, Yasin L, Moskalev EA, Carta MG, Ferrazzi F, Tögel L, Wolter S, Adam E,
 Matysiak U, Rosenthal T, Dönitz J, Lehmann U, Schmidt G, Bartels S, Hofmann W, Hirsch S, Dikow N, Göbel K, Banan R, Hamelmann S, Fink A, Ball M, Neumann
-O, Rehker J, Kloth M, Murtagh J, Hartmann N, Jurmeister P, Mock A, Kumbrink J, Jung A, Mayr E, Jacob A, Trautmann M, Kirmse S, Falkenberg K, Ruckert C,
+O, Rehker J, Kloth M, Murtagh J, **Hartmann N**, Jurmeister P, Mock A, Kumbrink J, Jung A, Mayr E, Jacob A, Trautmann M, Kirmse S, Falkenberg K, Ruckert C,
 Hirsch D, Immel A, Dietmaier W, Haack T, Marienfeld R, Fürstberger A, Niewöhner J, Gerstenmaier U, Eberhardt T, Greif PA, Appenzeller S, Maurus K, Doll
 J, Jelting Y, Jonigk D, Märkl B, **Beule D**, Horst D, Wulf A, Aust D, Werner M, Reuter-Jessen K, Ströbel P, Auber B, Sahm F, Merkelbach-Bruse S, Siebolts
 U, Roth W, Lassmann S, Klauschen F, Gaisa NT, Weichert W, Evert M, Armeanu-Ebinger S, Ossowski S, Schroeder C, Schaaf CP, Malek N, Schirmacher P, Kazdal
@@ -330,11 +315,10 @@ Hramyka D, Sczakiel HL, Zhao MX, **Stolpe O**, **Nieminen M**, Adam R, Danyel M,
 Mensah MA, Boschann F, **Beule D**, **Holtgrewe M** (2024). “REEV: review, evaluate and explain variants.” _Nucleic Acids Research_, gkae366.
 doi:10.1093/nar/gkae366  [☞ Link](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae366/7676836)
 
-Ramberger E, Sapozhnikova V, Ng YLD, Dolnik A, Ziehm M, Popp O, Str"ang E, Kull M, Gr"unschl"ager F, Kr"uger J, **Benary M**, M"uller S, Gao X, Murgai A,
-Haji M, Schmidt A, Lutz R, Nogai A, Braune J, Laue D, Langer C, Khandanpour C, Bassermann F, D"ohner H, Engelhardt M, Straka C, Hundemer M, **Beule D**,
-Haas S, Keller U, Einsele H, Bullinger L, Knop S, Mertins P, Kr"onke J (2024). “The proteogenomic landscape of multiple myeloma reveals insights into
-disease biology and therapeutic opportunities.” _Nature Cancer_. ISSN 2662-1347, doi:10.1038/s43018-024-00784-3
- [☞ Link](https://doi.org/10.1038/s43018-024-00784-3)
+Ramberger E, Sapozhnikova V, Ng YLD, Dolnik A, Ziehm M, Popp O, Str"ang E, Kull M, Grünschl"ager F, Krüger J, **Benary M**, Müller S, Gao X, Murgai A, Haji
+M, Schmidt A, Lutz R, Nogai A, Braune J, Laue D, Langer C, Khandanpour C, Bassermann F, D"ohner H, Engelhardt M, Straka C, Hundemer M, **Beule D**, Haas S,
+Keller U, Einsele H, Bullinger L, Knop S, Mertins P, Kr"onke J (2024). “The proteogenomic landscape of multiple myeloma reveals insights into disease
+biology and therapeutic opportunities.” _Nature Cancer_. ISSN 2662-1347, doi:10.1038/s43018-024-00784-3  [☞ Link](https://doi.org/10.1038/s43018-024-00784-3)
 
 Habringer S, Ihlow J, Kleo K, Klostermann A, Schmidt M, Chai L, Knödler M, Leyvraz S, Sigler C, Sinn B, Maschmeyer G, Jegodka Y, **Benary M**, Ott C,
 Tinhofer I, Schäfer R, Möbs M, Keller U, Keilholz U, Rieke DT (2024). “A diagnostic challenge of KIT p.V559D and BRAF p.G469A mutations in a paragastric
@@ -494,7 +478,7 @@ Baumgardt M, Hülsemann M, Löwa A, Fatykhova D, Hoffmann K, Kessler M, Mieth M,
 Gruber AD, Tölch U, Hippenstiel S, Hocke AC, Hönzke K (2022). “State-of-the-art analytical methods of viral infections in human lung organoids.” _PLOS
 ONE_, *17*(12), 1-8. doi:10.1371/journal.pone.0276115  [☞ Link](https://doi.org/10.1371/journal.pone.0276115)
 
-Pennitz P, Kirsten H, Friedrich VD, Wyler E, Goekeri C, **Obermayer B**, Heinz GA, Mashreghi M, B"uttner M, Trimpert J, Landthaler M, Suttorp N, Hocke AC,
+Pennitz P, Kirsten H, Friedrich VD, Wyler E, Goekeri C, **Obermayer B**, Heinz GA, Mashreghi M, Büttner M, Trimpert J, Landthaler M, Suttorp N, Hocke AC,
 Hippenstiel S, T"onnies M, Scholz M, Kuebler WM, Witzenrath M, Hoenzke K, Nouailles G (2022). “A pulmonologist's guide to perform and analyse
 cross-species single lung cell transcriptomics.” _European Respiratory Review_, *31*(165). ISSN 0905-9180, doi:10.1183/16000617.0056-2022
  [☞ Link](https://err.ersjournals.com/content/31/165/220056)
@@ -549,7 +533,7 @@ Griffith O, Chakravarty D, Sonkin D (2022). “Standards for the classification 
 recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC).”
 _Genet Med_, *24*, 986-998. doi:10.1016/j.gim.2022.01.001  [☞ Link](https://doi.org/10.1016/j.gim.2022.01.001)
 
-**Weiner J**, **Obermayer B**, **Beule D** (2022). “Venn Diagrams May Indicate Erroneous Statistical Reasoning in Transcriptomics.” _Front Genet_, *13*, 818683.
+**Weiner J**, **Obermayer B**, **Beule D** (2022). “Venn Diagrams **May Indicate Erroneous Statistical Reasoning in Transcriptomics**.” _Front Genet_, *13*, 818683.
 doi:10.3389/fgene.2022.818683  [☞ Link](https://doi.org/10.3389/fgene.2022.818683)
 
 Gloaguen Y, Kirwan J, **Beule D** (2022). “Deep Learning-Assisted Peak Curation for Large-Scale LC-MS Metabolomics.” _Anal Chem_, *94*, 4930-4937.
@@ -607,7 +591,7 @@ Seidel F, Laser K, Klingel K, Dartsch J, Theisen S, Pickardt T, **Holtgrewe M**,
 (2022). “Pathogenic Variants in Cardiomyopathy Disorder Genes Underlie Pediatric Myocarditis-Further Impact of Heterozygous Immune Disorder Gene
 Variants?” _J Cardiovasc Dev Dis_, *9*(7), 216. doi:10.3390/jcdd9070216  [☞ Link](https://doi.org/10.3390/jcdd9070216)
 
-May V, Koch L, Fischer-Zirnsak B, Horn D, Gehle P, Kornak U, **Beule D**, **Holtgrewe M** (2022). “ClearCNV: CNV calling from NGS panel data in the presence of
+**May V**, Koch L, Fischer-Zirnsak B, Horn D, Gehle P, Kornak U, **Beule D**, **Holtgrewe M** (2022). “ClearCNV: CNV calling from NGS panel data in the presence of
 ambiguity and noise.” _Bioinformatics_, *38*(16), 3871-3876. doi:10.1093/bioinformatics/btac418  [☞ Link](https://doi.org/10.1093/bioinformatics/btac418)
 
 Schöpflin R, Melo U, Moeinzadeh H, Heller D, Laupert V, Hertzberg J, **Holtgrewe M**, Alavi N, Klever M, Jungnitsch J, Comak E, Türkmen S, Horn D, Duffourd

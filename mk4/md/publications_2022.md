@@ -7,7 +7,7 @@ Baumgardt M, Hülsemann M, Löwa A, Fatykhova D, Hoffmann K, Kessler M, Mieth M,
 Gruber AD, Tölch U, Hippenstiel S, Hocke AC, Hönzke K (2022). “State-of-the-art analytical methods of viral infections in human lung organoids.” _PLOS
 ONE_, *17*(12), 1-8. doi:10.1371/journal.pone.0276115  [☞ Link](https://doi.org/10.1371/journal.pone.0276115)
 
-Pennitz P, Kirsten H, Friedrich VD, Wyler E, Goekeri C, **Obermayer B**, Heinz GA, Mashreghi M, B"uttner M, Trimpert J, Landthaler M, Suttorp N, Hocke AC,
+Pennitz P, Kirsten H, Friedrich VD, Wyler E, Goekeri C, **Obermayer B**, Heinz GA, Mashreghi M, Büttner M, Trimpert J, Landthaler M, Suttorp N, Hocke AC,
 Hippenstiel S, T"onnies M, Scholz M, Kuebler WM, Witzenrath M, Hoenzke K, Nouailles G (2022). “A pulmonologist's guide to perform and analyse
 cross-species single lung cell transcriptomics.” _European Respiratory Review_, *31*(165). ISSN 0905-9180, doi:10.1183/16000617.0056-2022
  [☞ Link](https://err.ersjournals.com/content/31/165/220056)
@@ -62,7 +62,7 @@ Griffith O, Chakravarty D, Sonkin D (2022). “Standards for the classification 
 recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC).”
 _Genet Med_, *24*, 986-998. doi:10.1016/j.gim.2022.01.001  [☞ Link](https://doi.org/10.1016/j.gim.2022.01.001)
 
-**Weiner J**, **Obermayer B**, **Beule D** (2022). “Venn Diagrams May Indicate Erroneous Statistical Reasoning in Transcriptomics.” _Front Genet_, *13*, 818683.
+**Weiner J**, **Obermayer B**, **Beule D** (2022). “Venn Diagrams **May Indicate Erroneous Statistical Reasoning in Transcriptomics**.” _Front Genet_, *13*, 818683.
 doi:10.3389/fgene.2022.818683  [☞ Link](https://doi.org/10.3389/fgene.2022.818683)
 
 Gloaguen Y, Kirwan J, **Beule D** (2022). “Deep Learning-Assisted Peak Curation for Large-Scale LC-MS Metabolomics.” _Anal Chem_, *94*, 4930-4937.
@@ -120,7 +120,7 @@ Seidel F, Laser K, Klingel K, Dartsch J, Theisen S, Pickardt T, **Holtgrewe M**,
 (2022). “Pathogenic Variants in Cardiomyopathy Disorder Genes Underlie Pediatric Myocarditis-Further Impact of Heterozygous Immune Disorder Gene
 Variants?” _J Cardiovasc Dev Dis_, *9*(7), 216. doi:10.3390/jcdd9070216  [☞ Link](https://doi.org/10.3390/jcdd9070216)
 
-May V, Koch L, Fischer-Zirnsak B, Horn D, Gehle P, Kornak U, **Beule D**, **Holtgrewe M** (2022). “ClearCNV: CNV calling from NGS panel data in the presence of
+**May V**, Koch L, Fischer-Zirnsak B, Horn D, Gehle P, Kornak U, **Beule D**, **Holtgrewe M** (2022). “ClearCNV: CNV calling from NGS panel data in the presence of
 ambiguity and noise.” _Bioinformatics_, *38*(16), 3871-3876. doi:10.1093/bioinformatics/btac418  [☞ Link](https://doi.org/10.1093/bioinformatics/btac418)
 
 Schöpflin R, Melo U, Moeinzadeh H, Heller D, Laupert V, Hertzberg J, **Holtgrewe M**, Alavi N, Klever M, Jungnitsch J, Comak E, Türkmen S, Horn D, Duffourd

@@ -1,6 +1,6 @@
-Foddis M, Blumenau S, Mueller S, **Messerschmidt C**, Rocca C, Pagnamenta AT, Winek K, Endres M, Meisel A, Tucci A, Bras J, Guerreiro R, **Beule D**, Dirnagl U
-(2025). “Ide Copy Number Variant Does Not Influence Stroke Severity in 2 C57BL/6J Mouse Models nor in Humans: An Exploratory Study.” _Stroke_, *56*(3),
-725-736. doi:10.1161/STROKEAHA.124.049575  [☞ Link](https://www.ahajournals.org/doi/10.1161/STROKEAHA.124.049575)
+Herzberg C, Schiele P, Walter A, Hamm F, **Obermayer B**, Kath J, Busch D, Stroux A, Frick M, Penack O, Damm F, Wagner D, Polansky J, Bullinger L, Künkele
+A, Frentsch M, Na I (2025). “Prior chemotherapy deteriorates T-cell quality for CAR T-cell therapy in B-cell non-Hodgkin’s lymphoma.” _Journal for
+immunotherapy of cancer_, *13*(4), e010709.
 
 Foddis M, Blumenau S, Mueller S, **Messerschmidt C**, Rocca C, Pagnamenta AT, Winek K, Endres M, Meisel A, Tucci A, Bras J, Guerreiro R, **Beule D**, Dirnagl U
 (2025). “Ide Copy Number Variant Does Not Influence Stroke Severity in 2 C57BL/6J Mouse Models nor in Humans: An Exploratory Study.” _Stroke_, *56*(3),
@@ -10,7 +10,7 @@ Luo Y, He J, Vallone VF, Hu M, **Blanc E**, Frischbutter S, Stachelscheid H, **B
 iPSC: a novel cell-based model for mastocytosis.” _Experimental Dermatology_, *34*(3 Suppl.), P013. Abstract presented at the 51st Annual Meeting of the
 Arbeitsgemeinschaft Dermatologische Forschung (ADF), Berlin, Germany.
 
-**Zuljan E**, Alampalli SV, **Blanc E**, Köhler B, Jackstadt R, Keller U, Stintzing S, Keilholz U, Glimm H, Fröhling S, **Beule D**, Jelas I, Rieke D, **Benary M**
+**Zuljan E**, **Alampalli SV**, **Blanc E**, Köhler B, Jackstadt R, Keller U, Stintzing S, Keilholz U, Glimm H, Fröhling S, **Beule D**, Jelas I, Rieke D, **Benary M**
 (2025). “Genomic and transcriptomic profiling of advanced early-onset colorectal cancer.” _Cancer Research_, *85*(8\_Supplement\_1), 2399-2399.
 doi:10.1158/1538-7445.AM2025-2399  [☞ Link](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/2399)
 
@@ -101,34 +101,36 @@ Weissmüller S, Heinz CC, Visser M, Bohlaender F, Ahrens K, **Beule D**, Gruber 
 Trimodulin’s Protective Role in Severe Pneumonia: Evidence from Preclinical Models.” doi:10.1183/13993003.congress-2025.OA4331
 
 
-Garc'ia CV, **Obermayer B**, Keller B, Lebedin M, Ratswohl C, Abolhassani H, Busse A, Virgilio MD, Mathas S, Speiser D, **Beule D**, Pan-Hammarstr"om Q, Warnatz
-K, de la Rosa K (2025). “Recombination junctions from antibody isotype switching classify immune and DNA repair dysfunction.” _Nature Communications_,
-*16*(1), 11331. ISSN 2041-1723, doi:10.1038/s41467-025-67206-5  [☞ Link](https://doi.org/10.1038/s41467-025-67206-5)
+Vázquez Garcìa C, **Obermayer B**, Keller B, Lebedin M, Ratswohl C, Abolhassani H, Busse A, Virgilio MD, Mathas S, Speiser D, **Beule D**, Pan-Hammarstr"om Q,
+Warnatz K, de la Rosa K (2025). “Recombination junctions from antibody isotype switching classify immune and DNA repair dysfunction.” _Nature
+Communications_, *16*(1), 11331. ISSN 2041-1723, doi:10.1038/s41467-025-67206-5  [☞ Link](https://doi.org/10.1038/s41467-025-67206-5)
 
 Sekulic A, Herr SM, Mulfaul K, Pomp"os I, Winkler S, Dietrich C, **Obermayer B**, Mullins RF, Conrad T, Zipfel PF, Sennlaub F, Skerka C, Strauß O (2025).
 “Factor-H-related protein 1 (FHR1), a promotor of para-inflammation in age-related macular degeneration.” _Journal of Neuroinflammation_, *22*(1), 173.
 ISSN 1742-2094, doi:10.1186/s12974-025-03499-z  [☞ Link](https://doi.org/10.1186/s12974-025-03499-z)
 
-Junkuhn C, Schiele P, Walter AL, Hamm F, **Obermayer B**, Kath J, Busch D, Stroux A, Frick M, Penack O, Damm F, Wagner DL, Polansky J, Bullinger L, K"unkele
-A, Frentsch M, Na I (2025). “Prior chemotherapy deteriorates T-cell quality for CAR T-cell therapy in B-cell non-Hodgkin's lymphoma.” _Journal for
-ImmunoTherapy of Cancer_, *13*(4), e010709. doi:10.1136/jitc-2024-010709  [☞ Link](https://doi.org/10.1136/jitc-2024-010709)
-
-Ihlow J, Penter L, Vuong LG, Bischoff P, **Obermayer B**, Trinks A, Blau O, Behnke A, Conrad T, Morkel M, Wu CJ, Westermann J, Bullinger L, von Br"unneck A,
-Bl"uthgen N, Horst D, Praktiknjo SD (2025). “Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm via targeted single-cell
+Ihlow J, Penter L, Vuong LG, Bischoff P, **Obermayer B**, Trinks A, Blau O, Behnke A, Conrad T, Morkel M, Wu CJ, Westermann J, Bullinger L, von Brünneck A,
+Blüthgen N, Horst D, Praktiknjo SD (2025). “Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm via targeted single-cell
 mutational profiling.” _Med_, *6*(4). ISSN 2666-6359, doi:10.1016/j.medj.2024.11.001  [☞ Link](https://doi.org/10.1016/j.medj.2024.11.001)
 
-Baumgardt M, **Obermayer B**, Bal'azs A, L"owa A, Wyler E, Alves LGT, Hellwig K, **Beule D**, Landthaler M, M"uller MA, Drosten C, Mall MA, Hippenstiel S,
+Baumgardt M, **Obermayer B**, Bal'azs A, L"owa A, Wyler E, Alves LGT, Hellwig K, **Beule D**, Landthaler M, Müller MA, Drosten C, Mall MA, Hippenstiel S,
 H"onzke K, Hocke AC (2025). “SARS-CoV-2 Infection of Human Lung Air-Liquid Interface Cultures Reveals Basal Cells as Relevant Targets.” _The Journal of
 Infectious Diseases_, *231*(5), 1210-1220. ISSN 0022-1899, doi:10.1093/infdis/jiaf125  [☞ Link](https://doi.org/10.1093/infdis/jiaf125)
 
-Westphalen C, Bielo L, Aftimos P, Beltran H, **Benary M**, Chakravarty D, Collienne M, Dienstmann R, Helali A, Gainor J, Horak P, Tourneau C, Marchiò C,
-Massard C, Meric-Bernstam F, Pauli C, Pruneri G, Roitberg F, Russnes H, Solit D, Starling N, Subbiah V, Tamborero D, Tarazona N, Turnbull C, de Haar J,
-André F, Mateo J, Curigliano G (2025). “ESMO Precision Oncology Working Group recommendations on the structure and quality indicators for molecular
-tumour boards in clinical practice.” _Annals of Oncology_. ISSN 0923-7534, doi:10.1016/j.annonc.2025.02.009
+Westphalen C, Boscolo Bielo L, Aftimos P, Beltran H, **Benary M**, Chakravarty D, Collienne M, Dienstmann R, El Helali A, Gainor J, Horak P, Le Tourneau C,
+Marchiò C, Massard C, Meric-Bernstam F, Pauli C, Pruneri G, Roitberg F, Russnes H, Solit D, Starling N, Subbiah V, Tamborero D, Tarazona N, Turnbull C,
+van de Haar J, André F, Mateo J, Curigliano G (2025). “ESMO Precision Oncology Working Group recommendations on the structure and quality indicators for
+molecular tumour boards in clinical practice.” _Annals of Oncology_. ISSN 0923-7534, doi:10.1016/j.annonc.2025.02.009
  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0923753425000808)
 
 Matera A, Compagnion A, Pedicone C, Kotah JM, **Ivanov A**, Monsorno K, Labouèbe G, Leggio L, Pereira-Iglesias M, **Beule D**, others (2025). “Microglial lipid
 phosphatase SHIP1 limits complement-mediated synaptic pruning in the healthy developing hippocampus.” _Immunity_, *58*(1), 197-217.
 
-Ihlow J, Penter L, Vuong LG, Bischoff P, **Obermayer B**, Trinks A, Blau O, Behnke A, Conrad T, Morkel M, others (2025). “Diagnosing recipient-vs.
-donor-derived posttransplant myelodysplastic neoplasm via targeted single-cell mutational profiling.” _Med_, *6*(4).
+Horn V, Cancino CA, Steinheuer LM, **Obermayer B**, Fritz K, Nguyen AL, Juhran KS, Plattner C, Bösel D, Oldenburg L, Burns M, Schulz AR, Saliutina M,
+Mantzivi E, Lissner D, Conrad T, Mashreghi M, Zundler S, Sonnenberg E, Schumann M, Haag L, **Beule D**, Flatz L, Atreya I, Atreya R, Bacher P, Becker C,
+Bojarski C, Britzen-Laurent N, Bosch-Voskens C, Chang H, Diefenbach A, Günther C, Hegazy AN, Hildner K, Klose CS, Koop K, Krug S, Kühl AA, Leppkes M,
+López-Posadas R, Ludwig LS, Neufert C, Neurath M, Patankar J, Prüß M, Radbruch A, Romagnani C, Ronchi F, Sanders A, Scheffold A, Schulzke J, Schumann M,
+Schürmann S, Siegmund B, Stürzl M, Trajanoski Z, Triantafyllopoulou A, Waldner M, Weidinger C, Wirtz S, Zundler S, Trjanoski Z, D’Haens G, Weidinger C,
+Mei HE, Siegmund B, Thurley K, Hegazy AN (2025). “Multimodal Profiling of Peripheral Blood Identifies Proliferating Circulating Effector CD4+ T Cells as
+Predictors for Response to Integrin α4β7–Blocking Therapy in Inflammatory Bowel Disease.” _Gastroenterology_. ISSN 0016-5085,
+doi:10.1053/j.gastro.2024.09.021  [☞ Link](https://www.sciencedirect.com/science/article/pii/S0016508524055276)

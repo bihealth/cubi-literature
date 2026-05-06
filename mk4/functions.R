@@ -53,15 +53,20 @@ find_entrez <- function(b) {
 
 cubi_authors <- read.table(text="
 ivanov
+alampalli
 bentele
 blanc
 benary
 messerschmidt
+hartmann
+kügelgen
+von~kügelgen
 grammatikaki
 obermayer
 holtgrewe
 zuljan
 nieminen
+may
 milek
 weiner
 beule
